@@ -19,5 +19,8 @@
 
 已購入：
 
-2017-05-01：人民郵電．Mahesh Venkitachalam - Python極客項目編程（[9787115449764](https://book.douban.com/subject/27050630/)）
+* 2018-01-01：電子工業．劉凱 - 從芯片到雲端：Python 物聯網全棧開發實踐（[9787121311277](https://book.douban.com/subject/27176648/)）
+* 2017-05-01：人民郵電．Mahesh Venkitachalam - Python極客項目編程（[9787115449764](https://book.douban.com/subject/27050630/)）
+
+
 
