@@ -15,5 +15,9 @@
 
 * Udemy - [Python 中文 學習從無到有開發音樂下載平台](https://www.udemy.com/python-web-development/)
 
+## 書籍
 
+已購入：
+
+2017-05-01：人民郵電．Mahesh Venkitachalam - Python極客項目編程（[9787115449764](https://book.douban.com/subject/27050630/)）
 
