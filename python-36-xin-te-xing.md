@@ -36,5 +36,76 @@ PEP 529: Change Windows filesystem encoding to UTF-8
 
 PEP 530: Asynchronous Comprehensions
 
+## 新模組（New Modules）
+
+secrets
+
+## 改善的模組（Improved Modules）
+
+* array
+* ast
+* asyncio
+* binascii
+* cmath
+* collections
+* concurrent.futures
+* contextlib
+* datetime
+* decimal
+* distutils
+* email
+* encodings
+* enum
+* faulthandler
+* fileinput
+* hashlib
+* http.client
+* idlelib
+* IDLE
+* importlib
+* inspect
+* json
+* logging
+* math
+* multiprocessing
+* os
+* pathlib
+* pdb
+* pickle
+* pickletools
+* pydoc
+* random
+* re
+* readline
+* rlcompleter
+* shlex
+* site
+* sqlite3
+* socket
+* socketserver
+* ssl
+* statistics
+* struct
+* subprocess
+* sys
+* telnetlib
+* time
+* timeit
+* tkinter
+* traceback
+* tracemalloc
+* typing
+* unicodedata
+* unittest.mock
+* urllib.request
+* urllib.robotparser
+* venv
+* warnings
+* winreg
+* winsound
+* xmlrpc.client
+* zipfile
+* zlib
+
 
 
