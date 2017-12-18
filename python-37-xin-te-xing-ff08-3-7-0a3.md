@@ -24,3 +24,36 @@ PEP 564: Add new time functions with nanosecond resolution
 
 無
 
+## 改善的模組（Improved Modules）
+
+* argparse
+* binascii
+* calendar
+* cgi
+* contextlib
+* cProfile
+* crypt
+* dis
+* distutils
+* http.client
+* http.server
+* locale
+* math
+* os
+* pdb
+* re
+* string
+* sys
+* time
+* unittest
+* unittest.mock
+* xmlrpc.server
+* unicodedata
+* urllib.parse
+* uu
+* warnings
+* xml.etree
+* zipapp
+
+
+
