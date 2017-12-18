@@ -6,7 +6,7 @@
 
 官網連結：[https://docs.python.org/3.7/whatsnew/3.7.html](https://docs.python.org/3.7/whatsnew/3.7.html)
 
-## 新特性
+## 新特性（New Features）
 
 PEP 538: Legacy C Locale Coercion
 
@@ -20,5 +20,7 @@ PEP 562: Customization of access to module attributes
 
 PEP 564: Add new time functions with nanosecond resolution
 
+## 新模組（New Modules）
 
+無
 
