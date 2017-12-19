@@ -27,6 +27,7 @@
 * 2016-07-01：人民郵電．Al Sweigart - Python 編程快速上手－讓繁瑣工作自動化（[9787115422699](https://book.douban.com/subject/26836700/)）
 * 2016-07-01：人民郵電．Sakis Kasampalis - 精通 Python 設計模式（[9787115428035](https://book.douban.com/subject/26829015/)）
 * 2016-05-24：博碩．何敏煌 - Python 程式設計實務－從初學到活用 Python 開發技巧的16堂課（[9789864341092](https://www.tenlong.com.tw/products/9789864341092)）
+* 2016-01-01：電子工業．TJ O'Connor - Python 絕技－運用 Python 成為頂級黑客（[9787121277139](https://book.douban.com/subject/26702570/)）
 
 
 
