@@ -23,6 +23,7 @@
 * 2017-08-24：博碩．吳燦銘 - 圖解資料結構．使用Python（[9789864342365](https://www.tenlong.com.tw/products/9789864342365)）
 * 2017-05-01：人民郵電．Mahesh Venkitachalam - Python極客項目編程（[9787115449764](https://book.douban.com/subject/27050630/)）
 * 2017-01-18：佳魁．董偉明 - 一舉兩得功力大精進：學 Python+Web 賺一個未來（[9789863794615](https://www.tenlong.com.tw/products/9789863794615)）
+* 2016-07-01：人民郵電．Al Sweigart - Python 編程快速上手－讓繁瑣工作自動化（9787115422699）
 * 2016-07-01：人民郵電．Sakis Kasampalis - 精通 Python 設計模式（[9787115428035](https://book.douban.com/subject/26829015/)）
 * 2016-05-24：博碩．何敏煌 - Python 程式設計實務－從初學到活用 Python 開發技巧的16堂課（[9789864341092](https://www.tenlong.com.tw/products/9789864341092)）
 
