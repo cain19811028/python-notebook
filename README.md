@@ -10,6 +10,7 @@
 
 * Udemy - [Python 高級課程 - 如何創建/發佈/維護/參與 Opensource Software](https://www.udemy.com/python-awesome-tools/)
 * Udemy - [Python 完整課程 - 透過實作 6 個 APP 快速入門](https://www.udemy.com/python-6app/)
+* Udemy - [Python 爬蟲：從 0 到 1](https://www.udemy.com/python-bug)
 
 已服用：
 
