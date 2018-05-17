@@ -12,6 +12,12 @@ Install pip for Python 3
 sudo apt install python3-pip
 ```
 
+# use pip to install package or remove package
+```
+pip install scrapy
+pip uninstall scrapy
+```
+
 # Use requirements.txt
 
 產生 requirements.txt 文件
