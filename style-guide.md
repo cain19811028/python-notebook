@@ -1,6 +1,6 @@
 # Style Guide for Python Code
 
-| Release | Date |
+| Type | Style |
 | :---: | :---: |
 | Class | class ClassName\(object\): |
 | Constant | CONSTANT\_NAME = 1 |
