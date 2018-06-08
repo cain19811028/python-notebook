@@ -8,7 +8,9 @@ An open source and collaborative framework for extracting the data you need from
 
 A Powerful Spider System in Python.
 
-Crawley
+## [Crawley](http://project.crawley-cloud.com/)
+
+Crawley is Pythonic Crawling / Scraping framework intented to change the way you think about extracting data from the internet.
 
 Portia
 
