@@ -16,13 +16,15 @@ Crawley is Pythonic Crawling / Scraping framework intented to change the way you
 
 Portia lets you scrape web sites without any programming knowledge required.
 
+## [newspaper](https://github.com/codelucas/newspaper)
+
+News, full-text, and article metadata extraction in Python
+
 PyQuery
 
 Python-goose
 
 Sasila
-
-newspaper
 
 demiurge
 
