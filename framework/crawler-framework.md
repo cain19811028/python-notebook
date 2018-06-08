@@ -28,6 +28,12 @@ Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 
 Grab is a python framework for building web scrapers.
 
+## [Cola](https://github.com/chineking/cola)
+
+Cola is a high-level distributed crawling framework, used to crawl pages and extract structured data from websites.
+
+---
+
 PyQuery
 
 Python-goose
