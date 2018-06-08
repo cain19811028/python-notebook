@@ -24,6 +24,10 @@ News, full-text, and article metadata extraction in Python.
 
 Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 
+## [Grab](http://docs.grablib.org/en/latest/#)
+
+Grab is a python framework for building web scrapers.
+
 PyQuery
 
 Python-goose
@@ -31,6 +35,4 @@ Python-goose
 Sasila
 
 demiurge
-
-grab
 
