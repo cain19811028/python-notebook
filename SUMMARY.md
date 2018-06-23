@@ -1,6 +1,6 @@
 # Summary
 
-* [學習管道](README.md)
+* [學習筆記](README.md)
 * [Style Guide for Python Code](style-guide.md)
 * [pip](pip.md)
 * [SQLAlchemy](sqlalchemy.md)
