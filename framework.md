@@ -15,6 +15,7 @@
 | [flask](https://github.com/pallets/flask) | 37349 | 11030 | 2018-06-30 |
 | [django](https://github.com/django/django) | 35081 | 14921 | 2018-07-14 |
 | [tornado](https://github.com/tornadoweb/tornado) | 16172 | 4638 | 2018-07-15 |
+| [sanic](https://github.com/channelcat/sanic) | 9723 | 904 | 2018-07-17 |
 
 
 
