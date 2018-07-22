@@ -1,5 +1,16 @@
 # Framework
 
+## Web Framework
+
+[https://github.com/mingrammer/python-web-framework-stars](https://github.com/mingrammer/python-web-framework-stars)
+
+| Project Name | Stars | Forks | Last Commit |
+| :--- | :--- | :--- | :--- |
+| [flask](https://github.com/pallets/flask) | 37446 | 11043 | 2018-06-29 20:49:01 |
+| [django](https://github.com/django/django) | 35179 | 14969 | 2018-07-18 18:15:42 |
+| [tornado](https://github.com/tornadoweb/tornado) | 16195 | 4641 | 2018-07-15 22:10:03 |
+| [sanic](https://github.com/channelcat/sanic) | 9748 | 909 | 2018-07-16 19:20:26 |
+
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
@@ -7,15 +18,6 @@
 | [scrapy](https://github.com/scrapy/scrapy) | 28221 | 6952 | 2018-07-12 |
 | [pyspider](https://github.com/binux/pyspider) | 11640 | 2925 | 2018-06-15 |
 | [webmagic](https://github.com/code4craft/webmagic) | 6764 | 3147 | 2017-12-02 |
-
-## Web Framework
-
-| Project Name | Stars | Forks | Last Commit |
-| :--- | :--- | :--- | :--- |
-| [flask](https://github.com/pallets/flask) | 37349 | 11030 | 2018-06-30 |
-| [django](https://github.com/django/django) | 35081 | 14921 | 2018-07-14 |
-| [tornado](https://github.com/tornadoweb/tornado) | 16172 | 4638 | 2018-07-15 |
-| [sanic](https://github.com/channelcat/sanic) | 9723 | 904 | 2018-07-17 |
 
 
 
