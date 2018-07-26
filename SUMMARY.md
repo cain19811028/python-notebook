@@ -8,6 +8,7 @@
   * [Crawler Framework](framework/crawler-framework.md)
     * [Scrapy](framework/crawler-framework/scrapy.md)
   * [Web Framework](framework/web-framework.md)
+  * [Open Source Project](framework/open-source-project.md)
 * [Release Version](version.md)
   * [3.7](version/37.md)
   * [3.6](version/36.md)
