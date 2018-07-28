@@ -7,9 +7,9 @@
 | Project Name | Stars | Forks | Last Commit |
 | :--- | :--- | :--- | :--- |
 | [flask](https://github.com/pallets/flask) | 37621 | 11073 | 2018-07-24 18:04:58 |
-| [django](https://github.com/django/django) | 35179 | 14969 | 2018-07-18 18:15:42 |
+| [django](https://github.com/django/django) | 35334 | 15067 | 2018-07-26 20:51:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 16195 | 4641 | 2018-07-15 22:10:03 |
-| [sanic](https://github.com/channelcat/sanic) | 9748 | 909 | 2018-07-16 19:20:26 |
+| [sanic](https://github.com/channelcat/sanic) | 9820 | 911 | 2018-07-21 05:31:15 |
 
 ## Crawler Framework
 
