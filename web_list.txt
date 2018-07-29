@@ -1,4 +1,4 @@
-﻿https://github.com/django/django
+https://github.com/django/django
 https://github.com/pallets/flask
 https://github.com/tornadoweb/tornado
 https://github.com/channelcat/sanic
