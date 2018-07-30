@@ -12,6 +12,7 @@ table = '''
 '''
 tail = '\n*Update Date: {}*'
 
+md = 'framework.md'
 api = 'https://api.github.com/repos/'
 
 def main():
@@ -43,7 +44,7 @@ def load(token, title, file):
         build(title, repos)
 
 def build(title, repos):
-    with open('test.md', 'a') as f:
+    with open(md, 'a') as f:
         f.write(table.format(title))
         for repo in repos:
             f.write('| [{}]({}) | {} | {} | {} | {} |\n'.format(repo['name'],
@@ -54,11 +55,11 @@ def build(title, repos):
                                                                 datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
 
 def build_head():
-    with open('test.md', 'w') as f:
+    with open(md, 'w') as f:
         f.write(head)
 
 def build_tail():
-    with open('test.md', 'a') as f:
+    with open(md, 'a') as f:
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
 def get_token():
