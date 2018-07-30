@@ -17,11 +17,14 @@ api = 'https://api.github.com/repos/'
 
 def main():
     token = get_token()
-    with open('web_list.txt', 'r') as f:
+    load(token, 'web_list.txt')
+    
+def load(token, file):
+    with open(file, 'r') as f:
         for url in f.readlines():
             url = url.strip()
+            print(url)
             if url.startswith('https://github.com/'):
-                print(url)
                 path = '{}{}?access_token={}'.format(api, url[19:], token)
                 r = requests.get(path)
                 repo = json.loads(r.content)
@@ -36,10 +39,6 @@ def main():
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
         build(repos)
 
-def get_token():
-    with open('github_token.txt', 'r') as f:
-        return f.read().strip()
-
 def build(repos):
     with open('test.md', 'w') as f:
         f.write(head)
@@ -52,6 +51,10 @@ def build(repos):
                                                                 repo['description'],
                                                                 datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
+
+def get_token():
+    with open('github_token.txt', 'r') as f:
+        return f.read().strip()
 
 if __name__ == '__main__':
     main()
