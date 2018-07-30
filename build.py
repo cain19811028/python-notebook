@@ -12,14 +12,17 @@ table = '''
 '''
 tail = '\n*Update Date: {}*'
 
-repos = list()
 api = 'https://api.github.com/repos/'
 
 def main():
     token = get_token()
-    load(token, 'web_list.txt')
+    build_head()
+    load(token, 'Web', 'web_list.txt')
+    load(token, 'Crawler', 'crawler_list.txt')
+    build_tail()
     
-def load(token, file):
+def load(token, title, file):
+    repos = list()
     with open(file, 'r') as f:
         for url in f.readlines():
             url = url.strip()
@@ -37,12 +40,11 @@ def load(token, file):
                 repos.append(repo)
 
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
-        build(repos)
+        build(title, repos)
 
-def build(repos):
-    with open('test.md', 'w') as f:
-        f.write(head)
-        f.write(table.format('Web'))
+def build(title, repos):
+    with open('test.md', 'a') as f:
+        f.write(table.format(title))
         for repo in repos:
             f.write('| [{}]({}) | {} | {} | {} | {} |\n'.format(repo['name'],
                                                                 repo['html_url'],
@@ -50,6 +52,13 @@ def build(repos):
                                                                 repo['forks_count'],
                                                                 repo['description'],
                                                                 datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
+
+def build_head():
+    with open('test.md', 'w') as f:
+        f.write(head)
+
+def build_tail():
+    with open('test.md', 'a') as f:
         f.write(tail.format(datetime.now().strftime('%Y-%m-%dT%H:%M:%S%Z')))
 
 def get_token():
