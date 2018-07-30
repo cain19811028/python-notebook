@@ -7,8 +7,8 @@ head = '''# Framework
 table = '''
 ## {} Framework
 
-| Project Name | Stars | Forks | Description | Last Commit |
-| ------------ | ----- | ----- | ----------- | ----------- |
+| Project Name | Stars | Forks | Last Commit |
+| ------------ | ----- | ----- | ----------- |
 '''
 tail = '\n*Update Date: {}*'
 
@@ -47,12 +47,11 @@ def build(title, repos):
     with open(md, 'a') as f:
         f.write(table.format(title))
         for repo in repos:
-            f.write('| [{}]({}) | {} | {} | {} | {} |\n'.format(repo['name'],
-                                                                repo['html_url'],
-                                                                repo['stargazers_count'],
-                                                                repo['forks_count'],
-                                                                repo['description'],
-                                                                datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
+            f.write('| [{}]({}) | {} | {} | {} |\n'.format(repo['name'],
+                                                           repo['html_url'],
+                                                           repo['stargazers_count'],
+                                                           repo['forks_count'],
+                                                           datetime.strptime(repo['last_commit_date'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M:%S')))
 
 def build_head():
     with open(md, 'w') as f:
