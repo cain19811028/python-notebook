@@ -8,7 +8,6 @@
   * [Crawler Framework](framework/crawler-framework.md)
     * [Scrapy](framework/crawler-framework/scrapy.md)
   * [Web Framework](framework/web-framework.md)
-  * [Python libraries](framework/open-source-project.md)
   * [Python Libraries](framework/python-library.md)
 * [Release Version](version.md)
   * [3.7](version/37.md)
