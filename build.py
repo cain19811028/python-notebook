@@ -20,6 +20,7 @@ def main():
     build_head()
     load(token, 'Web', 'web_list.txt')
     load(token, 'Crawler', 'crawler_list.txt')
+    load(token, 'GraphQL', 'graphql_list.txt')
     build_tail()
     
 def load(token, title, file):
