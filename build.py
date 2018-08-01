@@ -2,8 +2,7 @@ from datetime import datetime
 import json
 import requests
 
-head = '''# Framework
-'''
+head = '# Framework\n'
 table = '''
 ## {} Framework
 
@@ -25,7 +24,7 @@ def main():
     
 def load(token, title, file):
     repos = list()
-    with open(file, 'r') as f:
+    with open('list/' + file, 'r') as f:
         for url in f.readlines():
             url = url.strip()
             print(url)
