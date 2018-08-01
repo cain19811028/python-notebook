@@ -1,6 +1,4 @@
-# Open Source Project
-
-## Data Science Library & Package
+# Data Science Libraries
 
 ---
 
