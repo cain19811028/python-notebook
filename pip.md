@@ -13,6 +13,7 @@ sudo apt install python3-pip
 ```
 
 # use pip to install package or remove package
+
 ```
 pip install scrapy
 pip uninstall scrapy
@@ -32,5 +33,9 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
 
+or
 
+```
+python3 -m pip install -r requirements.txt --user
+```
 
