@@ -5,10 +5,12 @@
 * [https://www.python.org/doc/](https://www.python.org/doc/)
 * [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
 
-## 非官方文件
+## 非官方資訊
 
 * [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
 * [https://github.com/jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+* [https://github.com/rosarior/awesome-django](https://github.com/rosarior/awesome-django)
+* [https://github.com/haiiiiiyun/awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn)
 
 ## 線上課程
 
