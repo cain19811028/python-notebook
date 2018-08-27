@@ -5,6 +5,11 @@
 * [https://www.python.org/doc/](https://www.python.org/doc/)
 * [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
 
+## 非官方文件
+
+* [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
+* [https://github.com/jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
 ## 線上課程
 
 學習中：
