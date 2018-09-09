@@ -29,6 +29,7 @@
 已購入：
 
 * 2018-08-22：博碩．北極星 - 遠端遙控木馬病毒程式設計：使用 Python（[9789864343256](https://www.tenlong.com.tw/products/9789864343256)）
+* 2018-07-11：  碁峰．鄧文淵 - Python 大數據特訓班：資料自動化收集、整理、分析、儲存與應用實戰（[9789864768561](https://www.tenlong.com.tw/products/9789864768561)）
 * 2018-07-01：人民郵電．楊燕琳 - Python 測試之道（[9787115479518](https://book.douban.com/subject/30283761/)）
 * 2018-06-06：佳魁．劉碩 - 比 Selenium 還強大的網路爬蟲：Scrapy 一本就精通（[9789863796619](https://www.tenlong.com.tw/products/9789863796619)）
 * 2018-05-10：旗標．趙英傑 - 超圖解 Python 物聯網實作入門- 使用 ESP8266 與 MicroPython（[9789863125235](https://www.tenlong.com.tw/products/9789863125235)）
