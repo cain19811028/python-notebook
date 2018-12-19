@@ -28,6 +28,7 @@
 
 已購入：
 
+* 2018-12-12：旗標．施威銘 - Python 技術者們 - 實踐！帶你一步一腳印由初學到精通 （[9789863125693](https://www.tenlong.com.tw/products/9789863125693)）
 * 2018-08-22：博碩．北極星 - 遠端遙控木馬病毒程式設計：使用 Python（[9789864343256](https://www.tenlong.com.tw/products/9789864343256)）
 * 2018-07-11：碁峰．鄧文淵 - Python 大數據特訓班（[9789864768561](https://www.tenlong.com.tw/products/9789864768561)）
 * 2018-07-01：人民郵電．楊燕琳 - Python 測試之道（[9787115479518](https://book.douban.com/subject/30283761/)）
