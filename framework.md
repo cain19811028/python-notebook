@@ -54,3 +54,11 @@
 | [nose2](https://github.com/nose-devs/nose2) | 523 | 118 | 2019-02-12 00:43:31 |
 
 *Update Date: 2019-02-20T22:10:27*
+## Testing Framework
+
+| Project Name | Stars | Forks | Last Commit |
+| ------------ | ----- | ----- | ----------- |
+| [pytest](https://github.com/pytest-dev/pytest) | 3692 | 923 | 2019-02-19 19:31:10 |
+| [nose2](https://github.com/nose-devs/nose2) | 523 | 118 | 2019-02-12 00:43:31 |
+
+*Update Date: 2019-02-20T22:10:30*
