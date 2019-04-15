@@ -28,6 +28,7 @@
 
 已購入：
 
+* 2019-03-29：碁峰．Al Sweigart H&C - Python 駭客密碼｜加密、解密與破解實例應用 （[9789865020804](https://www.tenlong.com.tw/products/9789865020804)）
 * 2018-12-12：旗標．施威銘 - Python 技術者們 - 實踐！帶你一步一腳印由初學到精通 （[9789863125693](https://www.tenlong.com.tw/products/9789863125693)）
 * 2018-08-22：博碩．北極星 - 遠端遙控木馬病毒程式設計：使用 Python（[9789864343256](https://www.tenlong.com.tw/products/9789864343256)）
 * 2018-07-11：碁峰．鄧文淵 - Python 大數據特訓班（[9789864768561](https://www.tenlong.com.tw/products/9789864768561)）
