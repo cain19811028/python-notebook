@@ -4,30 +4,30 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 44477 | 12497 | 2019-06-01 16:28:29 |
-| [django](https://github.com/django/django) | 41915 | 18028 | 2019-05-31 16:11:55 |
-| [tornado](https://github.com/tornadoweb/tornado) | 17811 | 4958 | 2019-05-05 17:34:29 |
-| [sanic](https://github.com/huge-success/sanic) | 12152 | 1146 | 2019-05-30 14:10:00 |
+| [flask](https://github.com/pallets/flask) | 44489 | 12505 | 2019-06-01 16:28:29 |
+| [django](https://github.com/django/django) | 41929 | 18036 | 2019-06-03 09:36:12 |
+| [tornado](https://github.com/tornadoweb/tornado) | 17815 | 4960 | 2019-05-05 17:34:29 |
+| [sanic](https://github.com/huge-success/sanic) | 12158 | 1146 | 2019-05-30 14:10:00 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 33037 | 7786 | 2019-05-28 18:16:12 |
-| [pyspider](https://github.com/binux/pyspider) | 13195 | 3238 | 2019-03-09 23:50:28 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8031 | 3467 | 2017-12-02 02:57:06 |
+| [scrapy](https://github.com/scrapy/scrapy) | 33041 | 7788 | 2019-05-28 18:16:12 |
+| [pyspider](https://github.com/binux/pyspider) | 13198 | 3238 | 2019-03-09 23:50:28 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8039 | 3472 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 4570 | 486 | 2019-06-01 20:44:13 |
+| [graphene](https://github.com/graphql-python/graphene) | 4573 | 487 | 2019-06-02 22:16:25 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 4229 | 1035 | 2019-06-01 22:09:43 |
+| [pytest](https://github.com/pytest-dev/pytest) | 4232 | 1037 | 2019-06-03 03:55:36 |
 | [nose2](https://github.com/nose-devs/nose2) | 558 | 121 | 2019-05-29 19:47:47 |
 
-*Update Date: 2019-06-02T22:00:25*
+*Update Date: 2019-06-03T19:07:52*
