@@ -15,7 +15,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 33927 | 7956 | 2019-08-08 11:58:22 |
 | [pyspider](https://github.com/binux/pyspider) | 13495 | 3312 | 2019-03-09 23:50:28 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8278 | 3550 | 2017-12-02 02:57:06 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8279 | 3550 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 4615 | 1113 | 2019-08-09 21:28:44 |
 | [nose2](https://github.com/nose-devs/nose2) | 576 | 122 | 2019-07-12 15:42:18 |
 
-*Update Date: 2019-08-10T14:00:27*
+*Update Date: 2019-08-10T15:00:27*
