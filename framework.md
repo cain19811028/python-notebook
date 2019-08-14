@@ -4,24 +4,24 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 45861 | 12805 | 2019-08-09 18:47:17 |
-| [django](https://github.com/django/django) | 43362 | 18646 | 2019-08-14 08:50:31 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18136 | 5031 | 2019-08-11 23:44:12 |
-| [sanic](https://github.com/huge-success/sanic) | 12587 | 1183 | 2019-08-13 19:30:40 |
+| [flask](https://github.com/pallets/flask) | 45862 | 12804 | 2019-08-09 18:47:17 |
+| [django](https://github.com/django/django) | 43364 | 18647 | 2019-08-14 08:50:31 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18136 | 5030 | 2019-08-11 23:44:12 |
+| [sanic](https://github.com/huge-success/sanic) | 12589 | 1183 | 2019-08-13 19:30:40 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 33972 | 7958 | 2019-08-12 17:51:00 |
-| [pyspider](https://github.com/binux/pyspider) | 13517 | 3316 | 2019-03-09 23:50:28 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8294 | 3552 | 2017-12-02 02:57:06 |
+| [scrapy](https://github.com/scrapy/scrapy) | 33972 | 7957 | 2019-08-12 17:51:00 |
+| [pyspider](https://github.com/binux/pyspider) | 13518 | 3315 | 2019-03-09 23:50:28 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8294 | 3553 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 4861 | 517 | 2019-07-29 10:02:11 |
+| [graphene](https://github.com/graphql-python/graphene) | 4862 | 517 | 2019-07-29 10:02:11 |
 
 ## Testing Framework
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 4630 | 1114 | 2019-08-12 13:56:38 |
 | [nose2](https://github.com/nose-devs/nose2) | 577 | 122 | 2019-07-12 15:42:18 |
 
-*Update Date: 2019-08-14T17:00:41*
+*Update Date: 2019-08-14T18:00:41*
