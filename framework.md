@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 45952 | 12817 | 2019-08-16 01:30:05 |
-| [django](https://github.com/django/django) | 43489 | 18701 | 2019-08-19 11:28:35 |
+| [flask](https://github.com/pallets/flask) | 45953 | 12817 | 2019-08-16 01:30:05 |
+| [django](https://github.com/django/django) | 43491 | 18701 | 2019-08-19 14:06:14 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18166 | 5029 | 2019-08-11 23:44:12 |
 | [sanic](https://github.com/huge-success/sanic) | 12619 | 1186 | 2019-08-13 19:30:40 |
 
@@ -13,7 +13,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 34024 | 7972 | 2019-08-19 18:15:09 |
+| [scrapy](https://github.com/scrapy/scrapy) | 34025 | 7972 | 2019-08-19 18:15:09 |
 | [pyspider](https://github.com/binux/pyspider) | 13541 | 3322 | 2019-03-09 23:50:28 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8311 | 3561 | 2017-12-02 02:57:06 |
 
@@ -21,13 +21,13 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 4876 | 520 | 2019-08-17 21:07:53 |
+| [graphene](https://github.com/graphql-python/graphene) | 4877 | 520 | 2019-08-17 21:07:53 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 4668 | 1119 | 2019-08-18 13:20:45 |
+| [pytest](https://github.com/pytest-dev/pytest) | 4670 | 1119 | 2019-08-18 13:20:45 |
 | [nose2](https://github.com/nose-devs/nose2) | 576 | 122 | 2019-07-12 15:42:18 |
 
-*Update Date: 2019-08-20T14:00:28*
+*Update Date: 2019-08-20T15:00:28*
