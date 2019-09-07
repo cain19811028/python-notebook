@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 46298 | 12873 | 2019-09-02 16:05:05 |
-| [django](https://github.com/django/django) | 43884 | 18848 | 2019-09-06 11:27:46 |
+| [flask](https://github.com/pallets/flask) | 46298 | 12874 | 2019-09-02 16:05:05 |
+| [django](https://github.com/django/django) | 43883 | 18849 | 2019-09-06 11:27:46 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18252 | 5037 | 2019-09-02 17:20:28 |
 | [sanic](https://github.com/huge-success/sanic) | 12723 | 1198 | 2019-09-06 18:07:41 |
 
@@ -13,9 +13,9 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 34295 | 8003 | 2019-08-30 16:07:22 |
+| [scrapy](https://github.com/scrapy/scrapy) | 34296 | 8003 | 2019-08-30 16:07:22 |
 | [pyspider](https://github.com/binux/pyspider) | 13615 | 3341 | 2019-03-09 23:50:28 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8368 | 3588 | 2017-12-02 02:57:06 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8369 | 3590 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 4752 | 1137 | 2019-09-06 11:05:51 |
 | [nose2](https://github.com/nose-devs/nose2) | 576 | 123 | 2019-07-12 15:42:18 |
 
-*Update Date: 2019-09-07T11:00:28*
+*Update Date: 2019-09-07T12:00:28*
