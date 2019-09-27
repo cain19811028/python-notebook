@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 46651 | 12948 | 2019-09-24 13:44:36 |
-| [django](https://github.com/django/django) | 44280 | 19081 | 2019-09-27 06:09:05 |
+| [flask](https://github.com/pallets/flask) | 46651 | 12949 | 2019-09-24 13:44:36 |
+| [django](https://github.com/django/django) | 44281 | 19083 | 2019-09-27 07:27:33 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18328 | 5050 | 2019-09-02 17:20:28 |
 | [sanic](https://github.com/huge-success/sanic) | 12834 | 1206 | 2019-09-26 21:11:31 |
 
@@ -13,21 +13,21 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 34532 | 8045 | 2019-09-25 15:13:13 |
-| [pyspider](https://github.com/binux/pyspider) | 13681 | 3348 | 2019-03-09 23:50:28 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8417 | 3609 | 2017-12-02 02:57:06 |
+| [scrapy](https://github.com/scrapy/scrapy) | 34536 | 8045 | 2019-09-27 07:56:43 |
+| [pyspider](https://github.com/binux/pyspider) | 13681 | 3349 | 2019-03-09 23:50:28 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8418 | 3609 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5003 | 531 | 2019-09-25 23:57:53 |
+| [graphene](https://github.com/graphql-python/graphene) | 5004 | 531 | 2019-09-25 23:57:53 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 4847 | 1152 | 2019-09-24 08:30:23 |
+| [pytest](https://github.com/pytest-dev/pytest) | 4848 | 1152 | 2019-09-24 08:30:23 |
 | [nose2](https://github.com/nose-devs/nose2) | 582 | 123 | 2019-07-12 15:42:18 |
 
-*Update Date: 2019-09-27T15:00:39*
+*Update Date: 2019-09-27T16:00:40*
