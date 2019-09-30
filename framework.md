@@ -27,7 +27,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 4860 | 1155 | 2019-09-29 13:26:06 |
+| [pytest](https://github.com/pytest-dev/pytest) | 4862 | 1155 | 2019-09-29 13:26:06 |
 | [nose2](https://github.com/nose-devs/nose2) | 582 | 123 | 2019-07-12 15:42:18 |
 
-*Update Date: 2019-10-01T02:00:32*
+*Update Date: 2019-10-01T03:00:35*
