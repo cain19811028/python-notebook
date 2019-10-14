@@ -6,7 +6,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 46954 | 12983 | 2019-10-14 21:00:01 |
 | [django](https://github.com/django/django) | 44637 | 19237 | 2019-10-14 10:51:07 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18405 | 5056 | 2019-09-02 17:20:28 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18406 | 5056 | 2019-09-02 17:20:28 |
 | [sanic](https://github.com/huge-success/sanic) | 12906 | 1209 | 2019-10-12 14:54:47 |
 
 ## Crawler Framework
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 4927 | 1176 | 2019-10-13 17:20:34 |
 | [nose2](https://github.com/nose-devs/nose2) | 585 | 126 | 2019-10-07 23:02:47 |
 
-*Update Date: 2019-10-15T05:00:33*
+*Update Date: 2019-10-15T06:00:35*
