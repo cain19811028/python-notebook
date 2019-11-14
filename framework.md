@@ -5,15 +5,15 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 47506 | 13049 | 2019-11-02 22:40:20 |
-| [django](https://github.com/django/django) | 45228 | 19516 | 2019-11-14 10:14:11 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18534 | 5079 | 2019-11-12 02:49:40 |
-| [sanic](https://github.com/huge-success/sanic) | 13064 | 1223 | 2019-11-01 17:32:49 |
+| [django](https://github.com/django/django) | 45229 | 19516 | 2019-11-14 10:14:11 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18535 | 5079 | 2019-11-12 02:49:40 |
+| [sanic](https://github.com/huge-success/sanic) | 13065 | 1223 | 2019-11-01 17:32:49 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 35070 | 8157 | 2019-11-14 18:43:44 |
+| [scrapy](https://github.com/scrapy/scrapy) | 35070 | 8157 | 2019-11-14 19:36:56 |
 | [pyspider](https://github.com/binux/pyspider) | 13817 | 3386 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8543 | 3645 | 2017-12-02 02:57:06 |
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5081 | 1215 | 2019-11-13 23:36:23 |
 | [nose2](https://github.com/nose-devs/nose2) | 587 | 128 | 2019-10-07 23:02:47 |
 
-*Update Date: 2019-11-15T03:00:29*
+*Update Date: 2019-11-15T04:00:26*
