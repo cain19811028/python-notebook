@@ -15,13 +15,13 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 35174 | 8174 | 2019-11-22 07:28:29 |
 | [pyspider](https://github.com/binux/pyspider) | 13851 | 3394 | 2019-11-14 06:16:04 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8567 | 3661 | 2017-12-02 02:57:06 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8568 | 3661 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5178 | 547 | 2019-10-18 09:50:54 |
+| [graphene](https://github.com/graphql-python/graphene) | 5179 | 547 | 2019-10-18 09:50:54 |
 
 ## Testing Framework
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5133 | 1225 | 2019-11-22 22:09:10 |
 | [nose2](https://github.com/nose-devs/nose2) | 589 | 127 | 2019-10-07 23:02:47 |
 
-*Update Date: 2019-11-24T16:00:28*
+*Update Date: 2019-11-24T17:00:28*
