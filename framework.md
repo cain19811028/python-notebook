@@ -4,18 +4,18 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 47927 | 13122 | 2019-11-24 23:38:50 |
-| [django](https://github.com/django/django) | 45840 | 19800 | 2019-12-12 09:52:31 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18636 | 5100 | 2019-12-08 21:01:27 |
-| [sanic](https://github.com/huge-success/sanic) | 13193 | 1236 | 2019-11-21 15:33:50 |
+| [flask](https://github.com/pallets/flask) | 47926 | 13122 | 2019-11-24 23:38:50 |
+| [django](https://github.com/django/django) | 45840 | 19800 | 2019-12-12 13:24:10 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18635 | 5101 | 2019-12-08 21:01:27 |
+| [sanic](https://github.com/huge-success/sanic) | 13194 | 1236 | 2019-11-21 15:33:50 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 35388 | 8219 | 2019-12-05 13:48:31 |
+| [scrapy](https://github.com/scrapy/scrapy) | 35388 | 8218 | 2019-12-05 13:48:31 |
 | [pyspider](https://github.com/binux/pyspider) | 13919 | 3411 | 2019-11-14 06:16:04 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8632 | 3674 | 2017-12-02 02:57:06 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8631 | 3674 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5208 | 1248 | 2019-12-12 12:35:25 |
 | [nose2](https://github.com/nose-devs/nose2) | 595 | 128 | 2019-12-09 15:10:48 |
 
-*Update Date: 2019-12-12T21:00:48*
+*Update Date: 2019-12-12T22:00:36*
