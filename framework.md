@@ -13,8 +13,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 35620 | 8254 | 2020-01-03 17:28:41 |
-| [pyspider](https://github.com/binux/pyspider) | 13986 | 3418 | 2019-11-14 06:16:04 |
+| [scrapy](https://github.com/scrapy/scrapy) | 35622 | 8257 | 2020-01-03 17:28:41 |
+| [pyspider](https://github.com/binux/pyspider) | 13987 | 3419 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8693 | 3695 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
@@ -27,7 +27,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5283 | 1264 | 2020-01-04 12:41:53 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5284 | 1264 | 2020-01-04 12:41:53 |
 | [nose2](https://github.com/nose-devs/nose2) | 595 | 127 | 2019-12-09 15:10:48 |
 
-*Update Date: 2020-01-04T23:00:31*
+*Update Date: 2020-01-05T00:00:31*
