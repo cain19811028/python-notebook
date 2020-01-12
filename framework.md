@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5322 | 1267 | 2020-01-09 23:22:05 |
 | [nose2](https://github.com/nose-devs/nose2) | 595 | 127 | 2019-12-09 15:10:48 |
 
-*Update Date: 2020-01-12T07:00:28*
+*Update Date: 2020-01-12T08:00:42*
