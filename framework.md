@@ -4,10 +4,10 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 48415 | 13183 | 2019-11-24 23:38:50 |
-| [django](https://github.com/django/django) | 46553 | 20070 | 2020-01-15 11:53:21 |
+| [flask](https://github.com/pallets/flask) | 48416 | 13184 | 2019-11-24 23:38:50 |
+| [django](https://github.com/django/django) | 46554 | 20073 | 2020-01-15 11:53:21 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18745 | 5129 | 2019-12-08 21:01:27 |
-| [sanic](https://github.com/huge-success/sanic) | 13349 | 1246 | 2020-01-11 05:50:16 |
+| [sanic](https://github.com/huge-success/sanic) | 13349 | 1245 | 2020-01-11 05:50:16 |
 
 ## Crawler Framework
 
@@ -21,13 +21,13 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5315 | 558 | 2019-12-31 14:08:30 |
+| [graphene](https://github.com/graphql-python/graphene) | 5316 | 558 | 2019-12-31 14:08:30 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5333 | 1270 | 2020-01-15 10:20:42 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5334 | 1270 | 2020-01-15 12:05:23 |
 | [nose2](https://github.com/nose-devs/nose2) | 595 | 127 | 2019-12-09 15:10:48 |
 
-*Update Date: 2020-01-15T20:00:29*
+*Update Date: 2020-01-15T21:00:29*
