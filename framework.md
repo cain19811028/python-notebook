@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 48602 | 13213 | 2019-11-24 23:38:50 |
-| [django](https://github.com/django/django) | 46827 | 20191 | 2020-01-28 12:14:23 |
+| [flask](https://github.com/pallets/flask) | 48603 | 13214 | 2019-11-24 23:38:50 |
+| [django](https://github.com/django/django) | 46830 | 20190 | 2020-01-28 12:14:23 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18773 | 5134 | 2020-01-19 22:58:40 |
 | [sanic](https://github.com/huge-success/sanic) | 13413 | 1249 | 2020-01-27 06:08:34 |
 
@@ -13,7 +13,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 35880 | 8310 | 2020-01-27 15:57:22 |
+| [scrapy](https://github.com/scrapy/scrapy) | 35880 | 8311 | 2020-01-27 15:57:22 |
 | [pyspider](https://github.com/binux/pyspider) | 14026 | 3428 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8744 | 3705 | 2017-12-02 02:57:06 |
 
@@ -27,7 +27,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5406 | 1281 | 2020-01-28 10:23:49 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5406 | 1281 | 2020-01-28 13:24:24 |
 | [nose2](https://github.com/nose-devs/nose2) | 600 | 127 | 2019-12-09 15:10:48 |
 
-*Update Date: 2020-01-28T21:00:30*
+*Update Date: 2020-01-28T22:00:32*
