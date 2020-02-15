@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 48887 | 13271 | 2020-02-11 02:41:07 |
-| [django](https://github.com/django/django) | 47201 | 20372 | 2020-02-14 12:18:06 |
+| [flask](https://github.com/pallets/flask) | 48887 | 13271 | 2020-02-15 18:40:32 |
+| [django](https://github.com/django/django) | 47202 | 20372 | 2020-02-14 12:18:06 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18810 | 5137 | 2020-02-01 21:44:42 |
 | [sanic](https://github.com/huge-success/sanic) | 13465 | 1259 | 2020-02-05 19:17:55 |
 
@@ -21,7 +21,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5402 | 567 | 2020-02-10 22:17:16 |
+| [graphene](https://github.com/graphql-python/graphene) | 5402 | 568 | 2020-02-10 22:17:16 |
 
 ## Testing Framework
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5468 | 1298 | 2020-02-15 18:00:24 |
 | [nose2](https://github.com/nose-devs/nose2) | 605 | 125 | 2020-02-02 00:56:43 |
 
-*Update Date: 2020-02-16T02:00:32*
+*Update Date: 2020-02-16T03:00:56*
