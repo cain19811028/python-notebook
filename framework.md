@@ -21,13 +21,13 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5403 | 568 | 2020-02-10 22:17:16 |
+| [graphene](https://github.com/graphql-python/graphene) | 5403 | 569 | 2020-02-10 22:17:16 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5468 | 1298 | 2020-02-15 21:32:14 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5469 | 1298 | 2020-02-15 21:32:14 |
 | [nose2](https://github.com/nose-devs/nose2) | 605 | 125 | 2020-02-02 00:56:43 |
 
-*Update Date: 2020-02-16T10:00:30*
+*Update Date: 2020-02-16T11:00:31*
