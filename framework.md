@@ -4,16 +4,16 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 49082 | 13298 | 2020-02-15 18:40:32 |
-| [django](https://github.com/django/django) | 47446 | 20492 | 2020-02-27 14:39:13 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18833 | 5141 | 2020-02-01 21:44:42 |
-| [sanic](https://github.com/huge-success/sanic) | 13507 | 1263 | 2020-02-25 20:01:13 |
+| [flask](https://github.com/pallets/flask) | 49084 | 13299 | 2020-02-15 18:40:32 |
+| [django](https://github.com/django/django) | 47447 | 20493 | 2020-02-27 14:39:13 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18835 | 5141 | 2020-02-01 21:44:42 |
+| [sanic](https://github.com/huge-success/sanic) | 13508 | 1263 | 2020-02-25 20:01:13 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 36167 | 8391 | 2020-02-27 14:15:30 |
+| [scrapy](https://github.com/scrapy/scrapy) | 36170 | 8391 | 2020-02-27 14:15:30 |
 | [pyspider](https://github.com/binux/pyspider) | 14104 | 3443 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8776 | 3715 | 2017-12-02 02:57:06 |
 
@@ -21,13 +21,13 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5448 | 575 | 2020-02-27 20:51:59 |
+| [graphene](https://github.com/graphql-python/graphene) | 5449 | 576 | 2020-02-27 20:51:59 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5527 | 1310 | 2020-02-26 23:34:18 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5528 | 1310 | 2020-02-26 23:34:18 |
 | [nose2](https://github.com/nose-devs/nose2) | 606 | 126 | 2020-02-02 00:56:43 |
 
-*Update Date: 2020-02-28T06:00:30*
+*Update Date: 2020-02-28T07:00:30*
