@@ -13,7 +13,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 36180 | 8391 | 2020-02-28 19:42:07 |
+| [scrapy](https://github.com/scrapy/scrapy) | 36181 | 8391 | 2020-02-28 19:42:07 |
 | [pyspider](https://github.com/binux/pyspider) | 14107 | 3443 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8776 | 3715 | 2017-12-02 02:57:06 |
 
@@ -21,13 +21,13 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5453 | 576 | 2020-02-27 20:51:59 |
+| [graphene](https://github.com/graphql-python/graphene) | 5454 | 576 | 2020-02-27 20:51:59 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5530 | 1311 | 2020-02-28 23:47:30 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5530 | 1311 | 2020-02-29 00:07:02 |
 | [nose2](https://github.com/nose-devs/nose2) | 607 | 126 | 2020-02-02 00:56:43 |
 
-*Update Date: 2020-02-29T08:00:30*
+*Update Date: 2020-02-29T09:00:30*
