@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 49245 | 13328 | 2020-02-15 18:40:32 |
-| [django](https://github.com/django/django) | 47618 | 20609 | 2020-03-06 12:14:27 |
+| [flask](https://github.com/pallets/flask) | 49247 | 13328 | 2020-02-15 18:40:32 |
+| [django](https://github.com/django/django) | 47619 | 20608 | 2020-03-06 12:14:27 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18854 | 5142 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13547 | 1265 | 2020-03-06 05:40:46 |
 
@@ -30,4 +30,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5578 | 1321 | 2020-03-06 13:49:01 |
 | [nose2](https://github.com/nose-devs/nose2) | 606 | 126 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-03-07T15:00:26*
+*Update Date: 2020-03-07T16:00:27*
