@@ -8,7 +8,7 @@
 | [django](https://github.com/django/django) | 47835 | 20709 | 2020-03-16 09:27:23 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18893 | 5151 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13579 | 1267 | 2020-03-14 15:57:39 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 11100 | 675 | 2020-03-01 21:34:38 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 11103 | 675 | 2020-03-01 21:34:38 |
 
 ## Crawler Framework
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5632 | 1335 | 2020-03-15 07:53:36 |
 | [nose2](https://github.com/nose-devs/nose2) | 607 | 127 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-03-17T05:01:15*
+*Update Date: 2020-03-17T06:00:33*
