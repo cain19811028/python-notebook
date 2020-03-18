@@ -8,7 +8,7 @@
 | [django](https://github.com/django/django) | 47867 | 20718 | 2020-03-17 19:57:02 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18901 | 5152 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13581 | 1267 | 2020-03-14 15:57:39 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 11173 | 682 | 2020-03-01 21:34:38 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 11175 | 682 | 2020-03-01 21:34:38 |
 
 ## Crawler Framework
 
@@ -16,7 +16,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 36434 | 8434 | 2020-03-17 09:12:49 |
 | [pyspider](https://github.com/binux/pyspider) | 14169 | 3455 | 2019-11-14 06:16:04 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8809 | 3734 | 2017-12-02 02:57:06 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8808 | 3734 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5636 | 1334 | 2020-03-17 09:21:19 |
 | [nose2](https://github.com/nose-devs/nose2) | 607 | 127 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-03-18T11:00:32*
+*Update Date: 2020-03-18T12:00:31*
