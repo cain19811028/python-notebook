@@ -5,10 +5,10 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 49558 | 13376 | 2020-03-11 14:40:06 |
-| [django](https://github.com/django/django) | 48050 | 20791 | 2020-03-24 12:09:43 |
+| [django](https://github.com/django/django) | 48050 | 20791 | 2020-03-24 19:52:05 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18926 | 5148 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13609 | 1267 | 2020-03-24 17:11:09 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 11540 | 705 | 2020-03-19 13:39:29 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 11540 | 705 | 2020-03-24 19:39:47 |
 
 ## Crawler Framework
 
@@ -28,7 +28,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5658 | 1341 | 2020-03-23 09:49:27 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5659 | 1341 | 2020-03-23 09:49:27 |
 | [nose2](https://github.com/nose-devs/nose2) | 609 | 127 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-03-25T03:00:28*
+*Update Date: 2020-03-25T04:00:28*
