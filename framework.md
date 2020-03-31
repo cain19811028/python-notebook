@@ -4,25 +4,25 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 49664 | 13394 | 2020-03-11 14:40:06 |
-| [django](https://github.com/django/django) | 48195 | 20869 | 2020-03-31 10:09:17 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18958 | 5155 | 2020-03-06 01:35:19 |
+| [flask](https://github.com/pallets/flask) | 49666 | 13393 | 2020-03-11 14:40:06 |
+| [django](https://github.com/django/django) | 48193 | 20872 | 2020-03-31 10:09:17 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18959 | 5155 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13628 | 1267 | 2020-03-28 18:43:42 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 11850 | 731 | 2020-03-30 19:49:50 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 11852 | 731 | 2020-03-30 19:49:50 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 36591 | 8486 | 2020-03-27 09:11:03 |
+| [scrapy](https://github.com/scrapy/scrapy) | 36591 | 8487 | 2020-03-27 09:11:03 |
 | [pyspider](https://github.com/binux/pyspider) | 14211 | 3463 | 2019-11-14 06:16:04 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8846 | 3746 | 2017-12-02 02:57:06 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8847 | 3746 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5547 | 596 | 2020-03-16 16:20:04 |
+| [graphene](https://github.com/graphql-python/graphene) | 5548 | 596 | 2020-03-16 16:20:04 |
 
 ## Testing Framework
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5693 | 1348 | 2020-03-30 20:34:17 |
 | [nose2](https://github.com/nose-devs/nose2) | 612 | 127 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-03-31T22:00:31*
+*Update Date: 2020-03-31T23:00:28*
