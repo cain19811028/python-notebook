@@ -5,7 +5,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 49697 | 13396 | 2020-03-11 14:40:06 |
-| [django](https://github.com/django/django) | 48233 | 20889 | 2020-04-02 07:17:41 |
+| [django](https://github.com/django/django) | 48233 | 20890 | 2020-04-02 09:38:23 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18963 | 5156 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13637 | 1267 | 2020-03-31 17:57:09 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 11935 | 735 | 2020-04-02 05:03:00 |
@@ -15,7 +15,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 36612 | 8493 | 2020-03-27 09:11:03 |
-| [pyspider](https://github.com/binux/pyspider) | 14212 | 3464 | 2019-11-14 06:16:04 |
+| [pyspider](https://github.com/binux/pyspider) | 14212 | 3465 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8852 | 3747 | 2017-12-02 02:57:06 |
 
 ## GraphQL Framework
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5702 | 1349 | 2020-03-30 20:34:17 |
 | [nose2](https://github.com/nose-devs/nose2) | 613 | 127 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-04-02T18:00:28*
+*Update Date: 2020-04-02T19:00:28*
