@@ -8,7 +8,7 @@
 | [django](https://github.com/django/django) | 48351 | 20962 | 2020-04-08 18:29:48 |
 | [tornado](https://github.com/tornadoweb/tornado) | 18987 | 5160 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13662 | 1268 | 2020-04-06 19:45:25 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 12167 | 755 | 2020-04-08 05:51:26 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 12169 | 755 | 2020-04-08 05:51:26 |
 
 ## Crawler Framework
 
@@ -22,7 +22,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5567 | 601 | 2020-04-06 08:36:53 |
+| [graphene](https://github.com/graphql-python/graphene) | 5568 | 601 | 2020-04-06 08:36:53 |
 
 ## Testing Framework
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5725 | 1358 | 2020-04-08 19:33:19 |
 | [nose2](https://github.com/nose-devs/nose2) | 615 | 128 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-04-09T06:00:32*
+*Update Date: 2020-04-09T07:00:32*
