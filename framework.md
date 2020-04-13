@@ -4,17 +4,17 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 49831 | 13414 | 2020-04-08 01:01:55 |
-| [django](https://github.com/django/django) | 48465 | 21006 | 2020-04-10 10:00:27 |
-| [tornado](https://github.com/tornadoweb/tornado) | 18997 | 5165 | 2020-03-06 01:35:19 |
+| [flask](https://github.com/pallets/flask) | 49833 | 13417 | 2020-04-08 01:01:55 |
+| [django](https://github.com/django/django) | 48466 | 21008 | 2020-04-10 10:00:27 |
+| [tornado](https://github.com/tornadoweb/tornado) | 18998 | 5165 | 2020-03-06 01:35:19 |
 | [sanic](https://github.com/huge-success/sanic) | 13671 | 1267 | 2020-04-10 19:03:51 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 12375 | 775 | 2020-04-11 17:22:35 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 12379 | 776 | 2020-04-11 17:22:35 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 36725 | 8505 | 2020-04-10 17:03:39 |
+| [scrapy](https://github.com/scrapy/scrapy) | 36727 | 8506 | 2020-04-10 17:03:39 |
 | [pyspider](https://github.com/binux/pyspider) | 14238 | 3467 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8872 | 3747 | 2020-04-11 17:30:57 |
 
@@ -22,13 +22,13 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5578 | 606 | 2020-04-13 00:45:46 |
+| [graphene](https://github.com/graphql-python/graphene) | 5579 | 606 | 2020-04-13 00:45:46 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 5766 | 1369 | 2020-04-10 22:45:59 |
+| [pytest](https://github.com/pytest-dev/pytest) | 5767 | 1369 | 2020-04-10 22:45:59 |
 | [nose2](https://github.com/nose-devs/nose2) | 616 | 128 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-04-13T16:00:29*
+*Update Date: 2020-04-13T17:00:28*
