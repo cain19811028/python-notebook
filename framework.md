@@ -4,25 +4,25 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 50316 | 13486 | 2020-04-16 17:52:06 |
-| [django](https://github.com/django/django) | 49280 | 21390 | 2020-05-15 04:35:10 |
+| [flask](https://github.com/pallets/flask) | 50317 | 13486 | 2020-04-16 17:52:06 |
+| [django](https://github.com/django/django) | 49282 | 21391 | 2020-05-15 07:14:05 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19083 | 5188 | 2020-05-14 21:42:48 |
 | [sanic](https://github.com/huge-success/sanic) | 13769 | 1273 | 2020-05-14 10:45:29 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 13703 | 888 | 2020-04-18 15:57:50 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 13704 | 888 | 2020-04-18 15:57:50 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 37096 | 8585 | 2020-05-14 16:28:50 |
-| [pyspider](https://github.com/binux/pyspider) | 14335 | 3486 | 2019-11-14 06:16:04 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8943 | 3754 | 2020-04-19 14:44:06 |
+| [scrapy](https://github.com/scrapy/scrapy) | 37097 | 8585 | 2020-05-14 16:28:50 |
+| [pyspider](https://github.com/binux/pyspider) | 14335 | 3487 | 2019-11-14 06:16:04 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8944 | 3755 | 2020-04-19 14:44:06 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5678 | 612 | 2020-05-09 12:32:52 |
+| [graphene](https://github.com/graphql-python/graphene) | 5679 | 612 | 2020-05-09 12:32:52 |
 
 ## Testing Framework
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5919 | 1393 | 2020-05-15 06:13:57 |
 | [nose2](https://github.com/nose-devs/nose2) | 622 | 129 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-05-15T15:00:31*
+*Update Date: 2020-05-15T16:00:31*
