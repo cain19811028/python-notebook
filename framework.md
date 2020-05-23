@@ -5,9 +5,9 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 50445 | 13515 | 2020-05-18 22:04:40 |
-| [django](https://github.com/django/django) | 49481 | 21485 | 2020-05-21 20:34:21 |
+| [django](https://github.com/django/django) | 49481 | 21486 | 2020-05-21 20:34:21 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19105 | 5193 | 2020-05-14 21:42:48 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 14045 | 921 | 2020-05-17 14:04:35 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 14047 | 921 | 2020-05-17 14:04:35 |
 | [sanic](https://github.com/huge-success/sanic) | 13793 | 1270 | 2020-05-14 10:45:29 |
 
 ## Crawler Framework
@@ -16,13 +16,13 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 37199 | 8604 | 2020-05-22 18:12:58 |
 | [pyspider](https://github.com/binux/pyspider) | 14348 | 3494 | 2019-11-14 06:16:04 |
-| [webmagic](https://github.com/code4craft/webmagic) | 8968 | 3758 | 2020-05-21 11:59:29 |
+| [webmagic](https://github.com/code4craft/webmagic) | 8970 | 3760 | 2020-05-21 11:59:29 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5712 | 611 | 2020-05-20 05:12:41 |
+| [graphene](https://github.com/graphql-python/graphene) | 5713 | 611 | 2020-05-20 05:12:41 |
 
 ## Testing Framework
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5958 | 1402 | 2020-05-22 11:36:49 |
 | [nose2](https://github.com/nose-devs/nose2) | 624 | 129 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-05-23T16:00:29*
+*Update Date: 2020-05-23T17:00:30*
