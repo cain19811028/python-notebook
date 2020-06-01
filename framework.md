@@ -14,7 +14,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 37295 | 8611 | 2020-05-29 19:07:50 |
+| [scrapy](https://github.com/scrapy/scrapy) | 37296 | 8611 | 2020-05-29 19:07:50 |
 | [pyspider](https://github.com/binux/pyspider) | 14367 | 3496 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 8989 | 3770 | 2020-05-29 18:10:25 |
 
@@ -31,4 +31,4 @@
 | [pytest](https://github.com/pytest-dev/pytest) | 5999 | 1411 | 2020-05-31 15:37:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 625 | 129 | 2020-03-03 16:52:03 |
 
-*Update Date: 2020-06-01T08:00:34*
+*Update Date: 2020-06-01T09:00:34*
