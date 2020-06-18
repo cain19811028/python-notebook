@@ -21,6 +21,7 @@ def main():
     load(token, 'Crawler', 'crawler_list.txt')
     load(token, 'GraphQL', 'graphql_list.txt')
     load(token, 'Testing', 'test_list.txt')
+    load(token, 'GUI', 'gui_list.txt')
     build_tail()
     
 def load(token, title, file):
