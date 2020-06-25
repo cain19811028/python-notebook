@@ -4,25 +4,25 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 50938 | 13593 | 2020-06-24 16:56:41 |
-| [django](https://github.com/django/django) | 50246 | 21792 | 2020-06-25 10:26:36 |
+| [flask](https://github.com/pallets/flask) | 50939 | 13593 | 2020-06-24 16:56:41 |
+| [django](https://github.com/django/django) | 50249 | 21793 | 2020-06-25 10:26:36 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19210 | 5206 | 2020-06-20 19:42:31 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 15782 | 1068 | 2020-06-15 11:18:36 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 15784 | 1067 | 2020-06-15 11:18:36 |
 | [sanic](https://github.com/huge-success/sanic) | 13881 | 1272 | 2020-06-11 18:40:12 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 37535 | 8667 | 2020-06-25 13:36:43 |
-| [pyspider](https://github.com/binux/pyspider) | 14402 | 3501 | 2019-11-14 06:16:04 |
+| [scrapy](https://github.com/scrapy/scrapy) | 37536 | 8667 | 2020-06-25 13:36:43 |
+| [pyspider](https://github.com/binux/pyspider) | 14403 | 3501 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9074 | 3796 | 2020-06-24 05:43:16 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5804 | 619 | 2020-06-25 02:22:22 |
+| [graphene](https://github.com/graphql-python/graphene) | 5805 | 619 | 2020-06-25 16:57:42 |
 
 ## Testing Framework
 
@@ -35,7 +35,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11385 | 2455 | 2020-06-24 15:28:48 |
+| [kivy](https://github.com/kivy/kivy) | 11386 | 2455 | 2020-06-24 15:28:48 |
 | [flexx](https://github.com/flexxui/flexx) | 2332 | 224 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-06-26T00:00:41*
+*Update Date: 2020-06-26T01:00:40*
