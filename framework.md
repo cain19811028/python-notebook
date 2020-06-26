@@ -4,10 +4,10 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 50942 | 13590 | 2020-06-24 16:56:41 |
-| [django](https://github.com/django/django) | 50255 | 21794 | 2020-06-26 04:59:33 |
+| [flask](https://github.com/pallets/flask) | 50943 | 13590 | 2020-06-24 16:56:41 |
+| [django](https://github.com/django/django) | 50254 | 21795 | 2020-06-26 06:46:01 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19209 | 5205 | 2020-06-20 19:42:31 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 15803 | 1069 | 2020-06-15 11:18:36 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 15801 | 1069 | 2020-06-15 11:18:36 |
 | [sanic](https://github.com/huge-success/sanic) | 13881 | 1271 | 2020-06-11 18:40:12 |
 
 ## Crawler Framework
@@ -15,27 +15,27 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 37541 | 8666 | 2020-06-25 13:36:43 |
-| [pyspider](https://github.com/binux/pyspider) | 14403 | 3501 | 2019-11-14 06:16:04 |
+| [pyspider](https://github.com/binux/pyspider) | 14402 | 3501 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9075 | 3796 | 2020-06-24 05:43:16 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5806 | 621 | 2020-06-25 16:57:42 |
+| [graphene](https://github.com/graphql-python/graphene) | 5805 | 621 | 2020-06-25 16:57:42 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6103 | 1439 | 2020-06-25 17:52:01 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6103 | 1438 | 2020-06-25 17:52:01 |
 | [nose2](https://github.com/nose-devs/nose2) | 636 | 130 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11388 | 2454 | 2020-06-25 17:25:02 |
+| [kivy](https://github.com/kivy/kivy) | 11385 | 2454 | 2020-06-25 17:25:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2334 | 224 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-06-26T15:00:39*
+*Update Date: 2020-06-26T16:00:39*
