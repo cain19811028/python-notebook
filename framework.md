@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11388 | 2454 | 2020-06-25 17:25:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2334 | 224 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-06-27T07:00:38*
+*Update Date: 2020-06-27T08:00:39*
