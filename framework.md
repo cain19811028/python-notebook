@@ -28,7 +28,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6128 | 1447 | 2020-06-28 15:02:07 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6128 | 1447 | 2020-07-01 17:54:55 |
 | [nose2](https://github.com/nose-devs/nose2) | 636 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11401 | 2456 | 2020-06-30 01:00:56 |
 | [flexx](https://github.com/flexxui/flexx) | 2340 | 224 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-07-02T01:00:40*
+*Update Date: 2020-07-02T02:00:37*
