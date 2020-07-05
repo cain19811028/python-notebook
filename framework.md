@@ -14,7 +14,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 37642 | 8680 | 2020-07-01 18:28:52 |
+| [scrapy](https://github.com/scrapy/scrapy) | 37642 | 8681 | 2020-07-01 18:28:52 |
 | [pyspider](https://github.com/binux/pyspider) | 14415 | 3500 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9101 | 3799 | 2020-06-24 05:43:16 |
 
@@ -35,7 +35,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11407 | 2459 | 2020-07-05 17:58:39 |
+| [kivy](https://github.com/kivy/kivy) | 11407 | 2458 | 2020-07-05 17:58:39 |
 | [flexx](https://github.com/flexxui/flexx) | 2342 | 223 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-07-06T03:00:42*
+*Update Date: 2020-07-06T04:00:42*
