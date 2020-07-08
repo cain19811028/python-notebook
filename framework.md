@@ -14,7 +14,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 37669 | 8682 | 2020-07-01 18:28:52 |
+| [scrapy](https://github.com/scrapy/scrapy) | 37668 | 8682 | 2020-07-01 18:28:52 |
 | [pyspider](https://github.com/binux/pyspider) | 14420 | 3499 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9113 | 3799 | 2020-06-24 05:43:16 |
 
@@ -28,7 +28,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6163 | 1450 | 2020-07-05 13:51:26 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6164 | 1450 | 2020-07-05 13:51:26 |
 | [nose2](https://github.com/nose-devs/nose2) | 638 | 130 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11418 | 2461 | 2020-07-05 20:02:12 |
 | [flexx](https://github.com/flexxui/flexx) | 2348 | 223 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-07-08T17:00:35*
+*Update Date: 2020-07-08T18:00:35*
