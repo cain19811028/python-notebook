@@ -4,10 +4,10 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 51159 | 13643 | 2020-07-08 15:36:14 |
-| [django](https://github.com/django/django) | 50592 | 21939 | 2020-07-13 06:06:21 |
+| [flask](https://github.com/pallets/flask) | 51159 | 13644 | 2020-07-08 15:36:14 |
+| [django](https://github.com/django/django) | 50592 | 21940 | 2020-07-13 08:15:43 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19244 | 5217 | 2020-06-29 01:11:57 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 16977 | 1140 | 2020-07-10 18:41:35 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 17001 | 1143 | 2020-07-10 18:41:35 |
 | [sanic](https://github.com/huge-success/sanic) | 13923 | 1272 | 2020-07-09 04:17:50 |
 
 ## Crawler Framework
@@ -15,7 +15,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 37710 | 8693 | 2020-07-13 06:14:00 |
-| [pyspider](https://github.com/binux/pyspider) | 14429 | 3501 | 2019-11-14 06:16:04 |
+| [pyspider](https://github.com/binux/pyspider) | 14429 | 3502 | 2019-11-14 06:16:04 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9124 | 3801 | 2020-06-24 05:43:16 |
 
 ## GraphQL Framework
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11446 | 2462 | 2020-07-05 20:02:12 |
 | [flexx](https://github.com/flexxui/flexx) | 2352 | 223 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-07-13T17:00:42*
+*Update Date: 2020-07-13T18:00:39*
