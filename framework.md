@@ -5,9 +5,9 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 51275 | 13653 | 2020-07-21 04:16:19 |
-| [django](https://github.com/django/django) | 50747 | 21986 | 2020-07-21 08:35:12 |
+| [django](https://github.com/django/django) | 50748 | 21987 | 2020-07-21 08:35:12 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19273 | 5222 | 2020-06-29 01:11:57 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 18281 | 1200 | 2020-07-21 21:10:52 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 18283 | 1200 | 2020-07-21 21:10:52 |
 | [sanic](https://github.com/huge-success/sanic) | 13949 | 1270 | 2020-07-15 12:46:23 |
 
 ## Crawler Framework
@@ -28,14 +28,14 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6217 | 1466 | 2020-07-20 18:48:08 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6218 | 1466 | 2020-07-20 18:48:08 |
 | [nose2](https://github.com/nose-devs/nose2) | 639 | 130 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11478 | 2464 | 2020-07-16 20:15:38 |
+| [kivy](https://github.com/kivy/kivy) | 11479 | 2464 | 2020-07-16 20:15:38 |
 | [flexx](https://github.com/flexxui/flexx) | 2354 | 225 | 2020-05-25 09:36:14 |
 
-*Update Date: 2020-07-22T06:00:36*
+*Update Date: 2020-07-22T07:00:41*
