@@ -5,9 +5,9 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 51475 | 13674 | 2020-08-03 09:03:22 |
-| [django](https://github.com/django/django) | 51073 | 22128 | 2020-08-04 08:34:38 |
+| [django](https://github.com/django/django) | 51073 | 22129 | 2020-08-04 08:34:38 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19326 | 5227 | 2020-07-24 16:45:35 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 19099 | 1259 | 2020-08-03 17:28:49 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 19102 | 1259 | 2020-08-03 17:28:49 |
 | [sanic](https://github.com/huge-success/sanic) | 13983 | 1271 | 2020-07-29 11:25:31 |
 
 ## Crawler Framework
@@ -16,7 +16,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 37906 | 8722 | 2020-07-30 20:23:00 |
 | [pyspider](https://github.com/binux/pyspider) | 14473 | 3511 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9170 | 3819 | 2020-06-24 05:43:16 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9171 | 3819 | 2020-06-24 05:43:16 |
 
 ## GraphQL Framework
 
@@ -35,7 +35,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11534 | 2472 | 2020-08-01 19:00:50 |
+| [kivy](https://github.com/kivy/kivy) | 11535 | 2472 | 2020-08-01 19:00:50 |
 | [flexx](https://github.com/flexxui/flexx) | 2363 | 224 | 2020-07-30 08:43:45 |
 
-*Update Date: 2020-08-04T19:00:46*
+*Update Date: 2020-08-04T20:00:54*
