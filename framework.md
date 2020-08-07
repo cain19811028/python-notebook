@@ -4,9 +4,9 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 51529 | 13672 | 2020-08-07 11:49:33 |
-| [django](https://github.com/django/django) | 51168 | 22163 | 2020-08-07 06:05:47 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 19339 | 1269 | 2020-08-03 17:28:49 |
+| [flask](https://github.com/pallets/flask) | 51528 | 13672 | 2020-08-07 11:49:33 |
+| [django](https://github.com/django/django) | 51169 | 22165 | 2020-08-07 06:05:47 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 19342 | 1269 | 2020-08-03 17:28:49 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19332 | 5224 | 2020-07-24 16:45:35 |
 | [sanic](https://github.com/huge-success/sanic) | 13998 | 1274 | 2020-08-07 03:37:59 |
 
@@ -22,7 +22,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 5915 | 631 | 2020-08-06 16:19:02 |
+| [graphene](https://github.com/graphql-python/graphene) | 5916 | 631 | 2020-08-06 16:19:02 |
 
 ## Testing Framework
 
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11545 | 2476 | 2020-08-01 19:00:50 |
 | [flexx](https://github.com/flexxui/flexx) | 2367 | 224 | 2020-07-30 08:43:45 |
 
-*Update Date: 2020-08-08T01:00:50*
+*Update Date: 2020-08-08T02:00:39*
