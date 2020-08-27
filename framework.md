@@ -4,9 +4,9 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 51785 | 13708 | 2020-08-26 16:20:21 |
-| [django](https://github.com/django/django) | 51595 | 22316 | 2020-08-27 10:57:16 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 20174 | 1348 | 2020-08-09 20:36:47 |
+| [flask](https://github.com/pallets/flask) | 51786 | 13708 | 2020-08-26 16:20:21 |
+| [django](https://github.com/django/django) | 51596 | 22316 | 2020-08-27 10:57:16 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 20178 | 1350 | 2020-08-09 20:36:47 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19378 | 5224 | 2020-07-24 16:45:35 |
 | [sanic](https://github.com/huge-success/sanic) | 14052 | 1283 | 2020-08-27 07:28:56 |
 
@@ -14,8 +14,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38090 | 8767 | 2020-08-27 10:43:43 |
-| [pyspider](https://github.com/binux/pyspider) | 14519 | 3522 | 2020-08-02 17:34:20 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38092 | 8767 | 2020-08-27 10:43:43 |
+| [pyspider](https://github.com/binux/pyspider) | 14520 | 3522 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9209 | 3837 | 2020-08-07 09:38:17 |
 
 ## GraphQL Framework
@@ -28,14 +28,14 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6394 | 1492 | 2020-08-27 07:03:09 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6395 | 1492 | 2020-08-27 07:03:09 |
 | [nose2](https://github.com/nose-devs/nose2) | 645 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11626 | 2488 | 2020-08-13 11:29:43 |
+| [kivy](https://github.com/kivy/kivy) | 11627 | 2488 | 2020-08-13 11:29:43 |
 | [flexx](https://github.com/flexxui/flexx) | 2384 | 226 | 2020-08-24 08:11:07 |
 
-*Update Date: 2020-08-27T23:01:13*
+*Update Date: 2020-08-28T00:00:55*
