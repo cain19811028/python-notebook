@@ -4,11 +4,11 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 51919 | 13735 | 2020-09-07 08:20:06 |
-| [django](https://github.com/django/django) | 51812 | 22419 | 2020-09-07 08:59:36 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 20594 | 1382 | 2020-08-29 14:30:50 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19400 | 5230 | 2020-09-02 19:07:05 |
-| [sanic](https://github.com/huge-success/sanic) | 14072 | 1285 | 2020-09-02 20:22:02 |
+| [flask](https://github.com/pallets/flask) | 51919 | 13736 | 2020-09-07 08:20:06 |
+| [django](https://github.com/django/django) | 51812 | 22420 | 2020-09-07 08:59:36 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 20596 | 1382 | 2020-08-29 14:30:50 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19400 | 5231 | 2020-09-02 19:07:05 |
+| [sanic](https://github.com/huge-success/sanic) | 14073 | 1285 | 2020-09-02 20:22:02 |
 
 ## Crawler Framework
 
@@ -28,7 +28,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6441 | 1499 | 2020-09-06 01:00:34 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6442 | 1499 | 2020-09-06 01:00:34 |
 | [nose2](https://github.com/nose-devs/nose2) | 647 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11680 | 2492 | 2020-09-05 17:35:37 |
 | [flexx](https://github.com/flexxui/flexx) | 2393 | 227 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-09-08T00:01:07*
+*Update Date: 2020-09-08T01:00:48*
