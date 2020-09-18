@@ -4,8 +4,8 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [flask](https://github.com/pallets/flask) | 52047 | 13771 | 2020-09-15 16:20:10 |
-| [django](https://github.com/django/django) | 52021 | 22545 | 2020-09-18 10:15:46 |
+| [flask](https://github.com/pallets/flask) | 52048 | 13770 | 2020-09-15 16:20:10 |
+| [django](https://github.com/django/django) | 52024 | 22545 | 2020-09-18 10:15:46 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 21050 | 1415 | 2020-08-29 14:30:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19429 | 5241 | 2020-09-14 00:19:37 |
 | [sanic](https://github.com/huge-success/sanic) | 14097 | 1290 | 2020-09-02 20:22:02 |
@@ -14,15 +14,15 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38288 | 8797 | 2020-09-14 20:17:46 |
-| [pyspider](https://github.com/binux/pyspider) | 14576 | 3526 | 2020-08-02 17:34:20 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38288 | 8798 | 2020-09-14 20:17:46 |
+| [pyspider](https://github.com/binux/pyspider) | 14577 | 3526 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9251 | 3849 | 2020-09-09 03:02:19 |
 
 ## GraphQL Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6012 | 634 | 2020-08-28 15:55:46 |
+| [graphene](https://github.com/graphql-python/graphene) | 6013 | 634 | 2020-08-28 15:55:46 |
 
 ## Testing Framework
 
@@ -35,7 +35,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11735 | 2503 | 2020-09-16 01:50:34 |
+| [kivy](https://github.com/kivy/kivy) | 11736 | 2503 | 2020-09-16 01:50:34 |
 | [flexx](https://github.com/flexxui/flexx) | 2407 | 226 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-09-19T06:00:46*
+*Update Date: 2020-09-19T07:00:47*
