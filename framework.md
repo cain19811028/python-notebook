@@ -6,9 +6,9 @@
 | ------------ | ----- | ----- | ----------- |
 | [flask](https://github.com/pallets/flask) | 52048 | 13771 | 2020-09-15 16:20:10 |
 | [django](https://github.com/django/django) | 52027 | 22545 | 2020-09-18 10:15:46 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 21059 | 1415 | 2020-08-29 14:30:50 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 21062 | 1415 | 2020-08-29 14:30:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19429 | 5241 | 2020-09-14 00:19:37 |
-| [sanic](https://github.com/huge-success/sanic) | 14097 | 1290 | 2020-09-02 20:22:02 |
+| [sanic](https://github.com/huge-success/sanic) | 14098 | 1290 | 2020-09-02 20:22:02 |
 
 ## Crawler Framework
 
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11737 | 2503 | 2020-09-16 01:50:34 |
 | [flexx](https://github.com/flexxui/flexx) | 2407 | 226 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-09-19T13:01:33*
+*Update Date: 2020-09-19T14:01:33*
