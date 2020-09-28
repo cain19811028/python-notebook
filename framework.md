@@ -4,9 +4,9 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 52325 | 22602 | 2020-09-25 10:36:33 |
-| [flask](https://github.com/pallets/flask) | 52172 | 13798 | 2020-09-15 16:20:10 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 21369 | 1445 | 2020-08-29 14:30:50 |
+| [django](https://github.com/django/django) | 52328 | 22603 | 2020-09-25 10:36:33 |
+| [flask](https://github.com/pallets/flask) | 52174 | 13799 | 2020-09-15 16:20:10 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 21370 | 1445 | 2020-08-29 14:30:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19440 | 5242 | 2020-09-27 01:39:46 |
 | [sanic](https://github.com/huge-success/sanic) | 14126 | 1290 | 2020-09-27 23:06:37 |
 
@@ -16,7 +16,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 38364 | 8802 | 2020-09-21 12:40:00 |
 | [pyspider](https://github.com/binux/pyspider) | 14594 | 3527 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9270 | 3855 | 2020-09-21 09:48:59 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9271 | 3855 | 2020-09-21 09:48:59 |
 
 ## GraphQL Framework
 
@@ -28,14 +28,14 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6532 | 1513 | 2020-09-27 10:19:58 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6532 | 1512 | 2020-09-27 10:19:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 654 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11865 | 2516 | 2020-09-27 17:46:06 |
+| [kivy](https://github.com/kivy/kivy) | 11867 | 2516 | 2020-09-27 17:46:06 |
 | [flexx](https://github.com/flexxui/flexx) | 2412 | 226 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-09-28T10:01:59*
+*Update Date: 2020-09-28T11:01:07*
