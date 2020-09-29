@@ -4,10 +4,10 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 52433 | 22613 | 2020-09-29 07:04:25 |
-| [flask](https://github.com/pallets/flask) | 52205 | 13797 | 2020-09-28 14:21:13 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 21405 | 1447 | 2020-08-29 14:30:50 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19443 | 5243 | 2020-09-29 03:05:59 |
+| [django](https://github.com/django/django) | 52436 | 22614 | 2020-09-29 08:55:06 |
+| [flask](https://github.com/pallets/flask) | 52207 | 13797 | 2020-09-28 14:21:13 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 21407 | 1447 | 2020-08-29 14:30:50 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19443 | 5244 | 2020-09-29 03:05:59 |
 | [sanic](https://github.com/huge-success/sanic) | 14129 | 1291 | 2020-09-28 22:08:04 |
 
 ## Crawler Framework
@@ -22,20 +22,20 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6046 | 636 | 2020-09-22 16:10:01 |
+| [graphene](https://github.com/graphql-python/graphene) | 6047 | 636 | 2020-09-22 16:10:01 |
 
 ## Testing Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6536 | 1513 | 2020-09-28 16:30:58 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6537 | 1513 | 2020-09-28 16:30:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 654 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11879 | 2515 | 2020-09-28 11:42:49 |
+| [kivy](https://github.com/kivy/kivy) | 11879 | 2516 | 2020-09-28 11:42:49 |
 | [flexx](https://github.com/flexxui/flexx) | 2412 | 226 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-09-29T16:00:40*
+*Update Date: 2020-09-29T17:00:42*
