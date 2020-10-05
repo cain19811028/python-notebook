@@ -14,7 +14,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38446 | 8827 | 2020-10-02 22:53:55 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38445 | 8827 | 2020-10-02 22:53:55 |
 | [pyspider](https://github.com/binux/pyspider) | 14609 | 3531 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9284 | 3864 | 2020-09-21 09:48:59 |
 
@@ -22,7 +22,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6051 | 638 | 2020-09-22 16:10:01 |
+| [graphene](https://github.com/graphql-python/graphene) | 6052 | 638 | 2020-09-22 16:10:01 |
 
 ## Testing Framework
 
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11917 | 2521 | 2020-09-29 20:55:45 |
 | [flexx](https://github.com/flexxui/flexx) | 2418 | 227 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-05T07:00:29*
+*Update Date: 2020-10-05T08:00:30*
