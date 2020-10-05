@@ -4,9 +4,9 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 52617 | 22665 | 2020-10-05 10:25:05 |
+| [django](https://github.com/django/django) | 52619 | 22666 | 2020-10-05 10:25:05 |
 | [flask](https://github.com/pallets/flask) | 52263 | 13811 | 2020-10-03 14:05:05 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 21596 | 1464 | 2020-08-29 14:30:50 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 21598 | 1464 | 2020-08-29 14:30:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19454 | 5245 | 2020-09-30 14:46:59 |
 | [sanic](https://github.com/huge-success/sanic) | 14149 | 1293 | 2020-09-30 14:30:21 |
 
@@ -14,7 +14,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38448 | 8828 | 2020-10-02 22:53:55 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38449 | 8828 | 2020-10-02 22:53:55 |
 | [pyspider](https://github.com/binux/pyspider) | 14610 | 3531 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9284 | 3864 | 2020-09-21 09:48:59 |
 
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11922 | 2522 | 2020-10-05 02:39:29 |
 | [flexx](https://github.com/flexxui/flexx) | 2418 | 227 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-05T20:00:23*
+*Update Date: 2020-10-05T21:00:22*
