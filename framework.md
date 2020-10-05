@@ -4,9 +4,9 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 52619 | 22666 | 2020-10-05 10:25:05 |
+| [django](https://github.com/django/django) | 52621 | 22667 | 2020-10-05 10:25:05 |
 | [flask](https://github.com/pallets/flask) | 52263 | 13811 | 2020-10-03 14:05:05 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 21598 | 1464 | 2020-08-29 14:30:50 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 21599 | 1463 | 2020-08-29 14:30:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19454 | 5245 | 2020-09-30 14:46:59 |
 | [sanic](https://github.com/huge-success/sanic) | 14149 | 1293 | 2020-09-30 14:30:21 |
 
@@ -28,7 +28,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6561 | 1518 | 2020-10-04 15:25:32 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6562 | 1518 | 2020-10-04 15:25:32 |
 | [nose2](https://github.com/nose-devs/nose2) | 654 | 128 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11922 | 2522 | 2020-10-05 02:39:29 |
 | [flexx](https://github.com/flexxui/flexx) | 2418 | 227 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-05T21:00:22*
+*Update Date: 2020-10-05T22:00:22*
