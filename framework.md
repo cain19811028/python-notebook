@@ -4,17 +4,17 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 52719 | 22719 | 2020-10-08 17:53:49 |
+| [django](https://github.com/django/django) | 52719 | 22719 | 2020-10-09 06:14:17 |
 | [flask](https://github.com/pallets/flask) | 52311 | 13824 | 2020-10-07 15:06:29 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 21749 | 1472 | 2020-08-29 14:30:50 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19460 | 5249 | 2020-09-30 14:46:59 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 21750 | 1472 | 2020-08-29 14:30:50 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19460 | 5250 | 2020-09-30 14:46:59 |
 | [sanic](https://github.com/huge-success/sanic) | 14160 | 1292 | 2020-09-30 14:30:21 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38480 | 8842 | 2020-10-08 19:39:05 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38482 | 8843 | 2020-10-08 19:39:05 |
 | [pyspider](https://github.com/binux/pyspider) | 14615 | 3530 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9287 | 3865 | 2020-09-21 09:48:59 |
 
@@ -22,7 +22,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6060 | 640 | 2020-09-22 16:10:01 |
+| [graphene](https://github.com/graphql-python/graphene) | 6059 | 640 | 2020-09-22 16:10:01 |
 
 ## Testing Framework
 
@@ -35,7 +35,7 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11938 | 2523 | 2020-10-07 06:39:27 |
+| [kivy](https://github.com/kivy/kivy) | 11939 | 2523 | 2020-10-07 06:39:27 |
 | [flexx](https://github.com/flexxui/flexx) | 2420 | 228 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-09T14:02:24*
+*Update Date: 2020-10-09T14:43:32*
