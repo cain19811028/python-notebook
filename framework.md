@@ -16,7 +16,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 38585 | 8859 | 2020-10-11 20:12:45 |
 | [pyspider](https://github.com/binux/pyspider) | 14635 | 3534 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9314 | 3869 | 2020-10-14 02:23:49 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9315 | 3869 | 2020-10-14 02:23:49 |
 
 ## GraphQL Framework
 
@@ -38,4 +38,4 @@
 | [kivy](https://github.com/kivy/kivy) | 11979 | 2525 | 2020-10-17 21:10:43 |
 | [flexx](https://github.com/flexxui/flexx) | 2423 | 228 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-18T11:43:37*
+*Update Date: 2020-10-18T12:00:30*
