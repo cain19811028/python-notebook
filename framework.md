@@ -4,17 +4,17 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 52970 | 22819 | 2020-10-19 10:41:52 |
-| [flask](https://github.com/pallets/flask) | 52461 | 13860 | 2020-10-15 21:08:37 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 22117 | 1505 | 2020-10-18 20:19:45 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19493 | 5251 | 2020-09-30 14:46:59 |
+| [django](https://github.com/django/django) | 52971 | 22823 | 2020-10-19 10:43:32 |
+| [flask](https://github.com/pallets/flask) | 52464 | 13861 | 2020-10-15 21:08:37 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 22119 | 1505 | 2020-10-18 20:19:45 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19493 | 5250 | 2020-09-30 14:46:59 |
 | [sanic](https://github.com/huge-success/sanic) | 14185 | 1293 | 2020-09-30 14:30:21 |
 
 ## Crawler Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38598 | 8860 | 2020-10-11 20:12:45 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38599 | 8860 | 2020-10-11 20:12:45 |
 | [pyspider](https://github.com/binux/pyspider) | 14636 | 3537 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9319 | 3869 | 2020-10-14 02:23:49 |
 
@@ -28,14 +28,14 @@
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6618 | 1535 | 2020-10-18 21:28:04 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6619 | 1535 | 2020-10-18 21:28:04 |
 | [nose2](https://github.com/nose-devs/nose2) | 655 | 128 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 11991 | 2526 | 2020-10-17 21:10:43 |
+| [kivy](https://github.com/kivy/kivy) | 11992 | 2526 | 2020-10-17 21:10:43 |
 | [flexx](https://github.com/flexxui/flexx) | 2425 | 228 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-19T19:00:29*
+*Update Date: 2020-10-19T20:00:29*
