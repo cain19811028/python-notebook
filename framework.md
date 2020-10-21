@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 53022 | 22850 | 2020-10-21 08:53:44 |
-| [flask](https://github.com/pallets/flask) | 52497 | 13858 | 2020-10-15 21:08:37 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 22187 | 1519 | 2020-10-18 20:19:45 |
+| [django](https://github.com/django/django) | 53023 | 22851 | 2020-10-21 09:47:07 |
+| [flask](https://github.com/pallets/flask) | 52499 | 13858 | 2020-10-15 21:08:37 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 22188 | 1519 | 2020-10-18 20:19:45 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19497 | 5251 | 2020-10-20 01:25:40 |
 | [sanic](https://github.com/huge-success/sanic) | 14189 | 1293 | 2020-09-30 14:30:21 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38621 | 8868 | 2020-10-20 08:55:07 |
-| [pyspider](https://github.com/binux/pyspider) | 14638 | 3537 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9328 | 3874 | 2020-10-14 02:23:49 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38623 | 8868 | 2020-10-20 08:55:07 |
+| [pyspider](https://github.com/binux/pyspider) | 14639 | 3537 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9329 | 3874 | 2020-10-14 02:23:49 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12001 | 2528 | 2020-10-17 21:10:43 |
-| [flexx](https://github.com/flexxui/flexx) | 2426 | 228 | 2020-09-07 13:32:02 |
+| [kivy](https://github.com/kivy/kivy) | 12002 | 2528 | 2020-10-17 21:10:43 |
+| [flexx](https://github.com/flexxui/flexx) | 2427 | 228 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-21T10:00:49*
+*Update Date: 2020-10-21T11:00:49*
