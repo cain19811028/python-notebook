@@ -19,7 +19,7 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6083 | 645 | 2020-10-21 09:15:38 |
+| [graphene](https://github.com/graphql-python/graphene) | 6084 | 645 | 2020-10-21 09:15:38 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12011 | 2529 | 2020-10-17 21:10:43 |
 | [flexx](https://github.com/flexxui/flexx) | 2427 | 228 | 2020-09-07 13:32:02 |
 
-*Update Date: 2020-10-23T11:00:50*
+*Update Date: 2020-10-23T12:00:49*
