@@ -3,10 +3,10 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 53259 | 22928 | 2020-10-30 11:01:33 |
-| [flask](https://github.com/pallets/flask) | 52627 | 13893 | 2020-10-29 16:33:20 |
+| [django](https://github.com/django/django) | 53260 | 22928 | 2020-10-30 11:01:33 |
+| [flask](https://github.com/pallets/flask) | 52627 | 13892 | 2020-10-29 16:33:20 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 22588 | 1548 | 2020-10-25 18:48:12 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19513 | 5256 | 2020-10-30 17:44:37 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19514 | 5256 | 2020-10-30 17:44:37 |
 | [sanic](https://github.com/huge-success/sanic) | 14216 | 1293 | 2020-10-26 01:43:53 |
 
 ## Crawler Framework
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12047 | 2540 | 2020-10-26 17:17:46 |
+| [kivy](https://github.com/kivy/kivy) | 12048 | 2540 | 2020-10-26 17:17:46 |
 | [flexx](https://github.com/flexxui/flexx) | 2433 | 231 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-10-31T00:00:54*
+*Update Date: 2020-10-31T01:00:49*
