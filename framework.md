@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 53326 | 22972 | 2020-11-04 05:41:47 |
+| [django](https://github.com/django/django) | 53329 | 22972 | 2020-11-04 05:41:47 |
 | [flask](https://github.com/pallets/flask) | 52681 | 13909 | 2020-11-01 13:30:02 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 22716 | 1558 | 2020-11-01 21:54:32 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 22715 | 1559 | 2020-11-01 21:54:32 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19528 | 5257 | 2020-11-03 02:28:30 |
 | [sanic](https://github.com/huge-success/sanic) | 14231 | 1294 | 2020-10-26 01:43:53 |
 
@@ -14,7 +14,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 38772 | 8890 | 2020-10-30 18:36:39 |
 | [pyspider](https://github.com/binux/pyspider) | 14671 | 3538 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9364 | 3875 | 2020-10-27 01:01:21 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9365 | 3875 | 2020-10-27 01:01:21 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6666 | 1554 | 2020-11-03 16:01:25 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6668 | 1554 | 2020-11-03 16:01:25 |
 | [nose2](https://github.com/nose-devs/nose2) | 655 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12065 | 2543 | 2020-11-01 21:23:16 |
+| [kivy](https://github.com/kivy/kivy) | 12066 | 2543 | 2020-11-01 21:23:16 |
 | [flexx](https://github.com/flexxui/flexx) | 2437 | 232 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-11-04T07:00:53*
+*Update Date: 2020-11-04T08:00:49*
