@@ -13,8 +13,8 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 38789 | 8893 | 2020-11-05 14:15:58 |
-| [pyspider](https://github.com/binux/pyspider) | 14673 | 3537 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9367 | 3877 | 2020-10-27 01:01:21 |
+| [pyspider](https://github.com/binux/pyspider) | 14674 | 3537 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9366 | 3877 | 2020-10-27 01:01:21 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -31,6 +31,6 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 12072 | 2544 | 2020-11-06 00:35:02 |
-| [flexx](https://github.com/flexxui/flexx) | 2439 | 232 | 2020-10-26 09:39:53 |
+| [flexx](https://github.com/flexxui/flexx) | 2439 | 233 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-11-06T01:00:49*
+*Update Date: 2020-11-06T02:00:48*
