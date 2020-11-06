@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 53350 | 22987 | 2020-11-06 07:48:11 |
-| [flask](https://github.com/pallets/flask) | 52696 | 13909 | 2020-11-05 17:33:13 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 22765 | 1564 | 2020-11-05 23:14:52 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19533 | 5260 | 2020-11-03 02:28:30 |
+| [django](https://github.com/django/django) | 53353 | 22987 | 2020-11-06 07:48:11 |
+| [flask](https://github.com/pallets/flask) | 52697 | 13910 | 2020-11-05 17:33:13 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 22766 | 1564 | 2020-11-05 23:14:52 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19535 | 5260 | 2020-11-03 02:28:30 |
 | [sanic](https://github.com/huge-success/sanic) | 14231 | 1293 | 2020-11-06 06:32:04 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 38791 | 8894 | 2020-11-05 14:15:58 |
+| [scrapy](https://github.com/scrapy/scrapy) | 38792 | 8894 | 2020-11-05 14:15:58 |
 | [pyspider](https://github.com/binux/pyspider) | 14675 | 3538 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9368 | 3877 | 2020-10-27 01:01:21 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6674 | 1556 | 2020-11-05 16:46:50 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6674 | 1556 | 2020-11-06 08:48:20 |
 | [nose2](https://github.com/nose-devs/nose2) | 655 | 129 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12075 | 2545 | 2020-11-06 00:35:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2440 | 233 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-11-06T08:00:49*
+*Update Date: 2020-11-06T09:00:49*
