@@ -3,23 +3,23 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 53865 | 23213 | 2020-11-28 11:22:59 |
+| [django](https://github.com/django/django) | 53865 | 23214 | 2020-11-28 11:22:59 |
 | [flask](https://github.com/pallets/flask) | 52990 | 13966 | 2020-11-24 02:51:40 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 23585 | 1624 | 2020-11-25 17:48:13 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19611 | 5279 | 2020-11-03 02:28:30 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 23586 | 1624 | 2020-11-25 17:48:13 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19611 | 5280 | 2020-11-03 02:28:30 |
 | [sanic](https://github.com/huge-success/sanic) | 14299 | 1299 | 2020-11-23 00:02:33 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 39035 | 8931 | 2020-11-24 18:59:00 |
+| [scrapy](https://github.com/scrapy/scrapy) | 39035 | 8932 | 2020-11-24 18:59:00 |
 | [pyspider](https://github.com/binux/pyspider) | 14718 | 3547 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9441 | 3877 | 2020-10-27 01:01:21 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6177 | 654 | 2020-11-17 16:01:21 |
+| [graphene](https://github.com/graphql-python/graphene) | 6178 | 654 | 2020-11-17 16:01:21 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12179 | 2560 | 2020-11-28 22:43:08 |
+| [kivy](https://github.com/kivy/kivy) | 12180 | 2560 | 2020-11-28 22:43:08 |
 | [flexx](https://github.com/flexxui/flexx) | 2459 | 234 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-11-29T10:00:48*
+*Update Date: 2020-11-29T11:00:49*
