@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 53932 | 23241 | 2020-12-01 06:12:49 |
-| [flask](https://github.com/pallets/flask) | 53021 | 13972 | 2020-11-24 02:51:40 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 23704 | 1633 | 2020-12-02 07:00:39 |
+| [django](https://github.com/django/django) | 53935 | 23242 | 2020-12-01 06:12:49 |
+| [flask](https://github.com/pallets/flask) | 53020 | 13973 | 2020-11-24 02:51:40 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 23708 | 1633 | 2020-12-02 07:00:39 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19624 | 5281 | 2020-11-03 02:28:30 |
 | [sanic](https://github.com/huge-success/sanic) | 14315 | 1300 | 2020-11-29 21:26:12 |
 
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12195 | 2565 | 2020-11-28 22:43:08 |
 | [flexx](https://github.com/flexxui/flexx) | 2465 | 234 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-12-02T09:00:49*
+*Update Date: 2020-12-02T10:00:53*
