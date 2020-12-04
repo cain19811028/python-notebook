@@ -5,16 +5,16 @@
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 53982 | 23263 | 2020-12-03 08:32:08 |
 | [flask](https://github.com/pallets/flask) | 53043 | 13978 | 2020-11-24 02:51:40 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 23784 | 1639 | 2020-12-03 17:38:21 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19630 | 5280 | 2020-11-03 02:28:30 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 23789 | 1638 | 2020-12-03 17:38:21 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19629 | 5280 | 2020-11-03 02:28:30 |
 | [sanic](https://github.com/huge-success/sanic) | 14323 | 1300 | 2020-11-29 21:26:12 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 39096 | 8942 | 2020-12-03 20:36:47 |
-| [pyspider](https://github.com/binux/pyspider) | 14735 | 3549 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9452 | 3877 | 2020-10-27 01:01:21 |
+| [scrapy](https://github.com/scrapy/scrapy) | 39098 | 8942 | 2020-12-03 20:36:47 |
+| [pyspider](https://github.com/binux/pyspider) | 14735 | 3550 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9453 | 3877 | 2020-10-27 01:01:21 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6777 | 1581 | 2020-12-02 16:17:59 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6778 | 1581 | 2020-12-02 16:17:59 |
 | [nose2](https://github.com/nose-devs/nose2) | 653 | 132 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12205 | 2567 | 2020-11-28 22:43:08 |
 | [flexx](https://github.com/flexxui/flexx) | 2465 | 234 | 2020-10-26 09:39:53 |
 
-*Update Date: 2020-12-04T07:00:53*
+*Update Date: 2020-12-04T08:00:53*
