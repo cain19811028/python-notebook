@@ -3,8 +3,8 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 54546 | 23439 | 2020-12-23 16:21:25 |
-| [flask](https://github.com/pallets/flask) | 53301 | 14030 | 2020-12-22 05:51:15 |
+| [django](https://github.com/django/django) | 54547 | 23440 | 2020-12-23 16:21:25 |
+| [flask](https://github.com/pallets/flask) | 53302 | 14030 | 2020-12-22 05:51:15 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 25140 | 1707 | 2020-12-20 19:18:06 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19695 | 5292 | 2020-11-03 02:28:30 |
 | [sanic](https://github.com/huge-success/sanic) | 14383 | 1304 | 2020-12-25 06:29:21 |
@@ -19,12 +19,12 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6229 | 658 | 2020-11-17 16:01:21 |
+| [graphene](https://github.com/graphql-python/graphene) | 6230 | 658 | 2020-11-17 16:01:21 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6844 | 1601 | 2020-12-26 13:01:07 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6845 | 1601 | 2020-12-26 13:01:07 |
 | [nose2](https://github.com/nose-devs/nose2) | 656 | 132 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12466 | 2585 | 2020-12-25 22:17:57 |
 | [flexx](https://github.com/flexxui/flexx) | 2485 | 236 | 2020-12-21 09:54:57 |
 
-*Update Date: 2020-12-27T17:00:52*
+*Update Date: 2020-12-27T18:00:49*
