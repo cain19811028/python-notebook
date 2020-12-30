@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6856 | 1603 | 2020-12-30 09:57:02 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6856 | 1604 | 2020-12-30 09:57:02 |
 | [nose2](https://github.com/nose-devs/nose2) | 657 | 132 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12480 | 2584 | 2020-12-30 20:47:37 |
 | [flexx](https://github.com/flexxui/flexx) | 2494 | 238 | 2020-12-21 09:54:57 |
 
-*Update Date: 2020-12-30T21:00:48*
+*Update Date: 2020-12-30T22:00:49*
