@@ -12,7 +12,7 @@
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 39325 | 8963 | 2020-12-30 14:22:27 |
+| [scrapy](https://github.com/scrapy/scrapy) | 39325 | 8962 | 2020-12-30 14:22:27 |
 | [pyspider](https://github.com/binux/pyspider) | 14787 | 3555 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9519 | 3896 | 2020-12-29 09:27:42 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6856 | 1604 | 2020-12-30 09:57:02 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6857 | 1604 | 2020-12-30 09:57:02 |
 | [nose2](https://github.com/nose-devs/nose2) | 657 | 132 | 2020-03-03 16:52:03 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12480 | 2584 | 2020-12-30 20:47:37 |
-| [flexx](https://github.com/flexxui/flexx) | 2494 | 239 | 2020-12-21 09:54:57 |
+| [kivy](https://github.com/kivy/kivy) | 12481 | 2584 | 2020-12-30 20:47:37 |
+| [flexx](https://github.com/flexxui/flexx) | 2495 | 239 | 2020-12-21 09:54:57 |
 
-*Update Date: 2020-12-31T00:00:52*
+*Update Date: 2020-12-31T01:00:48*
