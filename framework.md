@@ -5,7 +5,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 55294 | 23760 | 2021-01-29 10:58:43 |
 | [flask](https://github.com/pallets/flask) | 53710 | 14091 | 2021-01-27 18:00:02 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 26592 | 1812 | 2021-01-19 20:13:46 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 26593 | 1812 | 2021-01-19 20:13:46 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19766 | 5320 | 2021-01-28 14:54:56 |
 | [sanic](https://github.com/sanic-org/sanic) | 14513 | 1308 | 2021-01-31 14:59:00 |
 
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12629 | 2621 | 2021-01-28 02:59:13 |
 | [flexx](https://github.com/flexxui/flexx) | 2532 | 240 | 2021-01-18 10:07:20 |
 
-*Update Date: 2021-02-01T00:00:51*
+*Update Date: 2021-02-01T01:00:51*
