@@ -3,17 +3,17 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 55447 | 23811 | 2021-02-06 12:41:35 |
-| [flask](https://github.com/pallets/flask) | 53799 | 14107 | 2021-02-02 06:57:42 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 27188 | 1840 | 2021-02-07 18:27:26 |
+| [django](https://github.com/django/django) | 55449 | 23812 | 2021-02-06 12:41:35 |
+| [flask](https://github.com/pallets/flask) | 53800 | 14107 | 2021-02-02 06:57:42 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 27189 | 1840 | 2021-02-07 18:27:26 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19779 | 5320 | 2021-02-04 02:40:24 |
 | [sanic](https://github.com/sanic-org/sanic) | 14537 | 1309 | 2021-01-31 14:59:00 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 39683 | 9024 | 2021-02-02 20:10:52 |
-| [pyspider](https://github.com/binux/pyspider) | 14850 | 3567 | 2020-08-02 17:34:20 |
+| [scrapy](https://github.com/scrapy/scrapy) | 39684 | 9024 | 2021-02-02 20:10:52 |
+| [pyspider](https://github.com/binux/pyspider) | 14851 | 3567 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9601 | 3917 | 2021-02-03 02:13:50 |
 
 ## GraphQL Framework
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 6995 | 1627 | 2021-02-07 17:44:44 |
+| [pytest](https://github.com/pytest-dev/pytest) | 6995 | 1628 | 2021-02-07 17:44:44 |
 | [nose2](https://github.com/nose-devs/nose2) | 661 | 131 | 2021-01-30 19:42:34 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12659 | 2628 | 2021-02-05 22:47:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2542 | 241 | 2021-01-18 10:07:20 |
 
-*Update Date: 2021-02-08T04:00:48*
+*Update Date: 2021-02-08T05:00:48*
