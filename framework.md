@@ -12,7 +12,7 @@
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 39891 | 9060 | 2021-02-24 21:00:55 |
+| [scrapy](https://github.com/scrapy/scrapy) | 39892 | 9060 | 2021-02-24 21:00:55 |
 | [pyspider](https://github.com/binux/pyspider) | 14894 | 3569 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9635 | 3927 | 2021-02-27 08:17:10 |
 
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12739 | 2647 | 2021-02-24 22:03:11 |
+| [kivy](https://github.com/kivy/kivy) | 12740 | 2647 | 2021-02-24 22:03:11 |
 | [flexx](https://github.com/flexxui/flexx) | 2558 | 244 | 2021-01-18 10:07:20 |
 
-*Update Date: 2021-02-28T03:00:47*
+*Update Date: 2021-02-28T04:00:48*
