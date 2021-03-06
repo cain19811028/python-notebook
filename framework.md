@@ -19,12 +19,12 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6392 | 680 | 2021-01-06 09:58:19 |
+| [graphene](https://github.com/graphql-python/graphene) | 6393 | 680 | 2021-01-06 09:58:19 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7083 | 1647 | 2021-03-04 20:45:57 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7083 | 1647 | 2021-03-06 21:59:33 |
 | [nose2](https://github.com/nose-devs/nose2) | 660 | 132 | 2021-01-30 19:42:34 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12759 | 2649 | 2021-02-24 22:03:11 |
 | [flexx](https://github.com/flexxui/flexx) | 2567 | 244 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-03-06T21:00:48*
+*Update Date: 2021-03-06T22:00:48*
