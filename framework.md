@@ -31,6 +31,6 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 12845 | 2660 | 2021-03-27 17:02:39 |
-| [flexx](https://github.com/flexxui/flexx) | 2607 | 246 | 2021-03-01 10:48:16 |
+| [flexx](https://github.com/flexxui/flexx) | 2607 | 245 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-03-27T22:00:48*
+*Update Date: 2021-03-27T23:00:47*
