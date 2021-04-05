@@ -14,12 +14,12 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 40230 | 9100 | 2021-04-04 10:52:32 |
 | [pyspider](https://github.com/binux/pyspider) | 14944 | 3573 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9705 | 3955 | 2021-03-22 10:21:59 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9705 | 3956 | 2021-03-22 10:21:59 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6462 | 690 | 2021-03-24 19:32:51 |
+| [graphene](https://github.com/graphql-python/graphene) | 6463 | 690 | 2021-03-24 19:32:51 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12872 | 2675 | 2021-04-04 05:56:04 |
 | [flexx](https://github.com/flexxui/flexx) | 2613 | 244 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-04-05T00:00:48*
+*Update Date: 2021-04-05T01:00:48*
