@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 56904 | 24335 | 2021-04-20 07:47:11 |
-| [flask](https://github.com/pallets/flask) | 54593 | 14248 | 2021-04-17 14:34:56 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 29886 | 2072 | 2021-04-07 07:04:13 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19936 | 5360 | 2021-04-03 16:36:51 |
+| [django](https://github.com/django/django) | 56905 | 24335 | 2021-04-20 07:47:11 |
+| [flask](https://github.com/pallets/flask) | 54594 | 14248 | 2021-04-17 14:34:56 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 29888 | 2072 | 2021-04-07 07:04:13 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19935 | 5360 | 2021-04-03 16:36:51 |
 | [sanic](https://github.com/sanic-org/sanic) | 14869 | 1344 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40372 | 9136 | 2021-04-15 09:50:59 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40373 | 9136 | 2021-04-15 09:50:59 |
 | [pyspider](https://github.com/binux/pyspider) | 14954 | 3574 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9733 | 3958 | 2021-04-09 09:04:18 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9732 | 3958 | 2021-04-09 09:04:18 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,8 +24,8 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7223 | 1676 | 2021-04-19 20:39:08 |
-| [nose2](https://github.com/nose-devs/nose2) | 673 | 131 | 2021-03-10 16:59:06 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7223 | 1677 | 2021-04-19 20:39:08 |
+| [nose2](https://github.com/nose-devs/nose2) | 674 | 131 | 2021-03-10 16:59:06 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 12952 | 2684 | 2021-04-16 16:36:57 |
 | [flexx](https://github.com/flexxui/flexx) | 2625 | 244 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-04-20T10:00:48*
+*Update Date: 2021-04-20T11:00:48*
