@@ -4,15 +4,15 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 56921 | 24340 | 2021-04-20 09:44:41 |
-| [flask](https://github.com/pallets/flask) | 54606 | 14248 | 2021-04-17 14:34:56 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 29923 | 2071 | 2021-04-07 07:04:13 |
+| [flask](https://github.com/pallets/flask) | 54606 | 14249 | 2021-04-17 14:34:56 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 29924 | 2071 | 2021-04-07 07:04:13 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19938 | 5360 | 2021-04-03 16:36:51 |
-| [sanic](https://github.com/sanic-org/sanic) | 14870 | 1344 | 2021-04-19 21:53:42 |
+| [sanic](https://github.com/sanic-org/sanic) | 14871 | 1344 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40384 | 9136 | 2021-04-20 19:39:07 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40385 | 9136 | 2021-04-20 19:39:07 |
 | [pyspider](https://github.com/binux/pyspider) | 14954 | 3574 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9735 | 3957 | 2021-04-09 09:04:18 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7228 | 1678 | 2021-04-20 13:42:54 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7228 | 1679 | 2021-04-20 13:42:54 |
 | [nose2](https://github.com/nose-devs/nose2) | 674 | 131 | 2021-03-10 16:59:06 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12954 | 2685 | 2021-04-16 16:36:57 |
+| [kivy](https://github.com/kivy/kivy) | 12954 | 2686 | 2021-04-16 16:36:57 |
 | [flexx](https://github.com/flexxui/flexx) | 2625 | 244 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-04-21T00:00:48*
+*Update Date: 2021-04-21T01:00:48*
