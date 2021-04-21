@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12954 | 2686 | 2021-04-21 17:42:27 |
+| [kivy](https://github.com/kivy/kivy) | 12955 | 2686 | 2021-04-21 17:42:27 |
 | [flexx](https://github.com/flexxui/flexx) | 2628 | 245 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-04-21T22:00:48*
+*Update Date: 2021-04-21T23:00:49*
