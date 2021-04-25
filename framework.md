@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 57015 | 24392 | 2021-04-23 14:32:53 |
-| [flask](https://github.com/pallets/flask) | 54669 | 14262 | 2021-04-24 14:31:16 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 30105 | 2082 | 2021-04-07 07:04:13 |
-| [tornado](https://github.com/tornadoweb/tornado) | 19947 | 5359 | 2021-04-21 19:58:33 |
+| [django](https://github.com/django/django) | 57016 | 24393 | 2021-04-23 14:32:53 |
+| [flask](https://github.com/pallets/flask) | 54670 | 14262 | 2021-04-24 14:31:16 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 30108 | 2082 | 2021-04-07 07:04:13 |
+| [tornado](https://github.com/tornadoweb/tornado) | 19948 | 5359 | 2021-04-21 19:58:33 |
 | [sanic](https://github.com/sanic-org/sanic) | 14884 | 1343 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40424 | 9148 | 2021-04-21 09:30:50 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40423 | 9148 | 2021-04-21 09:30:50 |
 | [pyspider](https://github.com/binux/pyspider) | 14953 | 3576 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9747 | 3955 | 2021-04-09 09:04:18 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9748 | 3955 | 2021-04-09 09:04:18 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7245 | 1684 | 2021-04-25 02:55:13 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7246 | 1684 | 2021-04-25 02:55:13 |
 | [nose2](https://github.com/nose-devs/nose2) | 674 | 132 | 2021-03-10 16:59:06 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 12979 | 2687 | 2021-04-23 22:48:06 |
+| [kivy](https://github.com/kivy/kivy) | 12979 | 2688 | 2021-04-23 22:48:06 |
 | [flexx](https://github.com/flexxui/flexx) | 2632 | 245 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-04-25T12:00:48*
+*Update Date: 2021-04-25T13:00:48*
