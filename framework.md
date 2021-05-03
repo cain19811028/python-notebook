@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 57161 | 24442 | 2021-04-30 12:04:22 |
-| [flask](https://github.com/pallets/flask) | 54772 | 14285 | 2021-05-03 13:23:00 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 30497 | 2115 | 2021-04-07 07:04:13 |
+| [django](https://github.com/django/django) | 57162 | 24442 | 2021-04-30 12:04:22 |
+| [flask](https://github.com/pallets/flask) | 54772 | 14285 | 2021-05-03 14:13:43 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 30505 | 2116 | 2021-04-07 07:04:13 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19960 | 5361 | 2021-04-21 19:58:33 |
-| [sanic](https://github.com/sanic-org/sanic) | 14906 | 1344 | 2021-04-19 21:53:42 |
+| [sanic](https://github.com/sanic-org/sanic) | 14907 | 1344 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40495 | 9163 | 2021-04-28 12:28:04 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40496 | 9164 | 2021-04-28 12:28:04 |
 | [pyspider](https://github.com/binux/pyspider) | 14958 | 3578 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9770 | 3958 | 2021-04-28 04:17:52 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7274 | 1698 | 2021-05-03 12:32:52 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7276 | 1698 | 2021-05-03 12:32:52 |
 | [nose2](https://github.com/nose-devs/nose2) | 675 | 133 | 2021-03-10 16:59:06 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 13010 | 2695 | 2021-05-02 22:24:04 |
 | [flexx](https://github.com/flexxui/flexx) | 2632 | 245 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-05-03T14:00:49*
+*Update Date: 2021-05-03T15:00:49*
