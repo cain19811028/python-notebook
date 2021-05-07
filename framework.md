@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 57238 | 24471 | 2021-05-07 06:13:40 |
+| [django](https://github.com/django/django) | 57239 | 24471 | 2021-05-07 06:13:40 |
 | [flask](https://github.com/pallets/flask) | 54819 | 14291 | 2021-05-03 18:13:36 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 30661 | 2130 | 2021-05-07 08:15:26 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 30665 | 2130 | 2021-05-07 08:15:26 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19970 | 5362 | 2021-04-21 19:58:33 |
-| [sanic](https://github.com/sanic-org/sanic) | 14928 | 1346 | 2021-04-19 21:53:42 |
+| [sanic](https://github.com/sanic-org/sanic) | 14930 | 1346 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40522 | 9167 | 2021-05-06 14:34:05 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40526 | 9167 | 2021-05-06 14:34:05 |
 | [pyspider](https://github.com/binux/pyspider) | 14960 | 3579 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9778 | 3957 | 2021-04-28 04:17:52 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7291 | 1702 | 2021-05-07 07:48:46 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7292 | 1702 | 2021-05-07 09:44:53 |
 | [nose2](https://github.com/nose-devs/nose2) | 678 | 133 | 2021-03-10 16:59:06 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13027 | 2694 | 2021-05-06 15:04:02 |
+| [kivy](https://github.com/kivy/kivy) | 13028 | 2694 | 2021-05-06 15:04:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2635 | 246 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-05-07T09:00:48*
+*Update Date: 2021-05-07T10:00:50*
