@@ -3,34 +3,34 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 57325 | 24501 | 2021-05-11 07:19:25 |
-| [flask](https://github.com/pallets/flask) | 54864 | 14299 | 2021-05-11 14:07:12 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 30835 | 2149 | 2021-05-10 15:45:21 |
+| [django](https://github.com/django/django) | 57327 | 24500 | 2021-05-11 07:19:25 |
+| [flask](https://github.com/pallets/flask) | 54866 | 14299 | 2021-05-11 14:07:12 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 30838 | 2149 | 2021-05-10 15:45:21 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19977 | 5362 | 2021-05-09 16:27:35 |
 | [sanic](https://github.com/sanic-org/sanic) | 14952 | 1349 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40566 | 9172 | 2021-05-11 07:04:53 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40567 | 9172 | 2021-05-11 07:04:53 |
 | [pyspider](https://github.com/binux/pyspider) | 14967 | 3581 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9786 | 3960 | 2021-04-28 04:17:52 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6561 | 699 | 2021-04-23 03:28:05 |
+| [graphene](https://github.com/graphql-python/graphene) | 6560 | 699 | 2021-04-23 03:28:05 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7310 | 1710 | 2021-05-11 09:52:55 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7311 | 1710 | 2021-05-11 09:52:55 |
 | [nose2](https://github.com/nose-devs/nose2) | 678 | 133 | 2021-03-10 16:59:06 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13039 | 2698 | 2021-05-06 15:04:02 |
+| [kivy](https://github.com/kivy/kivy) | 13040 | 2698 | 2021-05-06 15:04:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2636 | 246 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-05-11T17:00:49*
+*Update Date: 2021-05-11T18:00:49*
