@@ -4,22 +4,22 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 57373 | 24516 | 2021-05-13 07:42:26 |
-| [flask](https://github.com/pallets/flask) | 55022 | 14308 | 2021-05-12 07:51:21 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 30962 | 2152 | 2021-05-11 21:19:14 |
+| [flask](https://github.com/pallets/flask) | 55028 | 14308 | 2021-05-12 07:51:21 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 30963 | 2153 | 2021-05-11 21:19:14 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19987 | 5362 | 2021-05-09 16:27:35 |
-| [sanic](https://github.com/sanic-org/sanic) | 14959 | 1350 | 2021-04-19 21:53:42 |
+| [sanic](https://github.com/sanic-org/sanic) | 14960 | 1350 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40591 | 9177 | 2021-05-11 20:23:02 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40592 | 9177 | 2021-05-11 20:23:02 |
 | [pyspider](https://github.com/binux/pyspider) | 14969 | 3580 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9789 | 3960 | 2021-04-28 04:17:52 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6563 | 699 | 2021-04-23 03:28:05 |
+| [graphene](https://github.com/graphql-python/graphene) | 6564 | 699 | 2021-04-23 03:28:05 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13047 | 2700 | 2021-05-06 15:04:02 |
+| [kivy](https://github.com/kivy/kivy) | 13048 | 2700 | 2021-05-06 15:04:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2637 | 246 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-05-13T18:00:49*
+*Update Date: 2021-05-13T19:00:48*
