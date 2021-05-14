@@ -3,23 +3,23 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 57390 | 24521 | 2021-05-14 10:45:00 |
-| [flask](https://github.com/pallets/flask) | 55206 | 14313 | 2021-05-14 15:17:37 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 31005 | 2152 | 2021-05-11 21:19:14 |
+| [django](https://github.com/django/django) | 57391 | 24522 | 2021-05-14 10:45:00 |
+| [flask](https://github.com/pallets/flask) | 55215 | 14313 | 2021-05-14 15:17:37 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 31008 | 2152 | 2021-05-11 21:19:14 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19989 | 5362 | 2021-05-09 16:27:35 |
 | [sanic](https://github.com/sanic-org/sanic) | 14966 | 1350 | 2021-04-19 21:53:42 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 40596 | 9176 | 2021-05-11 20:23:02 |
+| [scrapy](https://github.com/scrapy/scrapy) | 40597 | 9176 | 2021-05-11 20:23:02 |
 | [pyspider](https://github.com/binux/pyspider) | 14975 | 3579 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9791 | 3961 | 2021-04-28 04:17:52 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6568 | 699 | 2021-04-23 03:28:05 |
+| [graphene](https://github.com/graphql-python/graphene) | 6569 | 699 | 2021-04-23 03:28:05 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13051 | 2700 | 2021-05-06 15:04:02 |
+| [kivy](https://github.com/kivy/kivy) | 13052 | 2700 | 2021-05-06 15:04:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2639 | 246 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-05-14T19:00:48*
+*Update Date: 2021-05-14T20:00:48*
