@@ -4,8 +4,8 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 57425 | 24534 | 2021-05-14 10:45:00 |
-| [flask](https://github.com/pallets/flask) | 55327 | 14318 | 2021-05-14 15:17:37 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 31075 | 2152 | 2021-05-11 21:19:14 |
+| [flask](https://github.com/pallets/flask) | 55328 | 14318 | 2021-05-14 15:17:37 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 31077 | 2152 | 2021-05-16 18:28:24 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19993 | 5363 | 2021-05-15 19:24:25 |
 | [sanic](https://github.com/sanic-org/sanic) | 14970 | 1348 | 2021-04-19 21:53:42 |
 
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13058 | 2699 | 2021-05-06 15:04:02 |
+| [kivy](https://github.com/kivy/kivy) | 13058 | 2698 | 2021-05-06 15:04:02 |
 | [flexx](https://github.com/flexxui/flexx) | 2640 | 246 | 2021-03-01 10:48:16 |
 
-*Update Date: 2021-05-16T18:00:48*
+*Update Date: 2021-05-16T19:00:48*
