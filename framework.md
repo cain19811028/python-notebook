@@ -14,7 +14,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 40829 | 9217 | 2021-06-11 12:11:19 |
 | [pyspider](https://github.com/binux/pyspider) | 15011 | 3587 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9851 | 3967 | 2021-05-19 02:12:44 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9852 | 3967 | 2021-05-19 02:12:44 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13169 | 2717 | 2021-06-07 20:03:27 |
+| [kivy](https://github.com/kivy/kivy) | 13170 | 2717 | 2021-06-07 20:03:27 |
 | [flexx](https://github.com/flexxui/flexx) | 2675 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-06-15T05:00:49*
+*Update Date: 2021-06-15T06:00:48*
