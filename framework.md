@@ -4,8 +4,8 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 58007 | 24810 | 2021-06-15 10:01:28 |
-| [flask](https://github.com/pallets/flask) | 55749 | 14382 | 2021-06-02 02:09:24 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 32167 | 2263 | 2021-06-09 08:17:27 |
+| [flask](https://github.com/pallets/flask) | 55750 | 14382 | 2021-06-02 02:09:24 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 32168 | 2263 | 2021-06-09 08:17:27 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20039 | 5384 | 2021-05-30 15:33:14 |
 | [sanic](https://github.com/sanic-org/sanic) | 15061 | 1356 | 2021-06-16 19:34:52 |
 
@@ -13,7 +13,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 40851 | 9222 | 2021-06-15 08:36:53 |
-| [pyspider](https://github.com/binux/pyspider) | 15014 | 3587 | 2020-08-02 17:34:20 |
+| [pyspider](https://github.com/binux/pyspider) | 15015 | 3587 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9869 | 3971 | 2021-05-19 02:12:44 |
 
 ## GraphQL Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 13174 | 2721 | 2021-06-07 20:03:27 |
 | [flexx](https://github.com/flexxui/flexx) | 2680 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-06-18T04:00:48*
+*Update Date: 2021-06-18T05:00:48*
