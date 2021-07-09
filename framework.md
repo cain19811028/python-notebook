@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 58421 | 24964 | 2021-07-09 09:43:06 |
-| [flask](https://github.com/pallets/flask) | 55978 | 14423 | 2021-07-06 20:06:20 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 33273 | 2350 | 2021-07-05 11:45:43 |
+| [django](https://github.com/django/django) | 58423 | 24962 | 2021-07-09 09:43:06 |
+| [flask](https://github.com/pallets/flask) | 55979 | 14423 | 2021-07-06 20:06:20 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 33273 | 2351 | 2021-07-05 11:45:43 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20076 | 5397 | 2021-05-30 15:33:14 |
 | [sanic](https://github.com/sanic-org/sanic) | 15110 | 1369 | 2021-07-08 06:12:56 |
 
@@ -14,7 +14,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 41009 | 9239 | 2021-06-29 12:54:22 |
 | [pyspider](https://github.com/binux/pyspider) | 15039 | 3587 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 9909 | 3972 | 2021-06-22 13:58:49 |
+| [webmagic](https://github.com/code4craft/webmagic) | 9910 | 3972 | 2021-06-22 13:58:49 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7504 | 1762 | 2021-07-06 14:31:21 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7504 | 1763 | 2021-07-09 14:27:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 684 | 135 | 2021-07-02 16:32:54 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13230 | 2722 | 2021-06-26 08:15:24 |
+| [kivy](https://github.com/kivy/kivy) | 13231 | 2722 | 2021-06-26 08:15:24 |
 | [flexx](https://github.com/flexxui/flexx) | 2691 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-07-09T14:00:49*
+*Update Date: 2021-07-09T15:00:49*
