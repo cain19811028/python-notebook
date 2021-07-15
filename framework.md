@@ -7,12 +7,12 @@
 | [flask](https://github.com/pallets/flask) | 56013 | 14436 | 2021-07-06 20:06:20 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 33433 | 2370 | 2021-07-05 11:45:43 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20087 | 5398 | 2021-07-09 18:05:14 |
-| [sanic](https://github.com/sanic-org/sanic) | 15133 | 1374 | 2021-07-13 07:32:54 |
+| [sanic](https://github.com/sanic-org/sanic) | 15133 | 1373 | 2021-07-13 07:32:54 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 41058 | 9245 | 2021-07-14 15:56:07 |
+| [scrapy](https://github.com/scrapy/scrapy) | 41059 | 9245 | 2021-07-14 15:56:07 |
 | [pyspider](https://github.com/binux/pyspider) | 15041 | 3588 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9918 | 3975 | 2021-06-22 13:58:49 |
 
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 13241 | 2722 | 2021-06-26 08:15:24 |
 | [flexx](https://github.com/flexxui/flexx) | 2694 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-07-15T00:00:48*
+*Update Date: 2021-07-15T01:00:48*
