@@ -12,14 +12,14 @@
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 41081 | 9249 | 2021-07-16 12:28:32 |
+| [scrapy](https://github.com/scrapy/scrapy) | 41082 | 9249 | 2021-07-16 12:28:32 |
 | [pyspider](https://github.com/binux/pyspider) | 15045 | 3588 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9922 | 3974 | 2021-06-22 13:58:49 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6681 | 716 | 2021-07-16 17:12:09 |
+| [graphene](https://github.com/graphql-python/graphene) | 6682 | 716 | 2021-07-16 17:12:09 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 13251 | 2723 | 2021-06-26 08:15:24 |
 | [flexx](https://github.com/flexxui/flexx) | 2697 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-07-17T05:00:48*
+*Update Date: 2021-07-17T06:00:48*
