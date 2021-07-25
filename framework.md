@@ -4,7 +4,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 58680 | 25086 | 2021-07-23 11:10:41 |
-| [flask](https://github.com/pallets/flask) | 56116 | 14466 | 2021-07-06 20:06:20 |
+| [flask](https://github.com/pallets/flask) | 56115 | 14466 | 2021-07-06 20:06:20 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 34013 | 2410 | 2021-07-21 19:15:58 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20107 | 5404 | 2021-07-09 18:05:14 |
 | [sanic](https://github.com/sanic-org/sanic) | 15155 | 1373 | 2021-07-19 13:52:33 |
@@ -12,14 +12,14 @@
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 41153 | 9270 | 2021-07-22 12:52:48 |
+| [scrapy](https://github.com/scrapy/scrapy) | 41155 | 9270 | 2021-07-22 12:52:48 |
 | [pyspider](https://github.com/binux/pyspider) | 15047 | 3591 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9935 | 3977 | 2021-07-22 05:02:46 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 6693 | 716 | 2021-07-16 17:12:09 |
+| [graphene](https://github.com/graphql-python/graphene) | 6693 | 717 | 2021-07-16 17:12:09 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 13278 | 2727 | 2021-07-24 11:09:31 |
 | [flexx](https://github.com/flexxui/flexx) | 2705 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-07-25T07:00:49*
+*Update Date: 2021-07-25T08:00:48*
