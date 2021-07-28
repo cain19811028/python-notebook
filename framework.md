@@ -5,15 +5,15 @@
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 58745 | 25103 | 2021-07-27 18:10:25 |
 | [flask](https://github.com/pallets/flask) | 56145 | 14472 | 2021-07-06 20:06:20 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 34107 | 2411 | 2021-07-27 10:23:49 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20108 | 5404 | 2021-07-09 18:05:14 |
-| [sanic](https://github.com/sanic-org/sanic) | 15164 | 1372 | 2021-07-19 13:52:33 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 34108 | 2410 | 2021-07-27 10:23:49 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20108 | 5405 | 2021-07-09 18:05:14 |
+| [sanic](https://github.com/sanic-org/sanic) | 15163 | 1372 | 2021-07-19 13:52:33 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 41179 | 9276 | 2021-07-27 09:11:32 |
-| [pyspider](https://github.com/binux/pyspider) | 15050 | 3591 | 2020-08-02 17:34:20 |
+| [scrapy](https://github.com/scrapy/scrapy) | 41180 | 9276 | 2021-07-27 09:11:32 |
+| [pyspider](https://github.com/binux/pyspider) | 15051 | 3591 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 9938 | 3978 | 2021-07-22 05:02:46 |
 
 ## GraphQL Framework
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 7572 | 1774 | 2021-07-27 21:50:26 |
+| [pytest](https://github.com/pytest-dev/pytest) | 7573 | 1774 | 2021-07-27 21:50:26 |
 | [nose2](https://github.com/nose-devs/nose2) | 687 | 135 | 2021-07-02 16:32:54 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13287 | 2735 | 2021-07-24 11:09:31 |
+| [kivy](https://github.com/kivy/kivy) | 13288 | 2734 | 2021-07-24 11:09:31 |
 | [flexx](https://github.com/flexxui/flexx) | 2705 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-07-28T02:00:48*
+*Update Date: 2021-07-28T03:00:49*
