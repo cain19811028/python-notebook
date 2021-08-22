@@ -5,9 +5,9 @@
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 59189 | 25261 | 2021-08-20 11:45:21 |
 | [flask](https://github.com/pallets/flask) | 56380 | 14545 | 2021-08-14 12:21:56 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 34918 | 2494 | 2021-08-19 08:21:59 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 34919 | 2494 | 2021-08-19 08:21:59 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20140 | 5414 | 2021-07-09 18:05:14 |
-| [sanic](https://github.com/sanic-org/sanic) | 15255 | 1375 | 2021-08-19 18:09:40 |
+| [sanic](https://github.com/sanic-org/sanic) | 15256 | 1375 | 2021-08-19 18:09:40 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13364 | 2743 | 2021-08-14 12:15:19 |
+| [kivy](https://github.com/kivy/kivy) | 13365 | 2743 | 2021-08-14 12:15:19 |
 | [flexx](https://github.com/flexxui/flexx) | 2721 | 250 | 2021-06-02 13:00:59 |
 
-*Update Date: 2021-08-22T11:00:48*
+*Update Date: 2021-08-22T11:35:58*
