@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 59492 | 25380 | 2021-09-07 09:59:59 |
-| [flask](https://github.com/pallets/flask) | 56514 | 14560 | 2021-09-07 00:31:30 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 35615 | 2561 | 2021-08-27 08:49:40 |
+| [django](https://github.com/django/django) | 59502 | 25382 | 2021-09-07 09:59:59 |
+| [flask](https://github.com/pallets/flask) | 56515 | 14558 | 2021-09-07 00:31:30 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 35627 | 2560 | 2021-08-27 08:49:40 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20170 | 5420 | 2021-08-26 18:53:13 |
-| [sanic](https://github.com/sanic-org/sanic) | 15334 | 1382 | 2021-09-01 05:14:11 |
+| [sanic](https://github.com/sanic-org/sanic) | 15333 | 1382 | 2021-09-01 05:14:11 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 41482 | 9302 | 2021-08-24 10:15:29 |
-| [pyspider](https://github.com/binux/pyspider) | 15119 | 3608 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 10014 | 3991 | 2021-08-04 10:25:05 |
+| [scrapy](https://github.com/scrapy/scrapy) | 41484 | 9303 | 2021-08-24 10:15:29 |
+| [pyspider](https://github.com/binux/pyspider) | 15123 | 3609 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 10014 | 3990 | 2021-08-04 10:25:05 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 13425 | 2759 | 2021-09-05 13:47:16 |
+| [kivy](https://github.com/kivy/kivy) | 13427 | 2759 | 2021-09-05 13:47:16 |
 | [flexx](https://github.com/flexxui/flexx) | 2739 | 251 | 2021-09-02 09:01:16 |
 
-*Update Date: 2021-09-07T12:00:35*
+*Update Date: 2021-09-07T18:00:34*
