@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 61302 | 26186 | 2021-12-20 10:11:39 |
-| [flask](https://github.com/pallets/flask) | 57418 | 14751 | 2021-11-16 15:38:42 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 39704 | 2945 | 2021-12-12 11:39:32 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20322 | 5424 | 2021-11-03 01:12:50 |
-| [sanic](https://github.com/sanic-org/sanic) | 15664 | 1398 | 2021-12-18 16:58:14 |
+| [django](https://github.com/django/django) | 61305 | 26188 | 2021-12-20 10:11:39 |
+| [flask](https://github.com/pallets/flask) | 57423 | 14751 | 2021-11-16 15:38:42 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 39716 | 2945 | 2021-12-12 11:39:32 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20323 | 5424 | 2021-11-03 01:12:50 |
+| [sanic](https://github.com/sanic-org/sanic) | 15664 | 1398 | 2021-12-20 22:50:45 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 42352 | 9437 | 2021-12-16 13:54:27 |
+| [scrapy](https://github.com/scrapy/scrapy) | 42354 | 9437 | 2021-12-16 13:54:27 |
 | [pyspider](https://github.com/binux/pyspider) | 15244 | 3623 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10191 | 4026 | 2021-10-24 15:20:56 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 8057 | 1905 | 2021-12-16 13:37:52 |
+| [pytest](https://github.com/pytest-dev/pytest) | 8058 | 1905 | 2021-12-16 13:37:52 |
 | [nose2](https://github.com/nose-devs/nose2) | 698 | 135 | 2021-12-13 04:01:32 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 13727 | 2821 | 2021-12-20 00:04:23 |
 | [flexx](https://github.com/flexxui/flexx) | 2845 | 252 | 2021-09-16 11:35:28 |
 
-*Update Date: 2021-12-20T18:00:34*
+*Update Date: 2021-12-21T00:00:34*
