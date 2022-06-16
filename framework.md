@@ -3,11 +3,11 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 64612 | 27267 | 2022-06-16 10:13:15 |
-| [flask](https://github.com/pallets/flask) | 59269 | 15116 | 2022-06-15 21:17:45 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 46253 | 3599 | 2022-05-14 19:58:04 |
+| [django](https://github.com/django/django) | 64618 | 27269 | 2022-06-16 10:13:15 |
+| [flask](https://github.com/pallets/flask) | 59271 | 15116 | 2022-06-15 21:17:45 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 46259 | 3600 | 2022-05-14 19:58:04 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20578 | 5454 | 2022-06-14 23:20:46 |
-| [sanic](https://github.com/sanic-org/sanic) | 16175 | 1447 | 2022-06-16 09:35:49 |
+| [sanic](https://github.com/sanic-org/sanic) | 16179 | 1447 | 2022-06-16 13:24:39 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -19,18 +19,18 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7250 | 785 | 2022-05-30 12:57:16 |
+| [graphene](https://github.com/graphql-python/graphene) | 7251 | 785 | 2022-05-30 12:57:16 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 8864 | 2056 | 2022-06-14 11:24:35 |
+| [pytest](https://github.com/pytest-dev/pytest) | 8865 | 2056 | 2022-06-14 11:24:35 |
 | [nose2](https://github.com/nose-devs/nose2) | 711 | 137 | 2022-05-13 19:47:17 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 14695 | 2885 | 2022-05-30 16:39:14 |
+| [kivy](https://github.com/kivy/kivy) | 14696 | 2885 | 2022-05-30 16:39:14 |
 | [flexx](https://github.com/flexxui/flexx) | 2965 | 261 | 2022-04-12 19:12:20 |
 
-*Update Date: 2022-06-16T12:00:34*
+*Update Date: 2022-06-16T18:00:34*
