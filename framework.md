@@ -3,23 +3,23 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 66327 | 27776 | 2022-09-17 17:38:20 |
-| [flask](https://github.com/pallets/flask) | 60558 | 15248 | 2022-09-18 11:53:47 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 49563 | 3957 | 2022-09-15 13:57:23 |
+| [django](https://github.com/django/django) | 66332 | 27776 | 2022-09-17 17:38:20 |
+| [flask](https://github.com/pallets/flask) | 60563 | 15248 | 2022-09-18 11:53:47 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 49569 | 3957 | 2022-09-15 13:57:23 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20742 | 5472 | 2022-08-26 19:23:09 |
 | [sanic](https://github.com/sanic-org/sanic) | 16472 | 1469 | 2022-09-18 15:54:35 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 44548 | 9714 | 2022-09-14 15:40:49 |
+| [scrapy](https://github.com/scrapy/scrapy) | 44549 | 9714 | 2022-09-14 15:40:49 |
 | [pyspider](https://github.com/binux/pyspider) | 15576 | 3655 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10530 | 4077 | 2022-08-04 17:03:00 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7386 | 793 | 2022-09-08 08:55:05 |
+| [graphene](https://github.com/graphql-python/graphene) | 7387 | 793 | 2022-09-08 08:55:05 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -31,6 +31,6 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 15024 | 2927 | 2022-09-10 17:00:13 |
-| [flexx](https://github.com/flexxui/flexx) | 3021 | 261 | 2022-07-22 16:41:15 |
+| [flexx](https://github.com/flexxui/flexx) | 3020 | 261 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-09-18T16:00:17*
+*Update Date: 2022-09-18T20:00:17*
