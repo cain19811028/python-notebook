@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 66591 | 27915 | 2022-10-03 10:13:27 |
-| [flask](https://github.com/pallets/flask) | 60698 | 15263 | 2022-09-18 11:53:47 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 50143 | 4012 | 2022-09-20 14:30:02 |
+| [django](https://github.com/django/django) | 66596 | 27915 | 2022-10-03 10:13:27 |
+| [flask](https://github.com/pallets/flask) | 60699 | 15263 | 2022-09-18 11:53:47 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 50148 | 4013 | 2022-09-20 14:30:02 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20767 | 5478 | 2022-08-26 19:23:09 |
 | [sanic](https://github.com/sanic-org/sanic) | 16498 | 1470 | 2022-09-29 10:04:46 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 44708 | 9732 | 2022-10-03 12:13:05 |
+| [scrapy](https://github.com/scrapy/scrapy) | 44713 | 9732 | 2022-10-03 12:13:05 |
 | [pyspider](https://github.com/binux/pyspider) | 15597 | 3654 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10546 | 4082 | 2022-10-01 15:34:57 |
 
@@ -24,8 +24,8 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 9291 | 2159 | 2022-10-02 10:59:16 |
-| [nose2](https://github.com/nose-devs/nose2) | 728 | 138 | 2022-09-23 20:44:04 |
+| [pytest](https://github.com/pytest-dev/pytest) | 9292 | 2159 | 2022-10-02 10:59:16 |
+| [nose2](https://github.com/nose-devs/nose2) | 729 | 138 | 2022-09-23 20:44:04 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 15078 | 2929 | 2022-10-03 18:04:33 |
 | [flexx](https://github.com/flexxui/flexx) | 3029 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-10-03T20:00:17*
+*Update Date: 2022-10-04T00:00:17*
