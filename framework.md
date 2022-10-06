@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 66640 | 27924 | 2022-10-05 12:04:49 |
-| [flask](https://github.com/pallets/flask) | 60716 | 15269 | 2022-10-05 03:09:06 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 50230 | 4020 | 2022-09-20 14:30:02 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20770 | 5476 | 2022-10-04 01:57:24 |
-| [sanic](https://github.com/sanic-org/sanic) | 16500 | 1470 | 2022-09-29 10:04:46 |
+| [django](https://github.com/django/django) | 66641 | 27924 | 2022-10-05 12:04:49 |
+| [flask](https://github.com/pallets/flask) | 60717 | 15270 | 2022-10-05 03:09:06 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 50232 | 4021 | 2022-09-20 14:30:02 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20771 | 5476 | 2022-10-04 01:57:24 |
+| [sanic](https://github.com/sanic-org/sanic) | 16501 | 1470 | 2022-09-29 10:04:46 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 44741 | 9735 | 2022-10-05 09:44:30 |
+| [scrapy](https://github.com/scrapy/scrapy) | 44742 | 9735 | 2022-10-05 09:44:30 |
 | [pyspider](https://github.com/binux/pyspider) | 15601 | 3653 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 10546 | 4082 | 2022-10-01 15:34:57 |
+| [webmagic](https://github.com/code4craft/webmagic) | 10545 | 4082 | 2022-10-01 15:34:57 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 15085 | 2930 | 2022-10-05 18:16:57 |
+| [kivy](https://github.com/kivy/kivy) | 15086 | 2930 | 2022-10-05 18:16:57 |
 | [flexx](https://github.com/flexxui/flexx) | 3029 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-10-06T04:00:17*
+*Update Date: 2022-10-06T08:00:19*
