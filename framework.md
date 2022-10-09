@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 66684 | 27940 | 2022-10-08 06:07:38 |
+| [django](https://github.com/django/django) | 66690 | 27940 | 2022-10-08 06:07:38 |
 | [flask](https://github.com/pallets/flask) | 60751 | 15272 | 2022-10-05 03:09:06 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 50316 | 4026 | 2022-09-20 14:30:02 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20779 | 5478 | 2022-10-04 01:57:24 |
-| [sanic](https://github.com/sanic-org/sanic) | 16506 | 1471 | 2022-09-29 10:04:46 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 50320 | 4026 | 2022-09-20 14:30:02 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20780 | 5478 | 2022-10-04 01:57:24 |
+| [sanic](https://github.com/sanic-org/sanic) | 16507 | 1471 | 2022-09-29 10:04:46 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 44777 | 9739 | 2022-10-07 21:21:49 |
-| [pyspider](https://github.com/binux/pyspider) | 15605 | 3654 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 10544 | 4083 | 2022-10-01 15:34:57 |
+| [scrapy](https://github.com/scrapy/scrapy) | 44780 | 9741 | 2022-10-07 21:21:49 |
+| [pyspider](https://github.com/binux/pyspider) | 15605 | 3653 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 10544 | 4084 | 2022-10-01 15:34:57 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 15102 | 2932 | 2022-10-05 18:16:57 |
-| [flexx](https://github.com/flexxui/flexx) | 3031 | 262 | 2022-07-22 16:41:15 |
+| [kivy](https://github.com/kivy/kivy) | 15103 | 2932 | 2022-10-05 18:16:57 |
+| [flexx](https://github.com/flexxui/flexx) | 3032 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-10-09T08:00:17*
+*Update Date: 2022-10-09T12:00:17*
