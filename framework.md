@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 66698 | 27943 | 2022-10-08 06:07:38 |
-| [flask](https://github.com/pallets/flask) | 60758 | 15273 | 2022-10-05 03:09:06 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 50332 | 4027 | 2022-09-20 14:30:02 |
+| [django](https://github.com/django/django) | 66700 | 27944 | 2022-10-08 06:07:38 |
+| [flask](https://github.com/pallets/flask) | 60758 | 15274 | 2022-10-05 03:09:06 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 50333 | 4028 | 2022-09-20 14:30:02 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20781 | 5478 | 2022-10-04 01:57:24 |
-| [sanic](https://github.com/sanic-org/sanic) | 16507 | 1471 | 2022-09-29 10:04:46 |
+| [sanic](https://github.com/sanic-org/sanic) | 16508 | 1472 | 2022-09-29 10:04:46 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 44782 | 9741 | 2022-10-07 21:21:49 |
-| [pyspider](https://github.com/binux/pyspider) | 15607 | 3653 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 10545 | 4084 | 2022-10-01 15:34:57 |
+| [scrapy](https://github.com/scrapy/scrapy) | 44781 | 9741 | 2022-10-09 20:54:13 |
+| [pyspider](https://github.com/binux/pyspider) | 15606 | 3653 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 10544 | 4084 | 2022-10-01 15:34:57 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 9318 | 2168 | 2022-10-09 13:07:17 |
+| [pytest](https://github.com/pytest-dev/pytest) | 9318 | 2168 | 2022-10-09 23:10:45 |
 | [nose2](https://github.com/nose-devs/nose2) | 729 | 138 | 2022-10-04 19:09:48 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 15103 | 2932 | 2022-10-05 18:16:57 |
 | [flexx](https://github.com/flexxui/flexx) | 3032 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-10-09T20:00:17*
+*Update Date: 2022-10-10T00:00:17*
