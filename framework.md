@@ -3,10 +3,10 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 67065 | 28100 | 2022-11-01 06:27:30 |
-| [flask](https://github.com/pallets/flask) | 60974 | 15318 | 2022-10-30 14:55:51 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 51008 | 4123 | 2022-10-31 18:57:16 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20828 | 5485 | 2022-10-15 15:40:46 |
+| [django](https://github.com/django/django) | 67069 | 28103 | 2022-11-01 06:27:30 |
+| [flask](https://github.com/pallets/flask) | 60976 | 15318 | 2022-10-30 14:55:51 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 51014 | 4124 | 2022-10-31 18:57:16 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20830 | 5485 | 2022-10-15 15:40:46 |
 | [sanic](https://github.com/sanic-org/sanic) | 16552 | 1474 | 2022-10-31 11:24:47 |
 
 ## Crawler Framework
@@ -19,18 +19,18 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7432 | 799 | 2022-10-27 11:55:38 |
+| [graphene](https://github.com/graphql-python/graphene) | 7433 | 799 | 2022-10-27 11:55:38 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 9431 | 2193 | 2022-11-01 00:37:05 |
+| [pytest](https://github.com/pytest-dev/pytest) | 9433 | 2193 | 2022-11-01 00:37:05 |
 | [nose2](https://github.com/nose-devs/nose2) | 732 | 137 | 2022-10-31 22:01:16 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 15165 | 2939 | 2022-10-26 19:16:20 |
+| [kivy](https://github.com/kivy/kivy) | 15166 | 2939 | 2022-10-26 19:16:20 |
 | [flexx](https://github.com/flexxui/flexx) | 3047 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-11-01T08:00:18*
+*Update Date: 2022-11-01T12:00:18*
