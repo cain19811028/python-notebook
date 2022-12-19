@@ -3,11 +3,11 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 67758 | 28323 | 2022-12-17 07:46:37 |
-| [flask](https://github.com/pallets/flask) | 61341 | 15350 | 2022-11-25 15:51:37 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 52569 | 4304 | 2022-12-16 20:25:51 |
+| [django](https://github.com/django/django) | 67762 | 28327 | 2022-12-17 07:46:37 |
+| [flask](https://github.com/pallets/flask) | 61344 | 15353 | 2022-11-25 15:51:37 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 52574 | 4304 | 2022-12-16 20:25:51 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20903 | 5485 | 2022-12-17 03:15:41 |
-| [sanic](https://github.com/sanic-org/sanic) | 16695 | 1484 | 2022-12-18 13:04:10 |
+| [sanic](https://github.com/sanic-org/sanic) | 16696 | 1484 | 2022-12-18 13:04:10 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 15307 | 2967 | 2022-12-18 09:09:16 |
 | [flexx](https://github.com/flexxui/flexx) | 3073 | 263 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-12-19T04:00:17*
+*Update Date: 2022-12-19T08:00:18*
