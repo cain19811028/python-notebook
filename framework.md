@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 67791 | 28339 | 2022-12-20 18:34:59 |
-| [flask](https://github.com/pallets/flask) | 61355 | 15358 | 2022-11-25 15:51:37 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 52625 | 4310 | 2022-12-16 20:25:51 |
+| [django](https://github.com/django/django) | 67791 | 28343 | 2022-12-20 18:34:59 |
+| [flask](https://github.com/pallets/flask) | 61354 | 15357 | 2022-11-25 15:51:37 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 52630 | 4310 | 2022-12-16 20:25:51 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20904 | 5485 | 2022-12-17 03:15:41 |
 | [sanic](https://github.com/sanic-org/sanic) | 16703 | 1484 | 2022-12-19 17:14:46 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 45407 | 9809 | 2022-12-15 20:03:53 |
+| [scrapy](https://github.com/scrapy/scrapy) | 45408 | 9809 | 2022-12-15 20:03:53 |
 | [pyspider](https://github.com/binux/pyspider) | 15686 | 3661 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10650 | 4105 | 2022-12-20 15:41:31 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 9603 | 2217 | 2022-12-17 13:24:46 |
+| [pytest](https://github.com/pytest-dev/pytest) | 9604 | 2217 | 2022-12-17 13:24:46 |
 | [nose2](https://github.com/nose-devs/nose2) | 736 | 137 | 2022-12-15 18:21:28 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 15317 | 2967 | 2022-12-18 09:09:16 |
 | [flexx](https://github.com/flexxui/flexx) | 3074 | 263 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-12-20T20:00:17*
+*Update Date: 2022-12-21T00:00:18*
