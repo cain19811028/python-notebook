@@ -4,15 +4,15 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 67902 | 28379 | 2022-12-30 12:28:47 |
-| [flask](https://github.com/pallets/flask) | 61419 | 15373 | 2022-12-29 17:52:18 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 52922 | 4333 | 2022-12-16 20:25:51 |
+| [flask](https://github.com/pallets/flask) | 61421 | 15374 | 2022-12-29 17:52:18 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 52924 | 4335 | 2022-12-16 20:25:51 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20920 | 5489 | 2022-12-27 20:44:17 |
-| [sanic](https://github.com/sanic-org/sanic) | 16725 | 1485 | 2022-12-27 14:50:36 |
+| [sanic](https://github.com/sanic-org/sanic) | 16726 | 1485 | 2022-12-27 14:50:36 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 45479 | 9816 | 2022-12-22 13:33:14 |
+| [scrapy](https://github.com/scrapy/scrapy) | 45480 | 9816 | 2022-12-22 13:33:14 |
 | [pyspider](https://github.com/binux/pyspider) | 15701 | 3663 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10658 | 4101 | 2022-12-20 15:41:31 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 9633 | 2219 | 2022-12-25 17:09:45 |
+| [pytest](https://github.com/pytest-dev/pytest) | 9634 | 2218 | 2022-12-25 17:09:45 |
 | [nose2](https://github.com/nose-devs/nose2) | 736 | 137 | 2022-12-28 03:08:40 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 15356 | 2968 | 2022-12-30 14:41:07 |
+| [kivy](https://github.com/kivy/kivy) | 15357 | 2968 | 2022-12-30 14:41:07 |
 | [flexx](https://github.com/flexxui/flexx) | 3079 | 263 | 2022-07-22 16:41:15 |
 
-*Update Date: 2022-12-30T20:00:17*
+*Update Date: 2022-12-31T00:00:17*
