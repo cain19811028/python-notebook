@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 68308 | 28489 | 2023-01-20 11:58:51 |
-| [flask](https://github.com/pallets/flask) | 61634 | 15406 | 2023-01-20 21:50:23 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 53700 | 4421 | 2023-01-10 16:31:23 |
+| [django](https://github.com/django/django) | 68307 | 28487 | 2023-01-20 11:58:51 |
+| [flask](https://github.com/pallets/flask) | 61638 | 15406 | 2023-01-20 21:50:23 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 53704 | 4422 | 2023-01-10 16:31:23 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20946 | 5485 | 2023-01-20 20:44:26 |
 | [sanic](https://github.com/sanic-org/sanic) | 16756 | 1489 | 2022-12-27 14:50:36 |
 
@@ -19,18 +19,18 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7542 | 808 | 2022-12-25 21:59:05 |
+| [graphene](https://github.com/graphql-python/graphene) | 7541 | 808 | 2022-12-25 21:59:05 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 9706 | 2228 | 2023-01-21 11:22:44 |
+| [pytest](https://github.com/pytest-dev/pytest) | 9708 | 2228 | 2023-01-21 11:22:44 |
 | [nose2](https://github.com/nose-devs/nose2) | 738 | 137 | 2023-01-10 17:13:51 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 15443 | 2975 | 2023-01-14 16:38:09 |
-| [flexx](https://github.com/flexxui/flexx) | 3094 | 264 | 2022-07-22 16:41:15 |
+| [flexx](https://github.com/flexxui/flexx) | 3095 | 264 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-01-22T16:00:17*
+*Update Date: 2023-01-22T20:00:17*
