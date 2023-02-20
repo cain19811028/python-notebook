@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 68861 | 28658 | 2023-02-18 15:28:10 |
-| [flask](https://github.com/pallets/flask) | 61952 | 15471 | 2023-02-16 14:27:41 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 54685 | 4523 | 2023-02-16 18:51:02 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20979 | 5488 | 2023-02-17 03:29:27 |
-| [sanic](https://github.com/sanic-org/sanic) | 16841 | 1493 | 2023-02-14 20:59:41 |
+| [django](https://github.com/django/django) | 68867 | 28659 | 2023-02-18 15:28:10 |
+| [flask](https://github.com/pallets/flask) | 61951 | 15471 | 2023-02-16 14:27:41 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 54686 | 4523 | 2023-02-16 18:51:02 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20979 | 5489 | 2023-02-17 03:29:27 |
+| [sanic](https://github.com/sanic-org/sanic) | 16842 | 1493 | 2023-02-14 20:59:41 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 46202 | 9863 | 2023-02-14 22:28:35 |
+| [scrapy](https://github.com/scrapy/scrapy) | 46203 | 9864 | 2023-02-14 22:28:35 |
 | [pyspider](https://github.com/binux/pyspider) | 15743 | 3669 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 10716 | 4107 | 2023-02-10 18:14:11 |
+| [webmagic](https://github.com/code4craft/webmagic) | 10715 | 4107 | 2023-02-10 18:14:11 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -31,6 +31,6 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 15529 | 2989 | 2023-02-19 04:51:18 |
-| [flexx](https://github.com/flexxui/flexx) | 3103 | 265 | 2022-07-22 16:41:15 |
+| [flexx](https://github.com/flexxui/flexx) | 3102 | 265 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-02-19T20:00:18*
+*Update Date: 2023-02-20T00:00:17*
