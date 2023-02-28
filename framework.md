@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 69016 | 28713 | 2023-02-27 06:18:58 |
-| [flask](https://github.com/pallets/flask) | 62050 | 15473 | 2023-02-23 23:58:29 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 54969 | 4555 | 2023-02-21 10:24:13 |
+| [django](https://github.com/django/django) | 69019 | 28716 | 2023-02-28 11:56:19 |
+| [flask](https://github.com/pallets/flask) | 62051 | 15473 | 2023-02-23 23:58:29 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 54975 | 4556 | 2023-02-21 10:24:13 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20995 | 5491 | 2023-02-21 21:41:48 |
-| [sanic](https://github.com/sanic-org/sanic) | 16870 | 1494 | 2023-02-27 22:26:53 |
+| [sanic](https://github.com/sanic-org/sanic) | 16871 | 1494 | 2023-02-27 22:26:53 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 46303 | 9874 | 2023-02-24 09:57:59 |
-| [pyspider](https://github.com/binux/pyspider) | 15753 | 3671 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 10733 | 4109 | 2023-02-10 18:14:11 |
+| [scrapy](https://github.com/scrapy/scrapy) | 46307 | 9876 | 2023-02-24 09:57:59 |
+| [pyspider](https://github.com/binux/pyspider) | 15754 | 3671 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 10735 | 4110 | 2023-02-10 18:14:11 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 15557 | 2995 | 2023-02-25 08:11:18 |
+| [kivy](https://github.com/kivy/kivy) | 15559 | 2995 | 2023-02-25 08:11:18 |
 | [flexx](https://github.com/flexxui/flexx) | 3102 | 264 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-02-28T08:00:18*
+*Update Date: 2023-02-28T12:00:18*
