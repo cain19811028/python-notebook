@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 70182 | 29151 | 2023-05-02 18:42:11 |
-| [flask](https://github.com/pallets/flask) | 62786 | 15613 | 2023-05-02 17:42:04 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 57370 | 4796 | 2023-05-02 06:28:23 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21086 | 5485 | 2023-05-02 23:33:28 |
+| [django](https://github.com/django/django) | 70184 | 29153 | 2023-05-03 05:58:42 |
+| [flask](https://github.com/pallets/flask) | 62790 | 15614 | 2023-05-02 17:42:04 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 57374 | 4796 | 2023-05-02 06:28:23 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21085 | 5485 | 2023-05-02 23:33:28 |
 | [sanic](https://github.com/sanic-org/sanic) | 17026 | 1513 | 2023-04-09 19:23:21 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 47054 | 9970 | 2023-05-02 18:15:21 |
+| [scrapy](https://github.com/scrapy/scrapy) | 47056 | 9970 | 2023-05-02 18:15:21 |
 | [pyspider](https://github.com/binux/pyspider) | 15848 | 3675 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10807 | 4125 | 2023-03-22 14:25:51 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10105 | 2322 | 2023-05-02 14:02:58 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10106 | 2321 | 2023-05-02 14:02:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 746 | 137 | 2023-05-01 21:11:14 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 15819 | 3025 | 2023-05-01 13:40:02 |
 | [flexx](https://github.com/flexxui/flexx) | 3126 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-05-03T04:00:16*
+*Update Date: 2023-05-03T08:00:16*
