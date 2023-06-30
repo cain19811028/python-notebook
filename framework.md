@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 71714 | 29467 | 2023-06-29 19:45:36 |
-| [flask](https://github.com/pallets/flask) | 63439 | 15738 | 2023-06-27 21:18:56 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 59681 | 4986 | 2023-06-28 16:39:44 |
+| [django](https://github.com/django/django) | 71716 | 29466 | 2023-06-29 19:45:36 |
+| [flask](https://github.com/pallets/flask) | 63441 | 15739 | 2023-06-27 21:18:56 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 59684 | 4987 | 2023-06-28 16:39:44 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21176 | 5490 | 2023-06-22 01:33:38 |
 | [sanic](https://github.com/sanic-org/sanic) | 17147 | 1519 | 2023-06-14 19:03:43 |
 
@@ -13,13 +13,13 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 47641 | 10031 | 2023-06-28 06:28:49 |
-| [pyspider](https://github.com/binux/pyspider) | 15936 | 3676 | 2020-08-02 17:34:20 |
+| [pyspider](https://github.com/binux/pyspider) | 15937 | 3676 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10874 | 4133 | 2023-06-22 03:23:44 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7710 | 827 | 2023-06-06 18:45:01 |
+| [graphene](https://github.com/graphql-python/graphene) | 7711 | 827 | 2023-06-06 18:45:01 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 16007 | 3037 | 2023-06-24 08:30:11 |
+| [kivy](https://github.com/kivy/kivy) | 16008 | 3037 | 2023-06-24 08:30:11 |
 | [flexx](https://github.com/flexxui/flexx) | 3132 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-06-29T20:00:17*
+*Update Date: 2023-06-30T00:00:16*
