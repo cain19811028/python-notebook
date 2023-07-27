@@ -3,11 +3,11 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 72143 | 29609 | 2023-07-24 17:52:36 |
-| [flask](https://github.com/pallets/flask) | 63695 | 15795 | 2023-07-01 16:24:20 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 60802 | 5103 | 2023-07-09 15:45:55 |
+| [django](https://github.com/django/django) | 72147 | 29610 | 2023-07-27 04:56:38 |
+| [flask](https://github.com/pallets/flask) | 63696 | 15800 | 2023-07-01 16:24:20 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 60807 | 5104 | 2023-07-09 15:45:55 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21208 | 5496 | 2023-07-27 02:13:29 |
-| [sanic](https://github.com/sanic-org/sanic) | 17199 | 1526 | 2023-07-25 13:13:47 |
+| [sanic](https://github.com/sanic-org/sanic) | 17200 | 1526 | 2023-07-25 13:13:47 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -19,18 +19,18 @@
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7739 | 826 | 2023-07-26 07:43:40 |
+| [graphene](https://github.com/graphql-python/graphene) | 7740 | 826 | 2023-07-26 07:43:40 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10432 | 2379 | 2023-07-23 10:07:40 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10432 | 2379 | 2023-07-27 07:19:40 |
 | [nose2](https://github.com/nose-devs/nose2) | 757 | 137 | 2023-05-22 18:16:01 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 16101 | 3046 | 2023-07-23 16:23:02 |
+| [kivy](https://github.com/kivy/kivy) | 16102 | 3046 | 2023-07-23 16:23:02 |
 | [flexx](https://github.com/flexxui/flexx) | 3140 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-07-27T04:00:16*
+*Update Date: 2023-07-27T08:00:18*
