@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 72184 | 29623 | 2023-07-28 12:18:07 |
-| [flask](https://github.com/pallets/flask) | 63714 | 15801 | 2023-07-01 16:24:20 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 60865 | 5106 | 2023-07-28 12:16:16 |
+| [django](https://github.com/django/django) | 72184 | 29624 | 2023-07-28 16:05:19 |
+| [flask](https://github.com/pallets/flask) | 63715 | 15803 | 2023-07-01 16:24:20 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 60868 | 5107 | 2023-07-28 12:16:16 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21210 | 5496 | 2023-07-27 02:13:29 |
 | [sanic](https://github.com/sanic-org/sanic) | 17206 | 1526 | 2023-07-25 13:13:47 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 47953 | 10076 | 2023-07-28 08:56:44 |
+| [scrapy](https://github.com/scrapy/scrapy) | 47955 | 10078 | 2023-07-28 08:56:44 |
 | [pyspider](https://github.com/binux/pyspider) | 15960 | 3682 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10901 | 4148 | 2023-06-22 03:23:44 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10436 | 2379 | 2023-07-28 07:06:38 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10436 | 2379 | 2023-07-28 19:48:47 |
 | [nose2](https://github.com/nose-devs/nose2) | 757 | 137 | 2023-05-22 18:16:01 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 16109 | 3046 | 2023-07-23 16:23:02 |
+| [kivy](https://github.com/kivy/kivy) | 16110 | 3046 | 2023-07-23 16:23:02 |
 | [flexx](https://github.com/flexxui/flexx) | 3140 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-07-28T16:00:17*
+*Update Date: 2023-07-28T20:00:17*
