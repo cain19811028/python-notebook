@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 72423 | 29689 | 2023-08-11 06:51:29 |
-| [flask](https://github.com/pallets/flask) | 63821 | 15818 | 2023-08-01 16:59:06 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 61327 | 5156 | 2023-08-10 15:59:15 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21216 | 5500 | 2023-08-11 01:48:27 |
-| [sanic](https://github.com/sanic-org/sanic) | 17232 | 1527 | 2023-07-25 13:13:47 |
+| [django](https://github.com/django/django) | 72429 | 29691 | 2023-08-11 10:32:18 |
+| [flask](https://github.com/pallets/flask) | 63824 | 15819 | 2023-08-01 16:59:06 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 61332 | 5156 | 2023-08-10 15:59:15 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21216 | 5501 | 2023-08-11 01:48:27 |
+| [sanic](https://github.com/sanic-org/sanic) | 17234 | 1527 | 2023-07-25 13:13:47 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 48102 | 10095 | 2023-08-10 11:48:43 |
+| [scrapy](https://github.com/scrapy/scrapy) | 48104 | 10095 | 2023-08-11 10:41:47 |
 | [pyspider](https://github.com/binux/pyspider) | 15978 | 3685 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10914 | 4149 | 2023-06-22 03:23:44 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10469 | 2389 | 2023-08-10 06:05:58 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10470 | 2389 | 2023-08-10 06:05:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 757 | 137 | 2023-05-22 18:16:01 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 16150 | 3050 | 2023-07-23 16:23:02 |
 | [flexx](https://github.com/flexxui/flexx) | 3143 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-08-11T08:00:17*
+*Update Date: 2023-08-11T12:00:16*
