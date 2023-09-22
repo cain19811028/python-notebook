@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 73160 | 29978 | 2023-09-21 15:14:15 |
-| [flask](https://github.com/pallets/flask) | 64202 | 15890 | 2023-09-05 21:02:38 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 62773 | 5301 | 2023-09-15 08:39:26 |
+| [django](https://github.com/django/django) | 73164 | 29979 | 2023-09-21 15:14:15 |
+| [flask](https://github.com/pallets/flask) | 64203 | 15890 | 2023-09-05 21:02:38 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 62779 | 5301 | 2023-09-15 08:39:26 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21261 | 5527 | 2023-09-02 14:03:40 |
-| [sanic](https://github.com/sanic-org/sanic) | 17314 | 1532 | 2023-09-07 12:26:56 |
+| [sanic](https://github.com/sanic-org/sanic) | 17315 | 1532 | 2023-09-07 12:26:56 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 48504 | 10158 | 2023-09-21 13:30:04 |
+| [scrapy](https://github.com/scrapy/scrapy) | 48506 | 10158 | 2023-09-21 13:30:04 |
 | [pyspider](https://github.com/binux/pyspider) | 16031 | 3711 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10964 | 4183 | 2023-09-10 09:06:55 |
 
@@ -25,7 +25,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [pytest](https://github.com/pytest-dev/pytest) | 10610 | 2410 | 2023-09-20 12:08:07 |
-| [nose2](https://github.com/nose-devs/nose2) | 755 | 137 | 2023-09-18 23:50:55 |
+| [nose2](https://github.com/nose-devs/nose2) | 756 | 137 | 2023-09-18 23:50:55 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 16268 | 3055 | 2023-08-26 08:00:20 |
 | [flexx](https://github.com/flexxui/flexx) | 3154 | 261 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-09-21T20:00:28*
+*Update Date: 2023-09-22T00:00:28*
