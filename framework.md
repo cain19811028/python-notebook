@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 73511 | 30105 | 2023-10-15 08:27:11 |
-| [flask](https://github.com/pallets/flask) | 64613 | 15963 | 2023-10-07 00:36:39 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 63501 | 5372 | 2023-10-04 22:52:00 |
+| [django](https://github.com/django/django) | 73516 | 30107 | 2023-10-16 04:27:27 |
+| [flask](https://github.com/pallets/flask) | 64614 | 15963 | 2023-10-07 00:36:39 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 63509 | 5372 | 2023-10-04 22:52:00 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21287 | 5537 | 2023-10-14 02:46:47 |
-| [sanic](https://github.com/sanic-org/sanic) | 17405 | 1537 | 2023-09-07 12:26:56 |
+| [sanic](https://github.com/sanic-org/sanic) | 17409 | 1537 | 2023-09-07 12:26:56 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 48871 | 10229 | 2023-10-06 09:27:02 |
+| [scrapy](https://github.com/scrapy/scrapy) | 48874 | 10229 | 2023-10-06 09:27:02 |
 | [pyspider](https://github.com/binux/pyspider) | 16060 | 3721 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 10981 | 4199 | 2023-09-23 04:04:56 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10681 | 2420 | 2023-10-15 13:03:38 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10681 | 2421 | 2023-10-15 13:03:38 |
 | [nose2](https://github.com/nose-devs/nose2) | 759 | 137 | 2023-10-04 23:09:46 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 16330 | 3062 | 2023-10-14 16:51:19 |
 | [flexx](https://github.com/flexxui/flexx) | 3159 | 261 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-10-16T04:00:29*
+*Update Date: 2023-10-16T08:00:29*
