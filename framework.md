@@ -3,34 +3,34 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 73971 | 30412 | 2023-11-13 08:35:57 |
-| [flask](https://github.com/pallets/flask) | 64909 | 16016 | 2023-11-09 21:29:20 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 64511 | 5470 | 2023-11-04 02:03:01 |
+| [django](https://github.com/django/django) | 73976 | 30414 | 2023-11-13 11:01:40 |
+| [flask](https://github.com/pallets/flask) | 64915 | 16015 | 2023-11-09 21:29:20 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 64521 | 5471 | 2023-11-04 02:03:01 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21326 | 5551 | 2023-11-02 01:48:50 |
-| [sanic](https://github.com/sanic-org/sanic) | 17437 | 1538 | 2023-09-07 12:26:56 |
+| [sanic](https://github.com/sanic-org/sanic) | 17439 | 1538 | 2023-09-07 12:26:56 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 49223 | 10295 | 2023-11-07 08:34:35 |
+| [scrapy](https://github.com/scrapy/scrapy) | 49226 | 10294 | 2023-11-07 08:34:35 |
 | [pyspider](https://github.com/binux/pyspider) | 16097 | 3729 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11011 | 4214 | 2023-11-06 14:44:53 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7834 | 869 | 2023-10-06 20:15:26 |
+| [graphene](https://github.com/graphql-python/graphene) | 7835 | 869 | 2023-10-06 20:15:26 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10762 | 2441 | 2023-11-13 08:29:21 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10762 | 2440 | 2023-11-13 08:29:21 |
 | [nose2](https://github.com/nose-devs/nose2) | 761 | 137 | 2023-11-07 00:47:50 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 16417 | 3076 | 2023-11-12 15:16:51 |
-| [flexx](https://github.com/flexxui/flexx) | 3167 | 262 | 2022-07-22 16:41:15 |
+| [flexx](https://github.com/flexxui/flexx) | 3168 | 262 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-11-13T12:00:28*
+*Update Date: 2023-11-13T16:00:29*
