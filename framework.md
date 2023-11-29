@@ -3,17 +3,17 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 74248 | 30563 | 2023-11-29 10:57:53 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 65222 | 5520 | 2023-11-28 12:10:38 |
-| [flask](https://github.com/pallets/flask) | 65075 | 16048 | 2023-11-15 21:03:05 |
+| [django](https://github.com/django/django) | 74250 | 30563 | 2023-11-29 10:57:53 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 65230 | 5519 | 2023-11-28 12:10:38 |
+| [flask](https://github.com/pallets/flask) | 65074 | 16048 | 2023-11-15 21:03:05 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21334 | 5559 | 2023-11-29 03:18:59 |
-| [sanic](https://github.com/sanic-org/sanic) | 17460 | 1539 | 2023-11-28 20:03:11 |
+| [sanic](https://github.com/sanic-org/sanic) | 17461 | 1539 | 2023-11-28 20:03:11 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 49399 | 10319 | 2023-11-23 16:56:50 |
-| [pyspider](https://github.com/binux/pyspider) | 16114 | 3731 | 2020-08-02 17:34:20 |
+| [scrapy](https://github.com/scrapy/scrapy) | 49400 | 10319 | 2023-11-23 16:56:50 |
+| [pyspider](https://github.com/binux/pyspider) | 16115 | 3731 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11024 | 4219 | 2023-11-26 02:56:06 |
 
 ## GraphQL Framework
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 10817 | 2453 | 2023-11-28 18:14:20 |
+| [pytest](https://github.com/pytest-dev/pytest) | 10817 | 2452 | 2023-11-28 18:14:20 |
 | [nose2](https://github.com/nose-devs/nose2) | 763 | 137 | 2023-11-07 00:47:50 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 16475 | 3082 | 2023-11-25 09:08:00 |
 | [flexx](https://github.com/flexxui/flexx) | 3170 | 263 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-11-29T16:00:29*
+*Update Date: 2023-11-29T20:00:29*
