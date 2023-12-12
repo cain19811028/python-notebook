@@ -3,23 +3,23 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 74478 | 30639 | 2023-12-08 08:46:11 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 65708 | 5552 | 2023-12-12 00:34:36 |
+| [django](https://github.com/django/django) | 74484 | 30639 | 2023-12-12 04:51:33 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 65719 | 5553 | 2023-12-12 00:34:36 |
 | [flask](https://github.com/pallets/flask) | 65179 | 16069 | 2023-12-04 22:26:30 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21347 | 5566 | 2023-11-29 03:18:59 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21348 | 5566 | 2023-11-29 03:18:59 |
 | [sanic](https://github.com/sanic-org/sanic) | 17488 | 1542 | 2023-12-11 11:48:19 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 49525 | 10341 | 2023-11-30 10:01:22 |
+| [scrapy](https://github.com/scrapy/scrapy) | 49527 | 10341 | 2023-11-30 10:01:22 |
 | [pyspider](https://github.com/binux/pyspider) | 16128 | 3731 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11030 | 4219 | 2023-12-05 04:56:14 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 7863 | 872 | 2023-10-06 20:15:26 |
+| [graphene](https://github.com/graphql-python/graphene) | 7862 | 872 | 2023-10-06 20:15:26 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 16517 | 3086 | 2023-12-11 17:32:27 |
+| [kivy](https://github.com/kivy/kivy) | 16518 | 3086 | 2023-12-11 17:32:27 |
 | [flexx](https://github.com/flexxui/flexx) | 3178 | 263 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-12-12T04:00:29*
+*Update Date: 2023-12-12T08:00:29*
