@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 74628 | 30689 | 2023-12-20 20:44:11 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 66059 | 5584 | 2023-12-20 17:06:01 |
-| [flask](https://github.com/pallets/flask) | 65254 | 16088 | 2023-12-14 00:28:13 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21365 | 5570 | 2023-11-29 03:18:59 |
-| [sanic](https://github.com/sanic-org/sanic) | 17495 | 1543 | 2023-12-13 06:28:02 |
+| [django](https://github.com/django/django) | 74630 | 30691 | 2023-12-20 20:44:11 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 66067 | 5586 | 2023-12-20 17:06:01 |
+| [flask](https://github.com/pallets/flask) | 65259 | 16090 | 2023-12-14 00:28:13 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21365 | 5571 | 2023-11-29 03:18:59 |
+| [sanic](https://github.com/sanic-org/sanic) | 17496 | 1544 | 2023-12-13 06:28:02 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 49601 | 10348 | 2023-12-20 17:22:22 |
+| [scrapy](https://github.com/scrapy/scrapy) | 49604 | 10348 | 2023-12-20 17:22:22 |
 | [pyspider](https://github.com/binux/pyspider) | 16134 | 3733 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11048 | 4217 | 2023-12-05 04:56:14 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11049 | 4217 | 2023-12-05 04:56:14 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 16545 | 3086 | 2023-12-18 07:43:58 |
+| [kivy](https://github.com/kivy/kivy) | 16546 | 3086 | 2023-12-18 07:43:58 |
 | [flexx](https://github.com/flexxui/flexx) | 3182 | 263 | 2022-07-22 16:41:15 |
 
-*Update Date: 2023-12-21T00:00:28*
+*Update Date: 2023-12-21T04:00:28*
