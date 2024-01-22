@@ -4,8 +4,8 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [django](https://github.com/django/django) | 75141 | 30817 | 2024-01-20 18:43:55 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 67209 | 5690 | 2024-01-19 23:05:10 |
-| [flask](https://github.com/pallets/flask) | 65518 | 16123 | 2024-01-18 20:20:56 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 67214 | 5690 | 2024-01-19 23:05:10 |
+| [flask](https://github.com/pallets/flask) | 65519 | 16124 | 2024-01-18 20:20:56 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21399 | 5576 | 2024-01-12 01:45:58 |
 | [sanic](https://github.com/sanic-org/sanic) | 17557 | 1547 | 2024-01-01 13:45:07 |
 
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 16639 | 3099 | 2024-01-05 16:10:52 |
 | [flexx](https://github.com/flexxui/flexx) | 3190 | 264 | 2024-01-06 22:16:26 |
 
-*Update Date: 2024-01-22T00:00:28*
+*Update Date: 2024-01-22T04:00:28*
