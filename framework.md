@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 78486 | 31366 | 2024-08-15 06:52:19 |
-| [fastapi](https://github.com/fastapi/fastapi) | 74609 | 6277 | 2024-08-14 22:57:35 |
-| [flask](https://github.com/pallets/flask) | 67312 | 16133 | 2024-08-06 15:31:00 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21644 | 5502 | 2024-07-26 13:51:43 |
+| [django](https://github.com/django/django) | 78487 | 31367 | 2024-08-15 06:52:19 |
+| [fastapi](https://github.com/fastapi/fastapi) | 74613 | 6277 | 2024-08-14 22:57:35 |
+| [flask](https://github.com/pallets/flask) | 67313 | 16133 | 2024-08-06 15:31:00 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21645 | 5503 | 2024-07-26 13:51:43 |
 | [sanic](https://github.com/sanic-org/sanic) | 17947 | 1535 | 2024-06-30 12:26:47 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 52044 | 10426 | 2024-08-01 07:29:11 |
+| [scrapy](https://github.com/scrapy/scrapy) | 52047 | 10428 | 2024-08-01 07:29:11 |
 | [pyspider](https://github.com/binux/pyspider) | 16444 | 3689 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11358 | 4179 | 2024-08-06 11:29:41 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11358 | 4178 | 2024-08-06 11:29:41 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,8 +24,8 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 11774 | 2619 | 2024-08-14 19:53:50 |
-| [nose2](https://github.com/nose-devs/nose2) | 786 | 134 | 2024-08-12 19:14:12 |
+| [pytest](https://github.com/pytest-dev/pytest) | 11776 | 2619 | 2024-08-14 19:53:50 |
+| [nose2](https://github.com/nose-devs/nose2) | 786 | 135 | 2024-08-12 19:14:12 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 17415 | 3046 | 2024-08-06 15:31:53 |
 | [flexx](https://github.com/flexxui/flexx) | 3242 | 258 | 2024-01-06 22:16:26 |
 
-*Update Date: 2024-08-15T08:00:31*
+*Update Date: 2024-08-15T12:00:30*
