@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 79273 | 31589 | 2024-09-20 10:03:35 |
-| [fastapi](https://github.com/fastapi/fastapi) | 75815 | 6398 | 2024-09-20 11:34:29 |
-| [flask](https://github.com/pallets/flask) | 67613 | 16152 | 2024-09-01 16:04:14 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21688 | 5499 | 2024-09-04 19:20:15 |
+| [django](https://github.com/django/django) | 79274 | 31590 | 2024-09-20 10:03:35 |
+| [fastapi](https://github.com/fastapi/fastapi) | 75817 | 6399 | 2024-09-20 11:34:29 |
+| [flask](https://github.com/pallets/flask) | 67616 | 16152 | 2024-09-01 16:04:14 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21689 | 5499 | 2024-09-04 19:20:15 |
 | [sanic](https://github.com/sanic-org/sanic) | 18017 | 1542 | 2024-06-30 12:26:47 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 52442 | 10479 | 2024-09-10 07:01:37 |
+| [scrapy](https://github.com/scrapy/scrapy) | 52444 | 10479 | 2024-09-10 07:01:37 |
 | [pyspider](https://github.com/binux/pyspider) | 16468 | 3689 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11377 | 4176 | 2024-08-19 05:05:28 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 11894 | 2650 | 2024-09-19 13:59:54 |
+| [pytest](https://github.com/pytest-dev/pytest) | 11895 | 2650 | 2024-09-19 13:59:54 |
 | [nose2](https://github.com/nose-devs/nose2) | 792 | 135 | 2024-09-10 12:57:20 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 17534 | 3059 | 2024-09-17 20:20:11 |
 | [flexx](https://github.com/flexxui/flexx) | 3250 | 258 | 2024-01-06 22:16:26 |
 
-*Update Date: 2024-09-21T04:00:31*
+*Update Date: 2024-09-21T08:00:30*
