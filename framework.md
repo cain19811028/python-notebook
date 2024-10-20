@@ -3,17 +3,17 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 79713 | 31732 | 2024-10-18 00:40:53 |
-| [fastapi](https://github.com/fastapi/fastapi) | 76703 | 6497 | 2024-10-18 12:13:10 |
-| [flask](https://github.com/pallets/flask) | 67883 | 16205 | 2024-10-18 20:04:35 |
+| [django](https://github.com/django/django) | 79718 | 31732 | 2024-10-18 00:40:53 |
+| [fastapi](https://github.com/fastapi/fastapi) | 76706 | 6497 | 2024-10-20 19:20:44 |
+| [flask](https://github.com/pallets/flask) | 67885 | 16205 | 2024-10-18 20:04:35 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21711 | 5503 | 2024-09-23 19:05:05 |
 | [sanic](https://github.com/sanic-org/sanic) | 18052 | 1549 | 2024-06-30 12:26:47 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 52815 | 10523 | 2024-10-17 19:08:11 |
-| [pyspider](https://github.com/binux/pyspider) | 16488 | 3690 | 2020-08-02 17:34:20 |
+| [scrapy](https://github.com/scrapy/scrapy) | 52820 | 10525 | 2024-10-17 19:08:11 |
+| [pyspider](https://github.com/binux/pyspider) | 16489 | 3690 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11409 | 4180 | 2024-10-09 15:38:56 |
 
 ## GraphQL Framework
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 12013 | 2666 | 2024-10-15 01:45:35 |
+| [pytest](https://github.com/pytest-dev/pytest) | 12013 | 2666 | 2024-10-20 18:52:28 |
 | [nose2](https://github.com/nose-devs/nose2) | 795 | 135 | 2024-09-10 12:57:20 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 17633 | 3065 | 2024-10-17 19:53:54 |
 | [flexx](https://github.com/flexxui/flexx) | 3254 | 257 | 2024-01-06 22:16:26 |
 
-*Update Date: 2024-10-20T16:00:29*
+*Update Date: 2024-10-20T20:00:29*
