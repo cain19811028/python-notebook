@@ -3,9 +3,9 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 80365 | 31775 | 2024-11-06 10:18:42 |
-| [fastapi](https://github.com/fastapi/fastapi) | 77260 | 6601 | 2024-11-01 11:25:57 |
-| [flask](https://github.com/pallets/flask) | 68014 | 16215 | 2024-11-01 23:26:37 |
+| [django](https://github.com/django/django) | 80395 | 31778 | 2024-11-06 13:39:18 |
+| [fastapi](https://github.com/fastapi/fastapi) | 77269 | 6601 | 2024-11-01 11:25:57 |
+| [flask](https://github.com/pallets/flask) | 68016 | 16214 | 2024-11-01 23:26:37 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21734 | 5507 | 2024-10-30 18:27:15 |
 | [sanic](https://github.com/sanic-org/sanic) | 18088 | 1551 | 2024-06-30 12:26:47 |
 
@@ -13,7 +13,7 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 53007 | 10544 | 2024-11-04 16:09:45 |
-| [pyspider](https://github.com/binux/pyspider) | 16491 | 3690 | 2020-08-02 17:34:20 |
+| [pyspider](https://github.com/binux/pyspider) | 16490 | 3690 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11425 | 4182 | 2024-10-25 17:37:09 |
 
 ## GraphQL Framework
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 12082 | 2676 | 2024-11-06 11:16:16 |
+| [pytest](https://github.com/pytest-dev/pytest) | 12086 | 2677 | 2024-11-06 11:16:16 |
 | [nose2](https://github.com/nose-devs/nose2) | 796 | 134 | 2024-09-10 12:57:20 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 17707 | 3075 | 2024-11-03 13:00:36 |
+| [kivy](https://github.com/kivy/kivy) | 17705 | 3075 | 2024-11-03 13:00:36 |
 | [flexx](https://github.com/flexxui/flexx) | 3261 | 257 | 2024-01-06 22:16:26 |
 
-*Update Date: 2024-11-06T12:00:30*
+*Update Date: 2024-11-06T16:00:30*
