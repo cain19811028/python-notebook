@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 81491 | 31952 | 2024-12-17 13:40:34 |
-| [fastapi](https://github.com/fastapi/fastapi) | 78696 | 6736 | 2024-12-17 21:49:28 |
-| [flask](https://github.com/pallets/flask) | 68344 | 16251 | 2024-11-24 01:54:29 |
+| [django](https://github.com/django/django) | 81492 | 31953 | 2024-12-18 11:50:48 |
+| [fastapi](https://github.com/fastapi/fastapi) | 78703 | 6736 | 2024-12-17 21:49:28 |
+| [flask](https://github.com/pallets/flask) | 68347 | 16251 | 2024-11-24 01:54:29 |
 | [tornado](https://github.com/tornadoweb/tornado) | 21790 | 5514 | 2024-12-05 21:34:29 |
 | [sanic](https://github.com/sanic-org/sanic) | 18154 | 1558 | 2024-12-16 16:38:52 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 53500 | 10596 | 2024-12-18 06:50:44 |
+| [scrapy](https://github.com/scrapy/scrapy) | 53501 | 10596 | 2024-12-18 06:50:44 |
 | [pyspider](https://github.com/binux/pyspider) | 16514 | 3689 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11458 | 4180 | 2024-12-11 08:36:20 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 12223 | 2710 | 2024-12-17 06:04:38 |
+| [pytest](https://github.com/pytest-dev/pytest) | 12223 | 2710 | 2024-12-18 11:09:33 |
 | [nose2](https://github.com/nose-devs/nose2) | 795 | 132 | 2024-12-16 02:14:56 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 17834 | 3079 | 2024-12-12 21:33:40 |
+| [kivy](https://github.com/kivy/kivy) | 17835 | 3079 | 2024-12-12 21:33:40 |
 | [flexx](https://github.com/flexxui/flexx) | 3282 | 260 | 2024-01-06 22:16:26 |
 
-*Update Date: 2024-12-18T08:00:30*
+*Update Date: 2024-12-18T12:00:31*
