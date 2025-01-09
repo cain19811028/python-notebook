@@ -3,10 +3,10 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 81769 | 32035 | 2025-01-09 07:18:29 |
-| [fastapi](https://github.com/fastapi/fastapi) | 79348 | 6795 | 2025-01-08 19:29:11 |
-| [flask](https://github.com/pallets/flask) | 68522 | 16248 | 2025-01-05 17:10:00 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21806 | 5520 | 2025-01-06 14:51:06 |
+| [django](https://github.com/django/django) | 81770 | 32036 | 2025-01-09 07:18:29 |
+| [fastapi](https://github.com/fastapi/fastapi) | 79354 | 6796 | 2025-01-08 19:29:11 |
+| [flask](https://github.com/pallets/flask) | 68525 | 16248 | 2025-01-05 17:10:00 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21807 | 5520 | 2025-01-06 14:51:06 |
 | [sanic](https://github.com/sanic-org/sanic) | 18191 | 1559 | 2025-01-02 10:26:42 |
 
 ## Crawler Framework
@@ -14,7 +14,7 @@
 | ------------ | ----- | ----- | ----------- |
 | [scrapy](https://github.com/scrapy/scrapy) | 53733 | 10612 | 2025-01-08 16:28:51 |
 | [pyspider](https://github.com/binux/pyspider) | 16527 | 3684 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11469 | 4177 | 2024-12-31 18:10:32 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11470 | 4177 | 2024-12-31 18:10:32 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 12307 | 2723 | 2025-01-08 23:41:18 |
+| [pytest](https://github.com/pytest-dev/pytest) | 12309 | 2723 | 2025-01-08 23:41:18 |
 | [nose2](https://github.com/nose-devs/nose2) | 796 | 132 | 2024-12-23 22:04:25 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 17907 | 3082 | 2025-01-01 17:09:45 |
 | [flexx](https://github.com/flexxui/flexx) | 3301 | 261 | 2024-01-06 22:16:26 |
 
-*Update Date: 2025-01-09T12:00:30*
+*Update Date: 2025-01-09T16:00:30*
