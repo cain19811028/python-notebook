@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [django](https://github.com/django/django) | 82896 | 32420 | 2025-03-26 20:59:32 |
-| [fastapi](https://github.com/fastapi/fastapi) | 82550 | 7136 | 2025-03-26 14:39:00 |
-| [flask](https://github.com/pallets/flask) | 69180 | 16347 | 2025-01-05 17:10:00 |
-| [tornado](https://github.com/tornadoweb/tornado) | 21866 | 5528 | 2025-03-26 20:00:34 |
+| [django](https://github.com/django/django) | 82899 | 32420 | 2025-03-27 11:57:03 |
+| [fastapi](https://github.com/fastapi/fastapi) | 82560 | 7136 | 2025-03-26 14:39:00 |
+| [flask](https://github.com/pallets/flask) | 69183 | 16349 | 2025-01-05 17:10:00 |
+| [tornado](https://github.com/tornadoweb/tornado) | 21867 | 5528 | 2025-03-26 20:00:34 |
 | [sanic](https://github.com/sanic-org/sanic) | 18293 | 1562 | 2025-03-05 13:36:14 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 54667 | 10716 | 2025-03-24 08:26:25 |
-| [pyspider](https://github.com/binux/pyspider) | 16554 | 3685 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11529 | 4174 | 2025-02-13 14:51:12 |
+| [scrapy](https://github.com/scrapy/scrapy) | 54669 | 10714 | 2025-03-24 08:26:25 |
+| [pyspider](https://github.com/binux/pyspider) | 16555 | 3685 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11528 | 4174 | 2025-02-13 14:51:12 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 18132 | 3093 | 2025-03-13 06:47:19 |
+| [kivy](https://github.com/kivy/kivy) | 18134 | 3093 | 2025-03-13 06:47:19 |
 | [flexx](https://github.com/flexxui/flexx) | 3321 | 263 | 2024-01-06 22:16:26 |
 
-*Update Date: 2025-03-27T08:00:30*
+*Update Date: 2025-03-27T12:00:31*
