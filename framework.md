@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 89673 | 7903 | 2025-09-21 14:11:44 |
-| [django](https://github.com/django/django) | 85057 | 32977 | 2025-09-19 19:54:19 |
-| [flask](https://github.com/pallets/flask) | 70388 | 16538 | 2025-09-19 23:45:27 |
+| [fastapi](https://github.com/fastapi/fastapi) | 89677 | 7905 | 2025-09-21 14:11:44 |
+| [django](https://github.com/django/django) | 85062 | 32980 | 2025-09-19 19:54:19 |
+| [flask](https://github.com/pallets/flask) | 70389 | 16540 | 2025-09-19 23:45:27 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22209 | 5535 | 2025-09-17 17:43:47 |
 | [sanic](https://github.com/sanic-org/sanic) | 18491 | 1577 | 2025-03-31 21:19:26 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 58293 | 11053 | 2025-09-15 09:24:09 |
+| [scrapy](https://github.com/scrapy/scrapy) | 58296 | 11053 | 2025-09-15 09:24:09 |
 | [pyspider](https://github.com/binux/pyspider) | 16827 | 3682 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11628 | 4164 | 2025-07-04 13:08:16 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13093 | 2869 | 2025-09-21 04:54:55 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13093 | 2870 | 2025-09-21 17:56:32 |
 | [nose2](https://github.com/nose-devs/nose2) | 809 | 131 | 2025-05-15 15:50:38 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 18630 | 3142 | 2025-09-20 09:56:53 |
+| [kivy](https://github.com/kivy/kivy) | 18631 | 3142 | 2025-09-20 09:56:53 |
 | [flexx](https://github.com/flexxui/flexx) | 3339 | 259 | 2024-01-06 22:16:26 |
 
-*Update Date: 2025-09-21T16:00:31*
+*Update Date: 2025-09-21T20:00:30*
