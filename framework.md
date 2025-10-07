@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 90432 | 8004 | 2025-10-06 19:08:44 |
-| [django](https://github.com/django/django) | 85338 | 33061 | 2025-10-03 21:12:57 |
-| [flask](https://github.com/pallets/flask) | 70501 | 16551 | 2025-09-19 23:45:27 |
-| [tornado](https://github.com/tornadoweb/tornado) | 22275 | 5535 | 2025-09-17 17:43:47 |
+| [fastapi](https://github.com/fastapi/fastapi) | 90436 | 8006 | 2025-10-06 19:08:44 |
+| [django](https://github.com/django/django) | 85339 | 33060 | 2025-10-03 21:12:57 |
+| [flask](https://github.com/pallets/flask) | 70503 | 16551 | 2025-09-19 23:45:27 |
+| [tornado](https://github.com/tornadoweb/tornado) | 22276 | 5535 | 2025-09-17 17:43:47 |
 | [sanic](https://github.com/sanic-org/sanic) | 18504 | 1577 | 2025-03-31 21:19:26 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 58476 | 11087 | 2025-10-06 09:43:36 |
+| [scrapy](https://github.com/scrapy/scrapy) | 58484 | 11089 | 2025-10-06 09:43:36 |
 | [pyspider](https://github.com/binux/pyspider) | 16908 | 3682 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11642 | 4164 | 2025-07-04 13:08:16 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13137 | 2882 | 2025-10-06 22:30:28 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13139 | 2882 | 2025-10-06 22:30:28 |
 | [nose2](https://github.com/nose-devs/nose2) | 810 | 131 | 2025-05-15 15:50:38 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 18652 | 3142 | 2025-10-03 19:17:34 |
 | [flexx](https://github.com/flexxui/flexx) | 3338 | 259 | 2024-01-06 22:16:26 |
 
-*Update Date: 2025-10-07T00:00:31*
+*Update Date: 2025-10-07T04:00:31*
