@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 91834 | 8215 | 2025-11-12 15:23:24 |
-| [django](https://github.com/django/django) | 85763 | 33214 | 2025-11-12 02:30:00 |
-| [flask](https://github.com/pallets/flask) | 70766 | 16620 | 2025-10-14 20:26:26 |
+| [fastapi](https://github.com/fastapi/fastapi) | 91841 | 8216 | 2025-11-12 16:24:24 |
+| [django](https://github.com/django/django) | 85765 | 33214 | 2025-11-12 02:30:00 |
+| [flask](https://github.com/pallets/flask) | 70767 | 16619 | 2025-10-14 20:26:26 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22342 | 5544 | 2025-09-17 17:43:47 |
-| [sanic](https://github.com/sanic-org/sanic) | 18555 | 1583 | 2025-03-31 21:19:26 |
+| [sanic](https://github.com/sanic-org/sanic) | 18556 | 1583 | 2025-03-31 21:19:26 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 58933 | 11145 | 2025-10-27 14:42:43 |
+| [scrapy](https://github.com/scrapy/scrapy) | 58934 | 11146 | 2025-10-27 14:42:43 |
 | [pyspider](https://github.com/binux/pyspider) | 16963 | 3685 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11661 | 4167 | 2025-07-04 13:08:16 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13268 | 2938 | 2025-11-12 13:44:40 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13269 | 2938 | 2025-11-12 13:44:40 |
 | [nose2](https://github.com/nose-devs/nose2) | 812 | 132 | 2025-05-15 15:50:38 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 18729 | 3160 | 2025-11-12 12:59:43 |
 | [flexx](https://github.com/flexxui/flexx) | 3341 | 261 | 2024-01-06 22:16:26 |
 
-*Update Date: 2025-11-12T16:00:35*
+*Update Date: 2025-11-12T20:00:33*
