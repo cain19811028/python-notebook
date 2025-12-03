@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 92571 | 8308 | 2025-12-02 21:06:25 |
-| [django](https://github.com/django/django) | 86010 | 33278 | 2025-12-02 20:39:21 |
-| [flask](https://github.com/pallets/flask) | 70864 | 16644 | 2025-11-17 18:05:51 |
-| [tornado](https://github.com/tornadoweb/tornado) | 22376 | 5545 | 2025-11-21 18:59:46 |
-| [sanic](https://github.com/sanic-org/sanic) | 18588 | 1584 | 2025-11-30 10:39:23 |
+| [fastapi](https://github.com/fastapi/fastapi) | 92579 | 8310 | 2025-12-02 21:06:25 |
+| [django](https://github.com/django/django) | 86013 | 33277 | 2025-12-02 20:39:21 |
+| [flask](https://github.com/pallets/flask) | 70864 | 16645 | 2025-11-17 18:05:51 |
+| [tornado](https://github.com/tornadoweb/tornado) | 22376 | 5544 | 2025-11-21 18:59:46 |
+| [sanic](https://github.com/sanic-org/sanic) | 18589 | 1584 | 2025-11-30 10:39:23 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 59117 | 11172 | 2025-11-30 20:26:17 |
+| [scrapy](https://github.com/scrapy/scrapy) | 59116 | 11171 | 2025-11-30 20:26:17 |
 | [pyspider](https://github.com/binux/pyspider) | 16994 | 3683 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11665 | 4163 | 2025-07-04 13:08:16 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11666 | 4163 | 2025-07-04 13:08:16 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -31,6 +31,6 @@
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
 | [kivy](https://github.com/kivy/kivy) | 18765 | 3158 | 2025-11-25 12:09:30 |
-| [flexx](https://github.com/flexxui/flexx) | 3339 | 261 | 2024-01-06 22:16:26 |
+| [flexx](https://github.com/flexxui/flexx) | 3340 | 261 | 2024-01-06 22:16:26 |
 
-*Update Date: 2025-12-03T04:00:31*
+*Update Date: 2025-12-03T08:00:32*
