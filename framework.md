@@ -3,11 +3,11 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 93749 | 8474 | 2026-01-02 06:47:25 |
-| [django](https://github.com/django/django) | 86370 | 33436 | 2026-01-05 20:45:27 |
-| [flask](https://github.com/pallets/flask) | 71012 | 16664 | 2025-11-17 18:05:51 |
+| [fastapi](https://github.com/fastapi/fastapi) | 93752 | 8474 | 2026-01-02 06:47:25 |
+| [django](https://github.com/django/django) | 86373 | 33436 | 2026-01-05 20:45:27 |
+| [flask](https://github.com/pallets/flask) | 71013 | 16664 | 2025-11-17 18:05:51 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22413 | 5545 | 2025-12-17 18:38:43 |
-| [sanic](https://github.com/sanic-org/sanic) | 18608 | 1585 | 2025-12-31 19:05:34 |
+| [sanic](https://github.com/sanic-org/sanic) | 18609 | 1585 | 2025-12-31 19:05:34 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13426 | 2986 | 2026-01-05 06:19:57 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13425 | 2986 | 2026-01-05 06:19:57 |
 | [nose2](https://github.com/nose-devs/nose2) | 820 | 133 | 2025-05-15 15:50:38 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 18810 | 3161 | 2026-01-05 12:32:37 |
 | [flexx](https://github.com/flexxui/flexx) | 3341 | 261 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-01-06T00:00:32*
+*Update Date: 2026-01-06T04:00:30*
