@@ -3,18 +3,18 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 95066 | 8681 | 2026-02-12 19:58:08 |
-| [django](https://github.com/django/django) | 86750 | 33636 | 2026-02-12 20:31:15 |
-| [flask](https://github.com/pallets/flask) | 71150 | 16709 | 2026-02-12 21:11:01 |
-| [tornado](https://github.com/tornadoweb/tornado) | 22445 | 5547 | 2026-01-23 01:16:18 |
+| [fastapi](https://github.com/fastapi/fastapi) | 95070 | 8682 | 2026-02-13 07:05:05 |
+| [django](https://github.com/django/django) | 86752 | 33637 | 2026-02-12 20:31:15 |
+| [flask](https://github.com/pallets/flask) | 71149 | 16709 | 2026-02-12 21:11:01 |
+| [tornado](https://github.com/tornadoweb/tornado) | 22445 | 5546 | 2026-01-23 01:16:18 |
 | [sanic](https://github.com/sanic-org/sanic) | 18639 | 1585 | 2025-12-31 19:05:34 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 59711 | 11237 | 2026-02-12 08:30:44 |
-| [pyspider](https://github.com/binux/pyspider) | 17045 | 3664 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11700 | 4158 | 2025-07-04 13:08:16 |
+| [scrapy](https://github.com/scrapy/scrapy) | 59714 | 11237 | 2026-02-12 08:30:44 |
+| [pyspider](https://github.com/binux/pyspider) | 17046 | 3664 | 2020-08-02 17:34:20 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11699 | 4158 | 2025-07-04 13:08:16 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 18849 | 3164 | 2026-02-12 21:34:26 |
+| [kivy](https://github.com/kivy/kivy) | 18850 | 3164 | 2026-02-12 21:34:26 |
 | [flexx](https://github.com/flexxui/flexx) | 3346 | 258 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-02-13T04:00:31*
+*Update Date: 2026-02-13T08:00:31*
