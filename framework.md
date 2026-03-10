@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 96114 | 8809 | 2026-03-07 09:29:24 |
-| [django](https://github.com/django/django) | 87077 | 33728 | 2026-03-09 20:45:50 |
-| [flask](https://github.com/pallets/flask) | 71406 | 16741 | 2026-03-08 23:21:50 |
+| [fastapi](https://github.com/fastapi/fastapi) | 96118 | 8811 | 2026-03-07 09:29:24 |
+| [django](https://github.com/django/django) | 87081 | 33730 | 2026-03-10 15:32:39 |
+| [flask](https://github.com/pallets/flask) | 71407 | 16741 | 2026-03-08 23:21:50 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22406 | 5545 | 2026-01-23 01:16:18 |
 | [sanic](https://github.com/sanic-org/sanic) | 18641 | 1586 | 2025-12-31 19:05:34 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 60750 | 11351 | 2026-03-02 10:47:23 |
+| [scrapy](https://github.com/scrapy/scrapy) | 60754 | 11351 | 2026-03-02 10:47:23 |
 | [pyspider](https://github.com/binux/pyspider) | 17002 | 3661 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11703 | 4158 | 2025-07-04 13:08:16 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13765 | 3049 | 2026-03-09 06:17:51 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13766 | 3050 | 2026-03-09 06:17:51 |
 | [nose2](https://github.com/nose-devs/nose2) | 822 | 134 | 2026-03-09 17:37:19 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 18888 | 3164 | 2026-03-09 19:58:38 |
+| [kivy](https://github.com/kivy/kivy) | 18889 | 3164 | 2026-03-09 19:58:38 |
 | [flexx](https://github.com/flexxui/flexx) | 3343 | 259 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-03-10T12:00:31*
+*Update Date: 2026-03-10T16:01:42*
