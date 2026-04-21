@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 97444 | 9107 | 2026-04-20 21:41:14 |
-| [django](https://github.com/django/django) | 87294 | 33812 | 2026-04-20 20:49:26 |
-| [flask](https://github.com/pallets/flask) | 71429 | 16791 | 2026-04-09 04:04:03 |
-| [tornado](https://github.com/tornadoweb/tornado) | 22259 | 5542 | 2026-03-31 00:51:33 |
-| [sanic](https://github.com/sanic-org/sanic) | 18636 | 1588 | 2025-12-31 19:05:34 |
+| [fastapi](https://github.com/fastapi/fastapi) | 97453 | 9105 | 2026-04-20 21:41:14 |
+| [django](https://github.com/django/django) | 87295 | 33813 | 2026-04-20 20:49:26 |
+| [flask](https://github.com/pallets/flask) | 71428 | 16792 | 2026-04-09 04:04:03 |
+| [tornado](https://github.com/tornadoweb/tornado) | 22260 | 5542 | 2026-03-31 00:51:33 |
+| [sanic](https://github.com/sanic-org/sanic) | 18635 | 1588 | 2025-12-31 19:05:34 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 61384 | 11482 | 2026-04-14 15:04:38 |
+| [scrapy](https://github.com/scrapy/scrapy) | 61388 | 11482 | 2026-04-14 15:04:38 |
 | [pyspider](https://github.com/binux/pyspider) | 16876 | 3646 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11690 | 4142 | 2025-07-04 13:08:16 |
 
@@ -24,13 +24,13 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13784 | 3099 | 2026-04-20 21:31:45 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13785 | 3098 | 2026-04-20 21:31:45 |
 | [nose2](https://github.com/nose-devs/nose2) | 824 | 134 | 2026-04-06 19:44:27 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 18910 | 3146 | 2026-04-07 20:51:10 |
+| [kivy](https://github.com/kivy/kivy) | 18912 | 3146 | 2026-04-07 20:51:10 |
 | [flexx](https://github.com/flexxui/flexx) | 3340 | 258 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-04-21T00:00:31*
+*Update Date: 2026-04-21T04:00:31*
