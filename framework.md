@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 99080 | 9414 | 2026-06-09 22:07:36 |
-| [django](https://github.com/django/django) | 87823 | 33852 | 2026-06-10 14:17:34 |
-| [flask](https://github.com/pallets/flask) | 71639 | 16874 | 2026-05-31 14:42:46 |
+| [fastapi](https://github.com/fastapi/fastapi) | 99082 | 9415 | 2026-06-10 23:14:26 |
+| [django](https://github.com/django/django) | 87824 | 33853 | 2026-06-10 23:14:18 |
+| [flask](https://github.com/pallets/flask) | 71639 | 16875 | 2026-05-31 14:42:46 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22182 | 5534 | 2026-06-08 18:22:37 |
-| [sanic](https://github.com/sanic-org/sanic) | 18629 | 1591 | 2026-05-31 19:29:09 |
+| [sanic](https://github.com/sanic-org/sanic) | 18630 | 1591 | 2026-05-31 19:29:09 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 62187 | 11632 | 2026-06-10 19:59:03 |
+| [scrapy](https://github.com/scrapy/scrapy) | 62190 | 11633 | 2026-06-10 19:59:03 |
 | [pyspider](https://github.com/binux/pyspider) | 16812 | 3630 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11679 | 4128 | 2025-07-04 13:08:16 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 13914 | 3164 | 2026-06-09 15:13:58 |
+| [pytest](https://github.com/pytest-dev/pytest) | 13913 | 3163 | 2026-06-09 15:13:58 |
 | [nose2](https://github.com/nose-devs/nose2) | 825 | 134 | 2026-05-25 20:19:35 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 18955 | 3138 | 2026-06-03 20:35:15 |
 | [flexx](https://github.com/flexxui/flexx) | 3335 | 257 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-06-10T20:00:32*
+*Update Date: 2026-06-11T00:00:32*
