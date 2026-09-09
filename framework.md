@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 102212 | 9870 | 2026-09-01 20:59:53 |
-| [django](https://github.com/django/django) | 90385 | 34245 | 2026-09-08 19:01:02 |
-| [flask](https://github.com/pallets/flask) | 73575 | 16978 | 2026-09-08 16:40:41 |
-| [tornado](https://github.com/tornadoweb/tornado) | 22177 | 5555 | 2026-08-07 15:34:25 |
+| [fastapi](https://github.com/fastapi/fastapi) | 102209 | 9872 | 2026-09-01 20:59:53 |
+| [django](https://github.com/django/django) | 90349 | 34244 | 2026-09-08 19:01:02 |
+| [flask](https://github.com/pallets/flask) | 73554 | 16976 | 2026-09-08 16:40:41 |
+| [tornado](https://github.com/tornadoweb/tornado) | 22177 | 5556 | 2026-08-07 15:34:25 |
 | [sanic](https://github.com/sanic-org/sanic) | 18640 | 1598 | 2026-05-31 19:29:09 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 64261 | 11943 | 2026-09-09 09:53:05 |
+| [scrapy](https://github.com/scrapy/scrapy) | 64264 | 11943 | 2026-09-09 09:53:05 |
 | [pyspider](https://github.com/binux/pyspider) | 16766 | 3622 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11678 | 4102 | 2025-07-04 13:08:16 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 14490 | 3353 | 2026-09-08 09:13:43 |
+| [pytest](https://github.com/pytest-dev/pytest) | 14491 | 3354 | 2026-09-08 09:13:43 |
 | [nose2](https://github.com/nose-devs/nose2) | 827 | 138 | 2026-07-28 16:00:28 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 19015 | 3136 | 2026-09-02 16:32:46 |
 | [flexx](https://github.com/flexxui/flexx) | 3329 | 254 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-09-09T16:00:34*
+*Update Date: 2026-09-09T20:00:33*
