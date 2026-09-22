@@ -3,34 +3,34 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 102520 | 9928 | 2026-09-01 20:59:53 |
-| [django](https://github.com/django/django) | 91152 | 35001 | 2026-09-20 17:41:55 |
-| [flask](https://github.com/pallets/flask) | 74761 | 16994 | 2026-09-08 16:40:41 |
+| [fastapi](https://github.com/fastapi/fastapi) | 102528 | 9930 | 2026-09-01 20:59:53 |
+| [django](https://github.com/django/django) | 91157 | 35000 | 2026-09-20 17:41:55 |
+| [flask](https://github.com/pallets/flask) | 74765 | 16995 | 2026-09-08 16:40:41 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22179 | 5559 | 2026-09-22 03:00:56 |
 | [sanic](https://github.com/sanic-org/sanic) | 18637 | 1601 | 2026-05-31 19:29:09 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 64439 | 11970 | 2026-09-22 07:50:05 |
+| [scrapy](https://github.com/scrapy/scrapy) | 64439 | 11970 | 2026-09-22 10:33:25 |
 | [pyspider](https://github.com/binux/pyspider) | 16766 | 3623 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11674 | 4100 | 2025-07-04 13:08:16 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [graphene](https://github.com/graphql-python/graphene) | 8238 | 818 | 2024-11-09 20:43:17 |
+| [graphene](https://github.com/graphql-python/graphene) | 8238 | 819 | 2024-11-09 20:43:17 |
 
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 14520 | 3398 | 2026-09-21 13:25:49 |
+| [pytest](https://github.com/pytest-dev/pytest) | 14520 | 3399 | 2026-09-21 13:25:49 |
 | [nose2](https://github.com/nose-devs/nose2) | 827 | 138 | 2026-07-28 16:00:28 |
 
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 19020 | 3139 | 2026-09-22 07:31:00 |
+| [kivy](https://github.com/kivy/kivy) | 19021 | 3139 | 2026-09-22 07:31:00 |
 | [flexx](https://github.com/flexxui/flexx) | 3328 | 254 | 2024-01-06 22:16:26 |
 
-*Update Date: 2026-09-22T08:00:30*
+*Update Date: 2026-09-22T12:00:30*
