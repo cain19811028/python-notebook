@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 102867 | 10003 | 2026-10-07 21:18:13 |
-| [django](https://github.com/django/django) | 91353 | 36478 | 2026-10-07 16:48:52 |
-| [flask](https://github.com/pallets/flask) | 74933 | 17060 | 2026-10-07 14:02:54 |
+| [fastapi](https://github.com/fastapi/fastapi) | 102868 | 10003 | 2026-10-07 21:18:13 |
+| [django](https://github.com/django/django) | 91355 | 36478 | 2026-10-07 16:48:52 |
+| [flask](https://github.com/pallets/flask) | 74934 | 17060 | 2026-10-07 14:02:54 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22166 | 5566 | 2026-10-07 21:08:15 |
 | [sanic](https://github.com/sanic-org/sanic) | 18638 | 1608 | 2026-05-31 19:29:09 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 64645 | 11989 | 2026-10-07 17:45:50 |
+| [scrapy](https://github.com/scrapy/scrapy) | 64653 | 11989 | 2026-10-07 17:45:50 |
 | [pyspider](https://github.com/binux/pyspider) | 16756 | 3619 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11672 | 4091 | 2025-07-04 13:08:16 |
 
@@ -30,7 +30,7 @@
 ## GUI Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [kivy](https://github.com/kivy/kivy) | 19028 | 3140 | 2026-10-05 10:55:48 |
-| [flexx](https://github.com/flexxui/flexx) | 3329 | 254 | 2026-09-28 07:53:03 |
+| [kivy](https://github.com/kivy/kivy) | 19029 | 3140 | 2026-10-05 10:55:48 |
+| [flexx](https://github.com/flexxui/flexx) | 3328 | 254 | 2026-09-28 07:53:03 |
 
-*Update Date: 2026-10-08T04:00:20*
+*Update Date: 2026-10-08T08:00:21*
