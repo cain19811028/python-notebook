@@ -3,8 +3,8 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 103266 | 10062 | 2026-10-19 22:36:21 |
-| [django](https://github.com/django/django) | 91535 | 37625 | 2026-10-19 09:45:18 |
+| [fastapi](https://github.com/fastapi/fastapi) | 103268 | 10064 | 2026-10-20 07:58:35 |
+| [django](https://github.com/django/django) | 91522 | 37621 | 2026-10-20 06:59:06 |
 | [flask](https://github.com/pallets/flask) | 74966 | 17109 | 2026-10-07 14:02:54 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22166 | 5583 | 2026-10-19 17:44:00 |
 | [sanic](https://github.com/sanic-org/sanic) | 18640 | 1612 | 2026-05-31 19:29:09 |
@@ -12,9 +12,9 @@
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 64907 | 12022 | 2026-10-19 18:13:28 |
+| [scrapy](https://github.com/scrapy/scrapy) | 64911 | 12022 | 2026-10-19 18:13:28 |
 | [pyspider](https://github.com/binux/pyspider) | 16755 | 3618 | 2020-08-02 17:34:20 |
-| [webmagic](https://github.com/code4craft/webmagic) | 11672 | 4089 | 2025-07-04 13:08:16 |
+| [webmagic](https://github.com/code4craft/webmagic) | 11672 | 4088 | 2025-07-04 13:08:16 |
 
 ## GraphQL Framework
 | Project Name | Stars | Forks | Last Commit |
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 14612 | 3522 | 2026-10-19 05:43:14 |
+| [pytest](https://github.com/pytest-dev/pytest) | 14612 | 3522 | 2026-10-20 06:05:09 |
 | [nose2](https://github.com/nose-devs/nose2) | 828 | 139 | 2026-09-28 21:16:40 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 19028 | 3140 | 2026-10-19 08:45:45 |
 | [flexx](https://github.com/flexxui/flexx) | 3327 | 254 | 2026-09-28 07:53:03 |
 
-*Update Date: 2026-10-20T04:00:21*
+*Update Date: 2026-10-20T08:00:21*
