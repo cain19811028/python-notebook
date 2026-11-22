@@ -3,16 +3,16 @@
 ## Web Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [fastapi](https://github.com/fastapi/fastapi) | 104953 | 10364 | 2026-11-18 19:13:45 |
-| [django](https://github.com/django/django) | 91871 | 35115 | 2026-11-21 16:52:55 |
-| [flask](https://github.com/pallets/flask) | 75281 | 17281 | 2026-10-30 15:05:20 |
+| [fastapi](https://github.com/fastapi/fastapi) | 104975 | 10363 | 2026-11-18 19:13:45 |
+| [django](https://github.com/django/django) | 91888 | 35115 | 2026-11-21 16:52:55 |
+| [flask](https://github.com/pallets/flask) | 75307 | 17282 | 2026-10-30 15:05:20 |
 | [tornado](https://github.com/tornadoweb/tornado) | 22171 | 5615 | 2026-11-21 03:23:15 |
-| [sanic](https://github.com/sanic-org/sanic) | 18637 | 1619 | 2026-05-31 19:29:09 |
+| [sanic](https://github.com/sanic-org/sanic) | 18639 | 1618 | 2026-05-31 19:29:09 |
 
 ## Crawler Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [scrapy](https://github.com/scrapy/scrapy) | 65526 | 12149 | 2026-11-19 11:03:58 |
+| [scrapy](https://github.com/scrapy/scrapy) | 65529 | 12148 | 2026-11-19 11:03:58 |
 | [pyspider](https://github.com/binux/pyspider) | 16744 | 3608 | 2020-08-02 17:34:20 |
 | [webmagic](https://github.com/code4craft/webmagic) | 11660 | 4080 | 2025-07-04 13:08:16 |
 
@@ -24,7 +24,7 @@
 ## Testing Framework
 | Project Name | Stars | Forks | Last Commit |
 | ------------ | ----- | ----- | ----------- |
-| [pytest](https://github.com/pytest-dev/pytest) | 14729 | 3760 | 2026-11-21 11:29:09 |
+| [pytest](https://github.com/pytest-dev/pytest) | 14734 | 3758 | 2026-11-21 11:29:09 |
 | [nose2](https://github.com/nose-devs/nose2) | 830 | 140 | 2026-11-11 21:27:52 |
 
 ## GUI Framework
@@ -33,4 +33,4 @@
 | [kivy](https://github.com/kivy/kivy) | 19030 | 3143 | 2026-11-21 19:19:07 |
 | [flexx](https://github.com/flexxui/flexx) | 3324 | 255 | 2026-09-28 07:53:03 |
 
-*Update Date: 2026-11-22T04:00:21*
+*Update Date: 2026-11-22T08:00:21*
